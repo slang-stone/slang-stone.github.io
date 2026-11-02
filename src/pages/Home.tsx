@@ -8,6 +8,7 @@ import { go, href } from '../lib/router';
 import { dailyStreak, levelOf, useMode, useProgress } from '../lib/store';
 import { GAMES } from './games/registry';
 import { NAV } from '../lib/nav';
+import { RosettaSection } from '../components/Rosetta';
 
 const QUIPS = ['Bro, what does that even mean?', 'Translate this before your aura hits zero.', 'Certified no-cap translation.', 'Now fluent in yap.'];
 
@@ -65,6 +66,8 @@ export default function Home() {
         <div className="muted">“That was really impressive, and you did an excellent job.”</div>
         <div style={{ fontSize: '1.3rem', fontWeight: 600, marginTop: 6 }}>→ <Segments segments={demo.segments} /></div>
       </div>
+
+      <RosettaSection />
 
       <div className="grid three">
         <div className="card pop">
