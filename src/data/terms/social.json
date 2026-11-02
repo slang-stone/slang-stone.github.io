@@ -1,0 +1,4563 @@
+[
+  {
+    "id": "situationship",
+    "term": "situationship",
+    "variants": [
+      "situationships"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A romantic or intimate connection that has no clear label or commitment.",
+    "meanings": [],
+    "plain": "undefined romantic relationship",
+    "example": "We've been in a situationship since summer and nobody's said the word 'dating'.",
+    "exampleTranslation": "We've been in an undefined romantic relationship since summer and nobody's said the word 'dating'.",
+    "tone": "mixed",
+    "context": "Often said with a hint of frustration or confusion. Usually about two people who act like a couple without agreeing to be one.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "popular online since roughly the late 2010s",
+    "related": [
+      "dtr",
+      "talking-stage",
+      "breadcrumbing"
+    ],
+    "synonyms": [
+      "talking stage"
+    ],
+    "opposites": [
+      "dtr"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Romantic/dating context; can involve emotionally murky or unequal relationships.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/situationship"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "red-flag",
+    "term": "red flag",
+    "variants": [
+      "red flags"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A warning sign that a person or situation may be unhealthy or a bad idea.",
+    "meanings": [],
+    "plain": "warning sign",
+    "example": "He ignored every text for a week and then asked for money. Giant red flag.",
+    "exampleTranslation": "He ignored every text for a week and then asked for money. A big warning sign.",
+    "tone": "negative",
+    "context": "Used for relationships, friends, jobs, or any situation. The phrase comes from real warning flags, so it is widely understood.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "dating",
+      "emotions"
+    ],
+    "era": "long-established phrase; heavy use in dating talk online since the 2010s",
+    "related": [
+      "green-flag",
+      "beige-flag"
+    ],
+    "synonyms": [
+      "warning sign"
+    ],
+    "opposites": [
+      "green-flag"
+    ],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/red%20flag"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "green-flag",
+    "term": "green flag",
+    "variants": [
+      "green flags"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A positive sign that someone is kind, healthy, and trustworthy.",
+    "meanings": [],
+    "plain": "good sign",
+    "example": "She remembered my little sister's name. Total green flag.",
+    "exampleTranslation": "She remembered my little sister's name. A really good sign.",
+    "tone": "positive",
+    "context": "The opposite of a red flag. Common in dating and friendship talk.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "friendship"
+    ],
+    "related": [
+      "red-flag",
+      "beige-flag"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "red-flag"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=green%20flag"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "beige-flag",
+    "term": "beige flag",
+    "variants": [
+      "beige flags"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A harmless but odd or quirky trait that is neither good nor bad.",
+    "meanings": [],
+    "plain": "harmless quirk",
+    "example": "He eats pizza with a fork. Beige flag, honestly.",
+    "exampleTranslation": "He eats pizza with a fork. A harmless quirk, honestly.",
+    "tone": "playful",
+    "context": "Lighthearted; used to tease about someone's peculiar habits. Not a real warning.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "friendship"
+    ],
+    "related": [
+      "red-flag",
+      "green-flag"
+    ],
+    "synonyms": [
+      "quirk"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=beige%20flag"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "soft-launch",
+    "term": "soft launch",
+    "variants": [
+      "soft launching",
+      "soft-launch"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To hint at a new partner or big news on social media without showing it fully, such as posting a hand or a shadow.",
+    "meanings": [],
+    "plain": "hint at",
+    "example": "She soft launched her boyfriend with a photo of two coffee cups.",
+    "exampleTranslation": "She hinted at her boyfriend with a photo of two coffee cups.",
+    "tone": "playful",
+    "context": "Borrowed from the business idea of a limited product release. Mostly about relationships but used for any reveal.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "social-media"
+    ],
+    "era": "popular roughly since the late 2010s",
+    "related": [
+      "hard-launch"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "hard-launch"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=soft%20launch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "hard-launch",
+    "term": "hard launch",
+    "variants": [
+      "hard launching",
+      "hard-launch"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To openly announce a relationship or big news on social media, with a clear photo and often a caption.",
+    "meanings": [],
+    "plain": "publicly announce",
+    "example": "After two months of hints, he finally hard launched his girlfriend.",
+    "exampleTranslation": "After two months of hints, he finally publicly announced his girlfriend.",
+    "tone": "playful",
+    "context": "The follow-up to a soft launch.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "social-media"
+    ],
+    "related": [
+      "soft-launch"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "soft-launch"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hard%20launch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ghosting",
+    "term": "ghosting",
+    "variants": [
+      "ghosted",
+      "ghost",
+      "ghosts",
+      "ghost someone"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Suddenly cutting off all contact with someone without explanation.",
+    "meanings": [],
+    "plain": "cutting off contact",
+    "example": "He was texting me daily, then he ghosted me.",
+    "exampleTranslation": "He was texting me daily, then he cut off contact with me.",
+    "tone": "negative",
+    "context": "Most common in dating, but also used for friends and job candidates or employers who stop replying.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "dating",
+      "friendship"
+    ],
+    "era": "widely used since the 2010s",
+    "related": [
+      "breadcrumbing",
+      "orbiting",
+      "zombieing",
+      "left-on-read"
+    ],
+    "synonyms": [
+      "cutting off contact"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Mostly dating context; being ghosted can be hurtful.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/ghosting"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "breadcrumbing",
+    "term": "breadcrumbing",
+    "variants": [
+      "breadcrumb",
+      "breadcrumbed",
+      "breadcrumbs"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Sending small, occasional bits of attention to keep someone interested with no plan to commit.",
+    "meanings": [],
+    "plain": "stringing along",
+    "example": "He likes my posts but never asks me out. I think I'm being breadcrumbed.",
+    "exampleTranslation": "He likes my posts but never asks me out. I think I'm being strung along.",
+    "tone": "negative",
+    "context": "Named for the fairy-tale trail of breadcrumbs. Used in dating talk.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "related": [
+      "ghosting",
+      "situationship",
+      "orbiting"
+    ],
+    "synonyms": [
+      "stringing along"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context describing misleading behavior.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=breadcrumbing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "love-bombing",
+    "term": "love bombing",
+    "variants": [
+      "love bomb",
+      "love-bombing",
+      "love bombed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Overwhelming someone with affection and gifts early on, sometimes as a way to gain control.",
+    "meanings": [],
+    "plain": "smothering with affection",
+    "example": "He sent flowers daily after two dates. That felt like love bombing.",
+    "exampleTranslation": "He sent flowers daily after two dates. That felt like smothering with affection.",
+    "tone": "negative",
+    "context": "The term is used in psychology and is often applied loosely online to any intense early attention. Not every enthusiastic partner is love bombing.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "emotions"
+    ],
+    "era": "in use before social media; popular online since the 2010s",
+    "origin": "Term associated with discussions of cults and abusive relationships; used loosely online.",
+    "related": [
+      "gaslighting",
+      "red-flag"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Can describe manipulation in abusive relationships. If someone feels unsafe, trusted adults and hotlines can help.",
+    "mistakes": "Using it for any sweet or eager partner; the key idea is excessive attention used for control.",
+    "sources": [
+      "https://www.apa.org/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "talking-stage",
+    "term": "talking stage",
+    "variants": [
+      "the talking stage",
+      "talking phase"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The early period of getting to know someone romantically before officially dating.",
+    "meanings": [],
+    "plain": "early dating phase",
+    "example": "We're still in the talking stage, so no labels yet.",
+    "exampleTranslation": "We're still in the early dating phase, so no labels yet.",
+    "tone": "neutral",
+    "context": "Commonly used by teens and young adults, mostly about texting and flirting.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "related": [
+      "situationship",
+      "dtr"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Romantic context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=talking%20stage"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "simp",
+    "term": "simp",
+    "variants": [
+      "simps",
+      "simping"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone who is seen as doing too much for a crush or romantic interest in hopes of winning them over.",
+    "meanings": [],
+    "plain": "overeager admirer",
+    "example": "Stop being a simp and just text him normally.",
+    "exampleTranslation": "Stop being an overeager admirer and just text him normally.",
+    "tone": "sarcastic",
+    "context": "Often a teasing insult, sometimes used proudly or ironically. Its use has often targeted boys and men who show affection.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "roasts"
+    ],
+    "era": "surged in popularity around 2019-2020",
+    "origin": "Older slang that appears to be short for \"simpleton\"; widespread online use grew from rap lyrics and social media.",
+    "related": [
+      "stan",
+      "pick-me"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Often used as a mild insult and sometimes to shame people for showing affection.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/simp"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "stan",
+    "term": "stan",
+    "variants": [
+      "stans",
+      "stanning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To be an extremely devoted fan of someone, or such a fan.",
+    "meanings": [],
+    "plain": "be a huge fan of",
+    "example": "I stan this band so hard I know every lyric.",
+    "exampleTranslation": "I am such a huge fan of this band that I know every lyric.",
+    "tone": "positive",
+    "context": "The word comes from Eminem's 2000 song \"Stan\" about an obsessive fan. Today it usually means enthusiastic support.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment",
+      "social-media"
+    ],
+    "era": "from 2000 song; common online since the 2010s",
+    "origin": "Eminem song \"Stan\" (2000).",
+    "related": [
+      "fandom",
+      "parasocial",
+      "simp",
+      "stan-twitter"
+    ],
+    "synonyms": [
+      "superfan"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/stan"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "parasocial",
+    "term": "parasocial",
+    "variants": [
+      "parasocial relationship",
+      "parasocial relationships"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Describing a one-sided bond a fan feels with a celebrity, streamer, or influencer who does not know them.",
+    "meanings": [],
+    "plain": "one-sided fan bond",
+    "example": "I know I have a parasocial thing with my favorite streamer, but he feels like a friend.",
+    "exampleTranslation": "I know I have a one-sided bond with my favorite streamer, but he feels like a friend.",
+    "tone": "neutral",
+    "context": "A psychology term from the 1950s that spread widely online. Used neutrally or critically.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media",
+      "entertainment"
+    ],
+    "era": "term from the 1950s; popular online since roughly the 2010s",
+    "origin": "Coined by researchers Donald Horton and R. Richard Wohl in 1956.",
+    "related": [
+      "stan",
+      "fandom"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/parasocial"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ship",
+    "term": "ship",
+    "variants": [
+      "shipping",
+      "shipped",
+      "shipper",
+      "shippers"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To root for two people or characters to be in a romantic relationship.",
+    "meanings": [],
+    "plain": "root for as a couple",
+    "example": "I've shipped those two characters since season one.",
+    "exampleTranslation": "I've rooted for those two characters to be a couple since season one.",
+    "tone": "playful",
+    "context": "Short for \"relationship.\" Started in fandoms, where fans name couples by blending names.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment",
+      "dating"
+    ],
+    "era": "fandom use dates back to the 1990s",
+    "origin": "Fan communities, notably around TV shows like The X-Files.",
+    "related": [
+      "fandom",
+      "canon-event"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/ship"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "canon-event",
+    "term": "canon event",
+    "variants": [
+      "canon events"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A moment that feels destined to happen in a person's life, often an awkward or painful milestone.",
+    "meanings": [],
+    "plain": "unavoidable life moment",
+    "example": "Getting a bad haircut before school pictures is a canon event.",
+    "exampleTranslation": "Getting a bad haircut before school pictures is an unavoidable life moment.",
+    "tone": "playful",
+    "context": "Popularized by the 2023 Spider-Verse film, where canon events are key story moments that cannot be changed. Used jokingly for shared experiences.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "popular since approx. 2023",
+    "origin": "Spider-Man: Across the Spider-Verse (2023).",
+    "related": [
+      "core-memory",
+      "lore"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=canon+event"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "roman-empire",
+    "term": "Roman Empire",
+    "variants": [
+      "my roman empire",
+      "roman empire"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A topic you think about constantly, from a 2023 trend about men who think of ancient Rome often.",
+    "meanings": [],
+    "plain": "constant obsession",
+    "example": "My Roman Empire is baking sourdough; I think about it all day.",
+    "exampleTranslation": "My constant obsession is baking sourdough; I think about it all day.",
+    "tone": "playful",
+    "context": "Used for any subject someone cannot stop thinking about.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023",
+    "origin": "Social media trend from 2023 about how often people think about ancient Rome.",
+    "related": [
+      "lore"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=roman+empire"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "lore",
+    "term": "lore",
+    "variants": [
+      "personal lore"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The background story or history of a person, character, or fandom.",
+    "meanings": [],
+    "plain": "backstory",
+    "example": "Her friend group has so much lore, I'd need an hour to explain it.",
+    "exampleTranslation": "Her friend group has so much backstory, I'd need an hour to explain it.",
+    "tone": "playful",
+    "context": "Borrowed from storytelling and games, now used for real people.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "entertainment"
+    ],
+    "related": [
+      "lore-drop",
+      "canon-event"
+    ],
+    "synonyms": [
+      "backstory"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=lore"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "lore-drop",
+    "term": "lore drop",
+    "variants": [
+      "lore dump",
+      "drop lore"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A moment when someone reveals an interesting piece of their backstory.",
+    "meanings": [],
+    "plain": "backstory reveal",
+    "example": "Lore drop: I used to be a competitive swimmer.",
+    "exampleTranslation": "Backstory reveal: I used to be a competitive swimmer.",
+    "tone": "playful",
+    "context": "Often used jokingly or before sharing something surprising.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "related": [
+      "lore"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=lore%20drop"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "trauma-dumping",
+    "term": "trauma dumping",
+    "variants": [
+      "trauma dump",
+      "trauma dumped"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Unloading heavy personal pain onto someone who has not agreed to listen or is not ready for it.",
+    "meanings": [],
+    "plain": "oversharing painful experiences",
+    "example": "Venting is okay, but telling a new coworker your whole history is trauma dumping.",
+    "exampleTranslation": "Venting is okay, but telling a new coworker your whole history is oversharing painful experiences.",
+    "tone": "negative",
+    "context": "Used online in the context of boundaries. Therapists point out it is different from healthy venting with consent. It is also sometimes used unfairly against people who need support.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "friendship"
+    ],
+    "era": "popular roughly since the late 2010s and 2020s",
+    "related": [
+      "therapy-speak",
+      "boundaries"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Involves mental health topics. Those who are struggling should be encouraged to seek support rather than shamed.",
+    "sources": [
+      "https://www.apa.org/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "doomscrolling",
+    "term": "doomscrolling",
+    "variants": [
+      "doomscroll",
+      "doom scrolling",
+      "doomscrolls"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Endlessly scrolling through bad news or negative posts.",
+    "meanings": [],
+    "plain": "compulsively reading bad news",
+    "example": "I was doomscrolling until 2 a.m. and now I'm exhausted.",
+    "exampleTranslation": "I was compulsively reading bad news until 2 a.m. and now I'm exhausted.",
+    "tone": "negative",
+    "context": "Became widespread during 2020 as people followed alarming news online.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media",
+      "emotions"
+    ],
+    "era": "popularized around 2020",
+    "related": [
+      "bed-rotting"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/doomscrolling"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "rage-bait",
+    "term": "rage bait",
+    "variants": [
+      "rage-bait",
+      "ragebait"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Online content made to make people angry so they will comment and share.",
+    "meanings": [],
+    "plain": "content made to cause anger",
+    "example": "That video was pure rage bait, and everyone fell for it.",
+    "exampleTranslation": "That video was content made to cause anger, and everyone fell for it.",
+    "tone": "negative",
+    "context": "Related to clickbait. Creators and accounts use it to boost engagement through comments and shares.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "rising in use through the 2020s",
+    "related": [
+      "doomscrolling",
+      "subtweet"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/rage-bait"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gaslighting",
+    "term": "gaslighting",
+    "variants": [
+      "gaslight",
+      "gaslit",
+      "gaslights"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Manipulating someone so they doubt their own memory or judgment.",
+    "meanings": [],
+    "plain": "making someone doubt reality",
+    "example": "He swore he never said it, even though I had the text. He was gaslighting me.",
+    "exampleTranslation": "He swore he never said it, even though I had the text. He was making me doubt reality.",
+    "tone": "negative",
+    "context": "Often used loosely online for any denial or disagreement. In psychology, it refers to a pattern of deliberate manipulation.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "dating",
+      "emotions"
+    ],
+    "era": "in dictionaries for decades; hugely popular in the 2010s-2020s",
+    "origin": "From the 1938 play and 1944 film \"Gaslight,\" in which a husband tricks his wife into thinking she is losing her mind.",
+    "related": [
+      "love-bombing",
+      "gatekeeping"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Can describe emotional abuse. Used loosely online; being misremembered or disagreed with is not always gaslighting.",
+    "sources": [
+      "https://dictionary.apa.org/gaslighting",
+      "https://www.merriam-webster.com/dictionary/gaslighting"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "gatekeeping",
+    "term": "gatekeeping",
+    "variants": [
+      "gatekeep",
+      "gatekept",
+      "gatekeeper"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Controlling who gets access to a hobby, group, or information, or deciding who counts as a real fan.",
+    "meanings": [],
+    "plain": "blocking others out",
+    "example": "Don't gatekeep that bakery; tell us where it is!",
+    "exampleTranslation": "Don't keep that bakery to yourself; tell us where it is!",
+    "tone": "mixed",
+    "context": "Can be a criticism of snobby behavior, or playful when someone keeps a secret spot to themselves.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "friendship",
+      "social-media"
+    ],
+    "related": [
+      "gaslight-gatekeep-girlboss"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/gatekeeping"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "pick-me",
+    "term": "pick-me",
+    "variants": [
+      "pick me",
+      "pick-me girl",
+      "pick me girl",
+      "pick-mes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone who puts others down or acts differently to seem more appealing, especially to men.",
+    "meanings": [],
+    "plain": "attention-seeker who seeks approval",
+    "example": "She keeps saying 'I'm not like other girls,' which is such pick-me behavior.",
+    "exampleTranslation": "She keeps saying 'I'm not like other girls,' which is such approval-seeking behavior.",
+    "tone": "negative",
+    "context": "Often a put-down aimed at women. Many argue it can be sexist or shame people unfairly.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "roasts"
+    ],
+    "era": "popular roughly since the late 2010s",
+    "related": [
+      "simp"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Often used to criticize women and girls; can reinforce stereotypes.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=pick%20me%20girl"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "girl-dinner",
+    "term": "girl dinner",
+    "variants": [
+      "girl dinners"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A casual meal made of whatever snacks you have, such as cheese, crackers, and fruit.",
+    "meanings": [],
+    "plain": "snack-plate dinner",
+    "example": "I was too tired to cook, so it was girl dinner: crackers, grapes, and cheese.",
+    "exampleTranslation": "I was too tired to cook, so it was a snack-plate dinner: crackers, grapes, and cheese.",
+    "tone": "playful",
+    "context": "Went viral on TikTok in 2023. It sparked debate about food and body image.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "food",
+      "social-media"
+    ],
+    "era": "viral in 2023",
+    "related": [
+      "girl-math"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=girl+dinner"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "girl-math",
+    "term": "girl math",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "Joking, flawed logic used to justify spending money.",
+    "meanings": [],
+    "plain": "silly spending logic",
+    "example": "It was on sale, so girl math says I basically saved money.",
+    "exampleTranslation": "It was on sale, so silly spending logic says I basically saved money.",
+    "tone": "playful",
+    "context": "A viral TikTok trend in 2023. Critics say it reinforces stereotypes.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "fashion"
+    ],
+    "era": "viral in 2023",
+    "related": [
+      "boy-math",
+      "girl-dinner"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=girl+math"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "boy-math",
+    "term": "boy math",
+    "variants": [
+      "boys math"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Joking, flawed logic used to justify decisions, parodying girl math.",
+    "meanings": [],
+    "plain": "silly justification",
+    "example": "Boy math: if I buy two games, the third one is practically free.",
+    "exampleTranslation": "Silly justification: if I buy two games, the third one is practically free.",
+    "tone": "playful",
+    "context": "Sequel trend to girl math.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "2023",
+    "related": [
+      "girl-math"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=boy+math"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "understood-the-assignment",
+    "term": "understood the assignment",
+    "variants": [
+      "understands the assignment",
+      "understand the assignment"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Did exactly what the moment called for, and did it very well.",
+    "meanings": [],
+    "plain": "nailed it",
+    "example": "Her costume was perfect. She understood the assignment.",
+    "exampleTranslation": "Her costume was perfect. She nailed it.",
+    "tone": "positive",
+    "context": "A compliment for outfits, performances, or choices that match the occasion perfectly.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "fashion"
+    ],
+    "related": [
+      "serve",
+      "ate"
+    ],
+    "synonyms": [
+      "nailed it"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=understood%20the%20assignment"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "very-demure-very-mindful",
+    "term": "very demure very mindful",
+    "variants": [
+      "demure",
+      "very demure",
+      "very mindful"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A 2024 viral catchphrase praising modest, polite, thoughtful behavior.",
+    "meanings": [],
+    "plain": "quiet, polite, and considerate",
+    "example": "I arrived on time and brought a thank-you card. Very demure, very mindful.",
+    "exampleTranslation": "I arrived on time and brought a thank-you card. Quiet, polite, and considerate.",
+    "tone": "playful",
+    "context": "Started with creator Jools Lebron's TikTok videos in 2024. Often ironic, applied to everyday small actions.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "social-media"
+    ],
+    "era": "viral in 2024",
+    "origin": "TikTok creator Jools Lebron, whose videos spread the phrase in 2024; draws on a style of humor from Black and LGBTQ+ creators online.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=very+demure"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "brat",
+    "term": "brat",
+    "variants": [
+      "brat summer"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A confident, messy, party-loving attitude from Charli XCX's 2024 album, shown in lime-green style.",
+    "meanings": [],
+    "plain": "unapologetically messy and confident",
+    "example": "It's a brat summer, so I'm wearing the green shirt.",
+    "exampleTranslation": "It's an unapologetically messy and confident summer, so I'm wearing the green shirt.",
+    "tone": "positive",
+    "context": "Became a cultural moment in 2024, including a lime-green aesthetic.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "entertainment",
+      "fashion"
+    ],
+    "era": "2024",
+    "origin": "Charli XCX's album \"Brat\" (2024).",
+    "related": [
+      "aesthetic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=brat+summer"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "bae",
+    "term": "bae",
+    "variants": [
+      "baes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A term of endearment for a romantic partner or very close person.",
+    "meanings": [],
+    "plain": "sweetheart",
+    "example": "Date night with bae tonight!",
+    "exampleTranslation": "Date night with my sweetheart tonight!",
+    "tone": "positive",
+    "context": "Popular in the early 2010s. Some think it comes from \"babe\" or \"before anyone else,\" though the acronym explanation is likely an after-the-fact story.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "friendship"
+    ],
+    "era": "popular approx. early to mid 2010s",
+    "origin": "Likely a shortening of \"babe\" or \"baby\"; often used in AAVE before spreading widely.",
+    "related": [
+      "boo",
+      "wifey"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/bae"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "squad",
+    "term": "squad",
+    "variants": [
+      "squads"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Your close group of friends.",
+    "meanings": [],
+    "plain": "friend group",
+    "example": "My squad is going to the movies tonight.",
+    "exampleTranslation": "My friend group is going to the movies tonight.",
+    "tone": "positive",
+    "context": "Used widely online and in pop culture. Often for a tight friend group.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "friendship"
+    ],
+    "related": [
+      "bestie"
+    ],
+    "synonyms": [
+      "crew"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/squad"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bestie",
+    "term": "bestie",
+    "variants": [
+      "besties",
+      "bff"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A best friend.",
+    "meanings": [],
+    "plain": "best friend",
+    "example": "My bestie and I match our outfits on Fridays.",
+    "exampleTranslation": "My best friend and I match our outfits on Fridays.",
+    "tone": "positive",
+    "context": "Friendly and affectionate. Used by all ages.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "friendship"
+    ],
+    "related": [
+      "squad"
+    ],
+    "synonyms": [
+      "best friend"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/bestie"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "adulting",
+    "term": "adulting",
+    "variants": [
+      "adult",
+      "adulted"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Doing grown-up tasks like paying bills or doing laundry, often with a joking tone.",
+    "meanings": [],
+    "plain": "doing grown-up chores",
+    "example": "Today I'm adulting: dentist, bank, and groceries.",
+    "exampleTranslation": "Today I'm doing grown-up chores: dentist, bank, and groceries.",
+    "tone": "playful",
+    "context": "Used by young adults to joke about unglamorous responsibilities.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "college",
+      "emotions"
+    ],
+    "era": "popular since the 2010s",
+    "related": [
+      "all-nighter"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/adulting"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ok-boomer",
+    "term": "OK boomer",
+    "variants": [
+      "ok boomer",
+      "okay boomer",
+      "boomer"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A dismissive reply to an older person seen as out of touch.",
+    "meanings": [],
+    "plain": "whatever, old-fashioned person",
+    "example": "When he said kids today are lazy, someone said 'OK boomer.'",
+    "exampleTranslation": "When he said kids today are lazy, someone said 'whatever, old-fashioned person.'",
+    "tone": "sarcastic",
+    "context": "Spread widely in 2019. Some find it rude or ageist. Boomers refers to the Baby Boom generation, though it is sometimes used about attitudes rather than age.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "viral around 2019",
+    "related": [
+      "cheugy"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Can be a dismissive or ageist put-down.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/ok-boomer"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "cheugy",
+    "term": "cheugy",
+    "variants": [
+      "cheug"
+    ],
+    "pronunciation": "CHOO-gee",
+    "partOfSpeech": "adjective",
+    "definition": "Out of style, trying too hard, or stuck in older trends.",
+    "meanings": [],
+    "plain": "out of date",
+    "example": "Those motivational wall signs are so cheugy.",
+    "exampleTranslation": "Those motivational wall signs are so out of date.",
+    "tone": "negative",
+    "context": "Said to have been coined by a high school student around 2013 and went viral in 2021. Often aimed at millennial trends. Pronounced \"chew-gee.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "roasts"
+    ],
+    "era": "viral approx. 2021",
+    "origin": "Credited to a high schooler, reportedly in the early 2010s; details vary by source.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=cheugy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "woke",
+    "term": "woke",
+    "variants": [
+      "stay woke",
+      "wokeness"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Aware of social injustice, especially racism; later also used as a political label, sometimes mockingly.",
+    "meanings": [],
+    "plain": "socially aware",
+    "example": "He stayed woke about the issues in his community.",
+    "exampleTranslation": "He stayed socially aware about the issues in his community.",
+    "tone": "mixed",
+    "context": "Many people use it differently. Meaning can be sincere, critical, or mocking depending on the speaker.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "sensitive",
+      "social-media"
+    ],
+    "era": "AAVE use dates back decades; broader popularity in the 2010s",
+    "origin": "African American Vernacular English (\"stay woke\"); later adopted widely and politicized.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Politically charged; people disagree on its meaning and use.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/woke"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "on-fleek",
+    "term": "on fleek",
+    "variants": [
+      "fleek",
+      "fleeky"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Looking perfectly styled, especially eyebrows.",
+    "meanings": [],
+    "plain": "looking perfect",
+    "example": "Her braids were on fleek.",
+    "exampleTranslation": "Her braids looked perfect.",
+    "tone": "positive",
+    "context": "Became widely known in 2014 after a viral Vine by Kayla Newman (Peaches Monroee). Now mostly dated.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "compliments"
+    ],
+    "era": "viral approx. 2014-2015",
+    "origin": "Vine post by Kayla Newman (Peaches Monroee), rooted in Black youth culture and AAVE.",
+    "related": [
+      "snatched",
+      "drip"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/fleek"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "drip",
+    "term": "drip",
+    "variants": [
+      "dripped out",
+      "dripping"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Very stylish clothes and jewelry.",
+    "meanings": [],
+    "plain": "stylish look",
+    "example": "Check out his drip, those sneakers are amazing.",
+    "exampleTranslation": "Check out his stylish look, those sneakers are amazing.",
+    "tone": "positive",
+    "context": "Heard widely in hip-hop and fashion talk.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "compliments"
+    ],
+    "era": "popular approx. late 2010s",
+    "origin": "Hip-hop and Black youth culture.",
+    "related": [
+      "fit-check",
+      "snatched"
+    ],
+    "synonyms": [
+      "swag"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/drip"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "snatched",
+    "term": "snatched",
+    "variants": [
+      "snatch"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Looking flawless and sharply styled.",
+    "meanings": [],
+    "plain": "looking great",
+    "example": "Your outfit is snatched!",
+    "exampleTranslation": "Your outfit looks great!",
+    "tone": "positive",
+    "context": "Often used by drag and ballroom communities. Historically it can refer to a defined waist or a polished face.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "compliments"
+    ],
+    "era": "popular in mainstream roughly since the 2010s",
+    "origin": "Ballroom and drag culture, especially Black and Latino LGBTQ+ communities.",
+    "related": [
+      "on-fleek",
+      "serve"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=snatched"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fit-check",
+    "term": "fit check",
+    "variants": [
+      "fit",
+      "fits",
+      "fitcheck",
+      "outfit check"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Showing off your outfit, or the outfit itself.",
+    "meanings": [],
+    "plain": "outfit",
+    "example": "Fit check before the dance!",
+    "exampleTranslation": "Outfit check before the dance!",
+    "tone": "positive",
+    "context": "\"Fit\" is short for outfit. A \"fit check\" is a post or video showing a look.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "social-media"
+    ],
+    "related": [
+      "drip"
+    ],
+    "synonyms": [
+      "outfit"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=fit%20check"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "serve",
+    "term": "serve",
+    "variants": [
+      "serving",
+      "served"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To present a look, attitude, or performance with confidence.",
+    "meanings": [],
+    "plain": "show off with confidence",
+    "example": "She walked in serving glamour.",
+    "exampleTranslation": "She walked in showing off glamour with confidence.",
+    "tone": "positive",
+    "context": "Often followed by what is being given, such as \"serving looks.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "compliments"
+    ],
+    "era": "mainstream since the 2010s",
+    "origin": "Ballroom culture among Black and Latino LGBTQ+ communities.",
+    "related": [
+      "mother",
+      "snatched",
+      "slay"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=serving"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "mother",
+    "term": "mother",
+    "variants": [
+      "mothering",
+      "mother is mothering",
+      "mothered"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone who is impressively commanding and excellent at what they do, especially a woman or femme figure.",
+    "meanings": [],
+    "plain": "impressive standout",
+    "example": "Mother is mothering in that performance!",
+    "exampleTranslation": "The standout is impressive in that performance!",
+    "tone": "positive",
+    "context": "Often used for pop stars and performers.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "entertainment"
+    ],
+    "era": "mainstream since roughly the late 2010s and 2020s",
+    "origin": "Ballroom culture, where a \"house mother\" leads and cares for a house; Black and Latino LGBTQ+ communities.",
+    "related": [
+      "serve",
+      "gagged"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=mother"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gagged",
+    "term": "gagged",
+    "variants": [
+      "gag",
+      "gagging",
+      "i'm gagged"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Shocked or amazed in a good way.",
+    "meanings": [],
+    "plain": "stunned",
+    "example": "When she revealed the surprise, I was gagged.",
+    "exampleTranslation": "When she revealed the surprise, I was stunned.",
+    "tone": "positive",
+    "context": "Used for impressive or surprising moments.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "reactions"
+    ],
+    "era": "mainstream since the 2010s",
+    "origin": "Ballroom and drag culture, Black and Latino LGBTQ+ communities.",
+    "related": [
+      "mother",
+      "yass"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=gagged"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "shade",
+    "term": "shade",
+    "variants": [
+      "throw shade",
+      "throwing shade",
+      "shady"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A subtle, indirect insult.",
+    "meanings": [],
+    "plain": "indirect insult",
+    "example": "She threw shade at his shoes without saying a word.",
+    "exampleTranslation": "She insulted his shoes indirectly without saying a word.",
+    "tone": "sarcastic",
+    "context": "Usually clever or understated rather than direct.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "roasts"
+    ],
+    "era": "mainstream since the 2010s",
+    "origin": "Ballroom culture among Black and Latino LGBTQ+ communities; popularized by the documentary Paris Is Burning (1990).",
+    "related": [
+      "read"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Mild insult.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/shade"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "read",
+    "term": "read",
+    "variants": [
+      "reading",
+      "read for filth",
+      "reads"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To call out someone's flaws with clever, pointed insults.",
+    "meanings": [],
+    "plain": "insult cleverly",
+    "example": "She read him in front of everyone.",
+    "exampleTranslation": "She cleverly insulted him in front of everyone.",
+    "tone": "sarcastic",
+    "context": "Different from ordinary reading. Often playful among friends.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "roasts"
+    ],
+    "origin": "Ballroom culture, Black and Latino LGBTQ+ communities; discussed in Paris Is Burning (1990).",
+    "related": [
+      "shade"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Insulting behavior; can be mean.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=read"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "kiki",
+    "term": "kiki",
+    "variants": [
+      "ki ki",
+      "kiki party"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A casual social gathering or chat session, especially among friends.",
+    "meanings": [],
+    "plain": "friendly hangout",
+    "example": "Come over for a kiki after school.",
+    "exampleTranslation": "Come over for a friendly hangout after school.",
+    "tone": "playful",
+    "context": "Also the name of a ballroom-related scene with kiki houses.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "friendship"
+    ],
+    "origin": "Ballroom culture and LGBTQ+ communities.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 3,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=kiki"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "yass",
+    "term": "yass",
+    "variants": [
+      "yas",
+      "yasss",
+      "yaaas"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "An enthusiastic way of saying yes or cheering for someone.",
+    "meanings": [],
+    "plain": "yes!",
+    "example": "You got the part? Yasss!",
+    "exampleTranslation": "You got the part? Yes!",
+    "tone": "positive",
+    "context": "Often drawn out for emphasis.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "reactions"
+    ],
+    "origin": "Ballroom culture and LGBTQ+ communities, spread by social media.",
+    "related": [
+      "gagged"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=yass"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "basic",
+    "term": "basic",
+    "variants": [
+      "basic b",
+      "basic girl"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Mainstream, predictable, and lacking individuality.",
+    "meanings": [],
+    "plain": "unoriginal",
+    "example": "Pumpkin spice and leggings? So basic, but I love it.",
+    "exampleTranslation": "Pumpkin spice and leggings? So unoriginal, but I love it.",
+    "tone": "sarcastic",
+    "context": "Can be a put-down or lightly ironic. Often aimed at girls and women.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "roasts"
+    ],
+    "era": "popular since approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Often used to put down women's tastes.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/basic"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "clean-girl",
+    "term": "clean girl",
+    "variants": [
+      "clean girl aesthetic"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A polished, minimal look with slicked-back hair, simple makeup, and neutral clothes.",
+    "meanings": [],
+    "plain": "polished minimalist look",
+    "example": "Her clean girl style is just a bun and gold hoops.",
+    "exampleTranslation": "Her polished minimalist style is just a bun and gold hoops.",
+    "tone": "neutral",
+    "context": "Trended on TikTok and Instagram. Critics say it favors a narrow standard of beauty.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion"
+    ],
+    "era": "popular roughly in 2021-2022",
+    "related": [
+      "that-girl",
+      "aesthetic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=clean%20girl"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "mob-wife-aesthetic",
+    "term": "mob wife aesthetic",
+    "variants": [
+      "mob wife",
+      "mob wife era"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A bold style with fur coats, animal prints, gold jewelry, and big hair.",
+    "meanings": [],
+    "plain": "glam fur-coat style",
+    "example": "She wore a faux fur coat for her mob wife look.",
+    "exampleTranslation": "She wore a faux fur coat for her glam fur-coat look.",
+    "tone": "playful",
+    "context": "Went viral in early 2024. Inspired by movie and TV mobster wives.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion"
+    ],
+    "era": "viral approx. early 2024",
+    "related": [
+      "quiet-luxury",
+      "clean-girl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=mob+wife"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "quiet-luxury",
+    "term": "quiet luxury",
+    "variants": [
+      "stealth wealth"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Understated, high-quality clothing without logos.",
+    "meanings": [],
+    "plain": "subtle, expensive style",
+    "example": "Her cream sweater screams quiet luxury.",
+    "exampleTranslation": "Her cream sweater screams subtle, expensive style.",
+    "tone": "neutral",
+    "context": "Popular around 2023, boosted by TV and runway trends.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion"
+    ],
+    "era": "popular approx. 2023",
+    "related": [
+      "mob-wife-aesthetic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/quiet%20luxury"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "core-suffix",
+    "term": "-core",
+    "variants": [
+      "cottagecore",
+      "goblincore",
+      "gorpcore",
+      "coastal grandmother",
+      "core"
+    ],
+    "partOfSpeech": "suffix",
+    "definition": "A suffix that labels a style or mood, like cottagecore for a cozy countryside look.",
+    "meanings": [],
+    "plain": "style or theme",
+    "example": "My room is full of plants and quilts. Total cottagecore.",
+    "exampleTranslation": "My room is full of plants and quilts. Totally cozy-countryside style.",
+    "tone": "playful",
+    "context": "Comes from \"hardcore,\" as in music, and spread through social media style communities. New \"-cores\" pop up often.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "social-media"
+    ],
+    "era": "popular since roughly the 2010s",
+    "related": [
+      "aesthetic",
+      "dark-academia",
+      "coquette"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/-core"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "aesthetic",
+    "term": "aesthetic",
+    "variants": [
+      "aesthetics",
+      "aesthetically"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Visually pleasing or fitting a particular curated style.",
+    "meanings": [],
+    "plain": "visually pleasing",
+    "example": "Your desk setup is so aesthetic.",
+    "exampleTranslation": "Your desk setup is so visually pleasing.",
+    "tone": "positive",
+    "context": "Also a noun for a themed look, as in \"cottagecore aesthetic.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "social-media"
+    ],
+    "related": [
+      "core-suffix"
+    ],
+    "synonyms": [
+      "pretty",
+      "curated"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/aesthetic"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "that-girl",
+    "term": "that girl",
+    "variants": [
+      "that girl aesthetic"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A lifestyle trend of waking early, exercising, eating healthy, and being organized.",
+    "meanings": [],
+    "plain": "ultra-organized go-getter",
+    "example": "She's up at 6, journaling and smoothie in hand. That girl.",
+    "exampleTranslation": "She's up at 6, journaling and smoothie in hand. An ultra-organized go-getter.",
+    "tone": "mixed",
+    "context": "Went viral on TikTok around 2021. Critics noted it can feel pressuring.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "social-media"
+    ],
+    "era": "viral around 2021",
+    "related": [
+      "clean-girl",
+      "it-girl",
+      "hot-girl-walk"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=that%20girl"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "it-girl",
+    "term": "it girl",
+    "variants": [
+      "it-girl"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A woman or girl who is stylish, popular, and widely admired.",
+    "meanings": [],
+    "plain": "trendsetter",
+    "example": "She's the school's it girl, and everyone copies her outfits.",
+    "exampleTranslation": "She's the school's trendsetter, and everyone copies her outfits.",
+    "tone": "positive",
+    "context": "Dates back to the early 1900s, when it was linked with silent film star Clara Bow.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "compliments"
+    ],
+    "era": "from the 1920s; revived online",
+    "origin": "Associated with silent film star Clara Bow's 1927 film \"It.\"",
+    "related": [
+      "that-girl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/it%20girl"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "hot-girl-walk",
+    "term": "hot girl walk",
+    "variants": [
+      "hot girl walks"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A walk taken for fun, mood, and confidence rather than strict exercise.",
+    "meanings": [],
+    "plain": "feel-good walk",
+    "example": "I'm doing a hot girl walk with my favorite playlist.",
+    "exampleTranslation": "I'm doing a feel-good walk with my favorite playlist.",
+    "tone": "positive",
+    "context": "Popularized on TikTok around 2021 by creator Mia Lind. Often includes thinking about gratitude and goals.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "fashion"
+    ],
+    "era": "viral around 2021",
+    "origin": "TikTok creator Mia Lind.",
+    "related": [
+      "that-girl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=hot+girl+walk"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bed-rotting",
+    "term": "bed rotting",
+    "variants": [
+      "bed rot",
+      "bedrotting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Staying in bed for hours, relaxing or scrolling, as a way to rest.",
+    "meanings": [],
+    "plain": "lounging in bed all day",
+    "example": "After exams, I spent Saturday bed rotting.",
+    "exampleTranslation": "After exams, I spent Saturday lounging in bed all day.",
+    "tone": "playful",
+    "context": "Went viral in 2023. Some say it helps recovery, but long-term isolation can signal burnout.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "social-media"
+    ],
+    "era": "viral around 2023",
+    "related": [
+      "doomscrolling"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=bed+rotting"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "rawdogging",
+    "term": "rawdogging",
+    "variants": [
+      "raw dogging",
+      "rawdog",
+      "raw-dogging"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "In the viral sense, doing something with no distractions, like a long flight with no entertainment.",
+    "meanings": [],
+    "plain": "doing it without distractions",
+    "example": "He rawdogged a six-hour flight with no phone or movie.",
+    "exampleTranslation": "He did a six-hour flight without any distractions.",
+    "tone": "playful",
+    "context": "The phrase comes from crude sexual slang. Many adults will recognize that meaning, so avoid using it in school or family settings.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "sensitive"
+    ],
+    "era": "viral in this sense approx. 2023-2024",
+    "origin": "Crude origin as sexual slang; later reapplied jokingly.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Originates from sexual slang; the viral sense is non-sexual but the term is inappropriate for children.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=rawdogging"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "the-bar-is-in-hell",
+    "term": "the bar is in hell",
+    "variants": [
+      "bar is in hell",
+      "bar in hell"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke that standards are so low that something small counts as a win.",
+    "meanings": [],
+    "plain": "standards are extremely low",
+    "example": "He texted back on time. The bar is in hell.",
+    "exampleTranslation": "He texted back on time. Standards are extremely low.",
+    "tone": "sarcastic",
+    "context": "Often said about dating or low expectations.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "memes"
+    ],
+    "era": "popular approx. 2022-2023",
+    "related": [
+      "red-flag"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bar%20is%20in%20hell"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "crush",
+    "term": "crush",
+    "variants": [
+      "crushing",
+      "crushes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone you have romantic feelings for, or the feeling itself.",
+    "meanings": [],
+    "plain": "romantic interest",
+    "example": "I have a crush on someone in my art class.",
+    "exampleTranslation": "I have romantic feelings for someone in my art class.",
+    "tone": "positive",
+    "context": "Used by all ages; more often about early attraction.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/crush"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "core-memory",
+    "term": "core memory",
+    "variants": [
+      "core memories"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A moment so important it feels like it shapes who you are.",
+    "meanings": [],
+    "plain": "formative memory",
+    "example": "Our road trip is a core memory for me.",
+    "exampleTranslation": "Our road trip is a formative memory for me.",
+    "tone": "positive",
+    "context": "Popularized by the 2015 film Inside Out. Used for happy and funny moments, sometimes for embarrassing ones.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions"
+    ],
+    "era": "popular since the 2020s",
+    "origin": "Pixar film Inside Out (2015).",
+    "related": [
+      "canon-event"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=core+memory"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "unalive",
+    "term": "unalive",
+    "variants": [
+      "unalived",
+      "unaliving"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "A substitute word for \"kill\" or \"die,\" used to avoid content filters.",
+    "meanings": [],
+    "plain": "die or kill",
+    "example": "The video said the character was unalived in the story.",
+    "exampleTranslation": "The video said the character died in the story.",
+    "tone": "neutral",
+    "context": "Used on platforms where creators worry about moderation. Experts note that euphemisms can make serious topics harder to discuss, so support resources are important.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "sensitive"
+    ],
+    "era": "popular since roughly 2020",
+    "related": [
+      "algospeak",
+      "seggs"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Euphemism for death, including suicide. In the US, call or text 988 for crisis support.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/unalive"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "algospeak",
+    "term": "algospeak",
+    "variants": [
+      "algo speak",
+      "algospeak words"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Coded or altered words people use online to avoid being flagged by algorithms.",
+    "meanings": [],
+    "plain": "code words to dodge filters",
+    "example": "Using 'seggs' is classic algospeak.",
+    "exampleTranslation": "Using 'seggs' is a classic code word to dodge filters.",
+    "tone": "neutral",
+    "context": "Includes misspellings, emojis, and substitute words. Many creators use it to avoid demonetization.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "popular since the early 2020s",
+    "related": [
+      "unalive",
+      "seggs"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/algospeak"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "seggs",
+    "term": "seggs",
+    "variants": [
+      "segs"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A playful, censor-dodging way to say \"sex.\"",
+    "meanings": [],
+    "plain": "sex",
+    "example": "The creator used the word seggs in the caption.",
+    "exampleTranslation": "The creator used the word sex in the caption.",
+    "tone": "playful",
+    "context": "Used on platforms where creators avoid certain words. It is a joking misspelling.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "sensitive"
+    ],
+    "era": "approx. early 2020s",
+    "related": [
+      "algospeak",
+      "unalive"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Refers to sex. Not appropriate for young children.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=seggs"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "side-character",
+    "term": "side character",
+    "variants": [
+      "side characters"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A person who sees themselves in a supporting role in their own story, or a minor figure.",
+    "meanings": [],
+    "plain": "minor player",
+    "example": "Today I'm a side character, just helping my friend with her plan.",
+    "exampleTranslation": "Today I'm a minor player, just helping my friend with her plan.",
+    "tone": "playful",
+    "context": "The opposite of main character energy. Used to joke about low-key moods.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "related": [
+      "villain-era"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "main-character-energy"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=side%20character"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "soft-life",
+    "term": "soft life",
+    "variants": [
+      "soft girl life"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A lifestyle focused on comfort, ease, and avoiding stress.",
+    "meanings": [],
+    "plain": "easygoing comfortable lifestyle",
+    "example": "I'm choosing a soft life this year: more naps and fewer stress points.",
+    "exampleTranslation": "I'm choosing an easygoing, comfortable lifestyle this year: more naps and less stress.",
+    "tone": "positive",
+    "context": "Became popular among Black women online, especially in Nigeria and the US, as a reaction to burnout and \"hustle culture.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "social-media"
+    ],
+    "era": "popular since approx. the early 2020s",
+    "origin": "Rooted in online Black women's communities (including Nigerian creators) reacting to hustle culture; details vary.",
+    "related": [
+      "villain-era"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=soft%20life"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "villain-era",
+    "term": "villain era",
+    "variants": [
+      "___ era",
+      "era",
+      "in my villain era",
+      "in my era"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A phase of life when you focus on yourself and stop worrying about pleasing others; \"___ era\" names any current phase.",
+    "meanings": [],
+    "plain": "self-focused phase",
+    "example": "I'm in my villain era: no more saying yes to everything.",
+    "exampleTranslation": "I'm in a self-focused phase: no more saying yes to everything.",
+    "tone": "playful",
+    "context": "The \"era\" language was boosted by Taylor Swift's Eras Tour. Villain era usually means setting boundaries, not harming others.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "popular approx. 2022-2023",
+    "related": [
+      "soft-life",
+      "side-character"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=villain+era"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tradwife",
+    "term": "tradwife",
+    "variants": [
+      "tradwives",
+      "trad wife"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A woman who publicly embraces a traditional homemaker role, often shown on social media.",
+    "meanings": [],
+    "plain": "traditional homemaker",
+    "example": "Her feed is baking bread and the tradwife lifestyle.",
+    "exampleTranslation": "Her feed is baking bread and the traditional homemaker lifestyle.",
+    "tone": "mixed",
+    "context": "Often debated: supporters see it as a choice, critics see it as tied to political or conservative messaging.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "sensitive"
+    ],
+    "era": "popular approx. 2020s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Associated with debated social and political views on gender roles.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/tradwife"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "finsta",
+    "term": "finsta",
+    "variants": [
+      "finstas",
+      "fake insta"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A private second Instagram account for close friends where people post unpolished content.",
+    "meanings": [],
+    "plain": "private second account",
+    "example": "I only post my silly photos on my finsta.",
+    "exampleTranslation": "I only post my silly photos on my private second account.",
+    "tone": "neutral",
+    "context": "Short for \"fake Instagram.\" The name stuck even though the account is real.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "popular approx. mid 2010s",
+    "related": [
+      "close-friends-story"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/finsta"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "photo-dump",
+    "term": "photo dump",
+    "variants": [
+      "photo dumps",
+      "dump"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A post with many casual photos from a stretch of time.",
+    "meanings": [],
+    "plain": "casual photo collection",
+    "example": "Here's my summer photo dump.",
+    "exampleTranslation": "Here's my casual photo collection from summer.",
+    "tone": "neutral",
+    "context": "Usually a swipeable carousel on social media.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "popular approx. late 2010s to 2020s",
+    "related": [
+      "finsta"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=photo%20dump"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "close-friends-story",
+    "term": "close friends story",
+    "variants": [
+      "close friends",
+      "cf story"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A social media story shared only with a chosen group.",
+    "meanings": [],
+    "plain": "private story for friends",
+    "example": "I posted that on my close friends story.",
+    "exampleTranslation": "I posted that on my private story for friends.",
+    "tone": "neutral",
+    "context": "Instagram introduced a Close Friends feature in 2018, per its public announcements.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "since approx. 2018",
+    "origin": "Instagram feature.",
+    "related": [
+      "finsta"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://help.instagram.com/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "subtweet",
+    "term": "subtweet",
+    "variants": [
+      "sub-tweet",
+      "subtweeting",
+      "subtweeted",
+      "vaguepost"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "A post that criticizes someone without naming them.",
+    "meanings": [],
+    "plain": "veiled online dig",
+    "example": "She posted a subtweet after the argument.",
+    "exampleTranslation": "She posted a veiled online dig after the argument.",
+    "tone": "sarcastic",
+    "context": "Began on Twitter, now used for any platform.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "popular since approx. 2010s",
+    "related": [
+      "shade"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Mild online conflict.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=subtweet"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "go-viral",
+    "term": "go viral",
+    "variants": [
+      "went viral",
+      "viral"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "To spread widely and quickly online.",
+    "meanings": [],
+    "plain": "spread rapidly",
+    "example": "Her dance video went viral overnight.",
+    "exampleTranslation": "Her dance video spread rapidly overnight.",
+    "tone": "neutral",
+    "context": "Based on the way viruses spread.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial",
+      "older-internet"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/viral"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "mutuals",
+    "term": "mutuals",
+    "variants": [
+      "mutual",
+      "moots",
+      "moot"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "People who follow each other on social media.",
+    "meanings": [],
+    "plain": "followers who follow you back",
+    "example": "Only my mutuals can see this post.",
+    "exampleTranslation": "Only followers who follow me back can see this post.",
+    "tone": "neutral",
+    "context": "\"Moots\" is a slangy shortening used in some fandoms.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "since the 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=mutuals"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "for-the-plot",
+    "term": "for the plot",
+    "variants": [
+      "do it for the plot",
+      "doing it for the plot"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Doing something unusual or risky to create a good story.",
+    "meanings": [],
+    "plain": "for the story",
+    "example": "I said yes to karaoke for the plot.",
+    "exampleTranslation": "I said yes to karaoke for the story.",
+    "tone": "playful",
+    "context": "Reflects the idea of treating life like a story.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "approx. 2022-2023",
+    "related": [
+      "canon-event",
+      "main-character-energy"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=for+the+plot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "romanticize-your-life",
+    "term": "romanticize your life",
+    "variants": [
+      "romanticizing life",
+      "romanticise your life"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "To treat everyday moments as special by adding cozy details like candles or music.",
+    "meanings": [],
+    "plain": "make daily life special",
+    "example": "I'm romanticizing my life with a morning tea ritual.",
+    "exampleTranslation": "I'm making daily life special with a morning tea ritual.",
+    "tone": "positive",
+    "context": "A trend that encourages mindfulness. Critics say it can pressure people to buy things.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "social-media"
+    ],
+    "era": "popular approx. 2020s",
+    "related": [
+      "aesthetic",
+      "that-girl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=romanticize%20your%20life"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "girlboss",
+    "term": "girlboss",
+    "variants": [
+      "girl boss",
+      "girlbosses"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A woman seen as a driven, successful boss; now often used ironically.",
+    "meanings": [],
+    "plain": "ambitious businesswoman",
+    "example": "She started a bakery at 20. Total girlboss.",
+    "exampleTranslation": "She started a bakery at 20. Totally an ambitious businesswoman.",
+    "tone": "mixed",
+    "context": "Popular around the mid-2010s; now often mocked as a symbol of hustle culture.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "memes"
+    ],
+    "era": "popular approx. mid 2010s; ironic by the 2020s",
+    "related": [
+      "gaslight-gatekeep-girlboss"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/girlboss"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gaslight-gatekeep-girlboss",
+    "term": "gaslight gatekeep girlboss",
+    "variants": [
+      "gaslight, gatekeep, girlboss"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joking phrase that mocks overused slogans about women's empowerment and misuses psychological terms.",
+    "meanings": [],
+    "plain": "joking pop-feminist slogan",
+    "example": "She captioned it 'gaslight gatekeep girlboss' as a joke.",
+    "exampleTranslation": "She captioned it with a joking slogan.",
+    "tone": "sarcastic",
+    "context": "Often used ironically to say a post is over-the-top.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "social-media"
+    ],
+    "era": "approx. 2021",
+    "related": [
+      "gaslighting",
+      "gatekeeping",
+      "girlboss"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=gaslight+gatekeep+girlboss"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "himbo",
+    "term": "himbo",
+    "variants": [
+      "himbos"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A good-looking, kind, but not very smart man.",
+    "meanings": [],
+    "plain": "sweet, goofy hunk",
+    "example": "The character is a lovable himbo who always helps.",
+    "exampleTranslation": "The character is a sweet, goofy hunk who always helps.",
+    "tone": "playful",
+    "context": "Often affectionate rather than mean. Male counterpart of \"bimbo,\" a term that has a more derogatory history.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "entertainment"
+    ],
+    "era": "since approx. the 1980s; popular online in the 2010s",
+    "related": [
+      "golden-retriever-boyfriend"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Related to the term bimbo, which can be derogatory.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/himbo"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "golden-retriever-boyfriend",
+    "term": "golden retriever boyfriend",
+    "variants": [
+      "golden retriever boy",
+      "golden retriever energy"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A friendly, loyal, enthusiastic partner like a golden retriever.",
+    "meanings": [],
+    "plain": "sweet, loyal partner",
+    "example": "He greets everyone with a smile. Total golden retriever boyfriend.",
+    "exampleTranslation": "He greets everyone with a smile. A sweet, loyal partner.",
+    "tone": "positive",
+    "context": "Often paired with \"black cat girlfriend.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "popular approx. 2021-2023",
+    "related": [
+      "black-cat-energy",
+      "himbo"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "black-cat-energy"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=golden+retriever+boyfriend"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "black-cat-energy",
+    "term": "black cat energy",
+    "variants": [
+      "black cat girlfriend",
+      "black cat boyfriend"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A personality that is moody, independent, and selective with affection.",
+    "meanings": [],
+    "plain": "aloof, independent personality",
+    "example": "She's got black cat energy and only warms up to a few people.",
+    "exampleTranslation": "She's got an aloof, independent personality and only warms up to a few people.",
+    "tone": "playful",
+    "context": "Contrasted with golden retriever energy.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "popular approx. 2021-2023",
+    "related": [
+      "golden-retriever-boyfriend"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "golden-retriever-boyfriend"
+    ],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=black%20cat%20energy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "orbiting",
+    "term": "orbiting",
+    "variants": [
+      "orbit",
+      "orbited"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "After ending contact, someone keeps watching your social media posts without messaging you.",
+    "meanings": [],
+    "plain": "lurking after cutting contact",
+    "example": "He ghosted me but still views all my stories. He's orbiting.",
+    "exampleTranslation": "He cut contact but still views all my stories. He's lurking.",
+    "tone": "negative",
+    "context": "Used in dating talk. Named for objects that circle without landing.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "social-media"
+    ],
+    "era": "popular since approx. 2018",
+    "related": [
+      "ghosting",
+      "zombieing",
+      "breadcrumbing"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=orbiting"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "zombieing",
+    "term": "zombieing",
+    "variants": [
+      "zombie",
+      "zombied"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Coming back into someone's life after ghosting them, as if nothing happened.",
+    "meanings": [],
+    "plain": "reappearing after ghosting",
+    "example": "He zombied me three months later with a 'hey stranger.'",
+    "exampleTranslation": "He reappeared three months later with a 'hey stranger.'",
+    "tone": "negative",
+    "context": "Used in dating talk. Named for something that comes back after being \"dead.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "approx. late 2010s",
+    "related": [
+      "ghosting",
+      "orbiting"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=zombieing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "cuffing-season",
+    "term": "cuffing season",
+    "variants": [
+      "cuffing"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The colder months when people tend to want a partner.",
+    "meanings": [],
+    "plain": "time of year people want to couple up",
+    "example": "It's November, so it's cuffing season.",
+    "exampleTranslation": "It's November, so it's the time of year people want to couple up.",
+    "tone": "playful",
+    "context": "\"Cuffed\" means committed, as in handcuffs.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "popular since approx. 2010s",
+    "origin": "African American Vernacular English and hip-hop circles.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=cuffing%20season"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "dtr",
+    "term": "DTR",
+    "variants": [
+      "define the relationship",
+      "dtr talk"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "A conversation about what a relationship means and whether it is exclusive.",
+    "meanings": [],
+    "plain": "relationship status talk",
+    "example": "We need to have a DTR before this goes further.",
+    "exampleTranslation": "We need to have a relationship status talk before this goes further.",
+    "tone": "neutral",
+    "context": "Short for \"define the relationship.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "related": [
+      "situationship",
+      "talking-stage"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=DTR"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "boo",
+    "term": "boo",
+    "variants": [
+      "boo thang",
+      "booed up"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A term of endearment for a romantic partner or close friend.",
+    "meanings": [],
+    "plain": "sweetheart",
+    "example": "Date night with my boo.",
+    "exampleTranslation": "Date night with my sweetheart.",
+    "tone": "positive",
+    "context": "Popular in R&B and hip-hop; spread through AAVE and pop culture.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "origin": "AAVE; widely used in R&B and hip-hop.",
+    "related": [
+      "bae",
+      "wifey"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/boo"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "shawty",
+    "term": "shawty",
+    "variants": [
+      "shorty"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A friendly or flirtatious word for a young person, often a girl.",
+    "meanings": [],
+    "plain": "cutie",
+    "example": "That song is about a shawty at the club.",
+    "exampleTranslation": "That song is about a cutie at the club.",
+    "tone": "playful",
+    "context": "Common in hip-hop. Meaning depends on context.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "entertainment"
+    ],
+    "origin": "Hip-hop and Southern US Black English.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Can be flirtatious or objectifying.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=shawty"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "wifey",
+    "term": "wifey",
+    "variants": [
+      "hubby",
+      "wifeys"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A casual or affectionate term for a wife or serious girlfriend; \"hubby\" is for a husband.",
+    "meanings": [],
+    "plain": "wife",
+    "example": "Wifey picked the restaurant tonight.",
+    "exampleTranslation": "My wife picked the restaurant tonight.",
+    "tone": "positive",
+    "context": "Used affectionately or jokingly, including for partners who are not married.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "related": [
+      "bae",
+      "boo"
+    ],
+    "synonyms": [
+      "hubby"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hubby"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "no-thoughts-head-empty",
+    "term": "no thoughts head empty",
+    "variants": [
+      "no thoughts, head empty"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke about a pleasantly blank, dreamy state of mind.",
+    "meanings": [],
+    "plain": "blissfully mindless",
+    "example": "After the beach, it's no thoughts, head empty.",
+    "exampleTranslation": "After the beach, I'm blissfully mindless.",
+    "tone": "playful",
+    "context": "Often paired with a cute or goofy image.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "popular approx. late 2010s to 2020s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=no+thoughts+head+empty"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "emotional-damage",
+    "term": "emotional damage",
+    "variants": [],
+    "partOfSpeech": "phrase",
+    "definition": "A joking phrase for being hurt or embarrassed by something small.",
+    "meanings": [],
+    "plain": "hurt feelings",
+    "example": "That tiny insult was emotional damage.",
+    "exampleTranslation": "That tiny insult hurt my feelings.",
+    "tone": "sarcastic",
+    "context": "Spread from a 2020 meme. Used jokingly.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "popular approx. 2020s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=emotional+damage"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "copium",
+    "term": "copium",
+    "variants": [
+      "cope",
+      "copeposting"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Wishful thinking or excuses used to avoid disappointment.",
+    "meanings": [],
+    "plain": "wishful excuses",
+    "example": "Saying the team will win after ten losses is pure copium.",
+    "exampleTranslation": "Saying the team will win after ten losses is pure wishful excuses.",
+    "tone": "sarcastic",
+    "context": "A blend of \"cope\" and \"opium.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "approx. late 2010s to 2020s",
+    "origin": "Internet and gaming communities.",
+    "related": [
+      "hopium"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Name plays on a drug term.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=copium"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "hopium",
+    "term": "hopium",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "Optimistic hope that may be unrealistic.",
+    "meanings": [],
+    "plain": "hopeful thinking",
+    "example": "I'm on hopium that my favorite team makes the playoffs.",
+    "exampleTranslation": "I'm in hopeful thinking that my favorite team makes the playoffs.",
+    "tone": "playful",
+    "context": "A blend of \"hope\" and \"opium\"; milder than copium.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "approx. 2020s",
+    "related": [
+      "copium"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Name plays on a drug term.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hopium"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "therapy-speak",
+    "term": "therapy speak",
+    "variants": [
+      "therapy-speak",
+      "therapeutic language"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Using mental health language in everyday talk, sometimes in ways critics see as overused.",
+    "meanings": [],
+    "plain": "psychology jargon",
+    "example": "She said 'I'm setting a boundary' about her sandwich. Classic therapy speak.",
+    "exampleTranslation": "She said 'I'm setting a boundary' about her sandwich. Classic psychology jargon.",
+    "tone": "mixed",
+    "context": "Can be genuine and helpful or used in a way that misapplies clinical terms.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "social-media"
+    ],
+    "era": "discussed widely in the 2020s",
+    "related": [
+      "boundaries",
+      "gaslighting",
+      "trauma-dumping",
+      "toxic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.apa.org/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "boundaries",
+    "term": "boundaries",
+    "variants": [
+      "set boundaries",
+      "boundary"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Limits you set for how others may treat you; sometimes joked about when used for trivial matters.",
+    "meanings": [],
+    "plain": "personal limits",
+    "example": "I have a boundary about answering texts after 9 p.m.",
+    "exampleTranslation": "I have a personal limit about answering texts after 9 p.m.",
+    "tone": "mixed",
+    "context": "A real and healthy concept. Humor targets overuse for small things.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions"
+    ],
+    "related": [
+      "therapy-speak",
+      "toxic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.apa.org/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "toxic",
+    "term": "toxic",
+    "variants": [
+      "toxicity"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Harmful, unhealthy, or negative in behavior or relationships.",
+    "meanings": [],
+    "plain": "harmful",
+    "example": "He kept putting down his friends, which is toxic.",
+    "exampleTranslation": "He kept putting down his friends, which is harmful.",
+    "tone": "negative",
+    "context": "Used for people, workplaces, and friendships. Overuse can water down the meaning.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "emotions",
+      "dating"
+    ],
+    "era": "popular in this sense since the 2010s",
+    "related": [
+      "red-flag",
+      "therapy-speak"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/toxic"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "stan-twitter",
+    "term": "stan twitter",
+    "variants": [
+      "stan twt",
+      "stantwt"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The part of Twitter/X where devoted fans of celebrities and shows gather.",
+    "meanings": [],
+    "plain": "online superfan community",
+    "example": "Stan Twitter went wild when the album dropped.",
+    "exampleTranslation": "The online superfan community went wild when the album dropped.",
+    "tone": "playful",
+    "context": "Known for fan wars, edits, and memes.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "entertainment"
+    ],
+    "era": "since approx. mid 2010s",
+    "related": [
+      "stan",
+      "fandom"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=stan%20twitter"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fandom",
+    "term": "fandom",
+    "variants": [
+      "fandoms"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A community of fans of a show, band, game, or book.",
+    "meanings": [],
+    "plain": "fan community",
+    "example": "The fandom made art for every episode.",
+    "exampleTranslation": "The fan community made art for every episode.",
+    "tone": "positive",
+    "context": "Includes fan fiction, art, and conventions.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial",
+      "older-internet"
+    ],
+    "categories": [
+      "entertainment"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/fandom"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "fan-names",
+    "term": "fan names",
+    "variants": [
+      "fan name",
+      "fanbase name",
+      "swifties",
+      "beliebers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Nicknames fans give themselves, like Swifties or the BTS ARMY.",
+    "meanings": [],
+    "plain": "fanbase nickname",
+    "example": "Fan names like Swifties let fans spot each other.",
+    "exampleTranslation": "Fanbase nicknames like Swifties let fans spot each other.",
+    "tone": "positive",
+    "context": "Examples include Swifties (Taylor Swift) and ARMY (BTS).",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "entertainment"
+    ],
+    "related": [
+      "fandom",
+      "stan"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=swiftie"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "earworm",
+    "term": "earworm",
+    "variants": [
+      "earworms"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A song that gets stuck in your head.",
+    "meanings": [],
+    "plain": "catchy stuck song",
+    "example": "That chorus is an earworm; I hum it all day.",
+    "exampleTranslation": "That chorus is a catchy stuck song; I hum it all day.",
+    "tone": "mixed",
+    "context": "Comes from the German Ohrwurm.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment"
+    ],
+    "origin": "Borrowed from German \"Ohrwurm.\"",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/earworm"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "banger",
+    "term": "banger",
+    "variants": [
+      "bangers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An excellent, energetic song.",
+    "meanings": [],
+    "plain": "great song",
+    "example": "This track is a total banger.",
+    "exampleTranslation": "This track is a great song.",
+    "tone": "positive",
+    "context": "Often used for dance and party songs.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment",
+      "compliments"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/banger"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "song-of-the-summer",
+    "term": "song of the summer",
+    "variants": [
+      "sots"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The hit song that defines a summer.",
+    "meanings": [],
+    "plain": "summer hit",
+    "example": "This might be the song of the summer.",
+    "exampleTranslation": "This might be the summer hit.",
+    "tone": "positive",
+    "context": "Media outlets often run guesses each year.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.billboard.com/"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "dorm",
+    "term": "dorm",
+    "variants": [
+      "dorms",
+      "dorm room"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A residence building or room for students at college or boarding school.",
+    "meanings": [],
+    "plain": "student housing",
+    "example": "My dorm room is tiny but cozy.",
+    "exampleTranslation": "My student housing room is tiny but cozy.",
+    "tone": "neutral",
+    "context": "Short for \"dormitory.\"",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "college",
+      "school"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/dorm"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "all-nighter",
+    "term": "all-nighter",
+    "variants": [
+      "pull an all-nighter",
+      "all nighter",
+      "pulling an all-nighter"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Staying up all night, usually to study or finish work.",
+    "meanings": [],
+    "plain": "night without sleep",
+    "example": "I pulled an all-nighter for my final paper.",
+    "exampleTranslation": "I stayed up all night for my final paper.",
+    "tone": "neutral",
+    "context": "Experts note that sleep helps learning, so all-nighters often backfire.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "college",
+      "school"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/all-nighter"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "study-grind",
+    "term": "study grind",
+    "variants": [
+      "grinding",
+      "grind mode"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A period of intense focus on studying.",
+    "meanings": [],
+    "plain": "intense study stretch",
+    "example": "It's finals week, so I'm in study grind mode.",
+    "exampleTranslation": "It's finals week, so I'm in an intense study stretch.",
+    "tone": "neutral",
+    "context": "Often shared on study videos.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "college",
+      "school"
+    ],
+    "era": "popular in the 2010s-2020s",
+    "related": [
+      "all-nighter"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=grind"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "girl-therapy",
+    "term": "girl therapy",
+    "variants": [
+      "girl therapy session"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A relaxing activity, like a walk or a bubble bath, treated as self-care.",
+    "meanings": [],
+    "plain": "self-care activity",
+    "example": "Shopping with my sister is girl therapy.",
+    "exampleTranslation": "Shopping with my sister is a self-care activity.",
+    "tone": "playful",
+    "context": "A joking phrase. Not an actual substitute for therapy.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "friendship"
+    ],
+    "era": "approx. 2020s",
+    "related": [
+      "girl-dinner"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=girl%20therapy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "brunch",
+    "term": "brunch",
+    "variants": [
+      "brunching"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A late-morning meal between breakfast and lunch.",
+    "meanings": [],
+    "plain": "late-morning meal",
+    "example": "Let's get brunch on Sunday.",
+    "exampleTranslation": "Let's get a late-morning meal on Sunday.",
+    "tone": "positive",
+    "context": "A blend of \"breakfast\" and \"lunch.\"",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "food",
+      "friendship"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/brunch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "dark-academia",
+    "term": "dark academia",
+    "variants": [
+      "dark academia aesthetic"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A style inspired by old libraries, tweed, books, and classic literature.",
+    "meanings": [],
+    "plain": "moody scholarly style",
+    "example": "Her room has dark academia vibes with old books.",
+    "exampleTranslation": "Her room has a moody scholarly style with old books.",
+    "tone": "neutral",
+    "context": "Spread through Tumblr and TikTok.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "school"
+    ],
+    "era": "popular approx. late 2010s to early 2020s",
+    "related": [
+      "core-suffix",
+      "aesthetic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=dark+academia"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "coquette",
+    "term": "coquette",
+    "variants": [
+      "coquette aesthetic"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A feminine style with bows, lace, and soft pastel colors.",
+    "meanings": [],
+    "plain": "bow-and-lace style",
+    "example": "She wore a coquette outfit with ribbons.",
+    "exampleTranslation": "She wore a bow-and-lace outfit with ribbons.",
+    "tone": "neutral",
+    "context": "The word is French for a flirtatious woman; the online style is mostly about frilly aesthetics. Went viral on TikTok around 2023.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "fashion"
+    ],
+    "era": "popular approx. 2023",
+    "related": [
+      "core-suffix",
+      "aesthetic"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=coquette"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "left-on-read",
+    "term": "left on read",
+    "variants": [
+      "leave on read",
+      "seen-zoned",
+      "read receipt"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "When someone opens your message but does not reply.",
+    "meanings": [],
+    "plain": "seen but ignored",
+    "example": "He left me on read all day.",
+    "exampleTranslation": "He saw my message but ignored it all day.",
+    "tone": "negative",
+    "context": "Referring to read receipts in messaging apps.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "texting",
+      "dating",
+      "social-media"
+    ],
+    "era": "since approx. 2010s",
+    "related": [
+      "ghosting"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=left%20on%20read"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "thirst-trap",
+    "term": "thirst trap",
+    "variants": [
+      "thirst traps"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A post made to attract attention or admiration for how someone looks.",
+    "meanings": [],
+    "plain": "attention-seeking glamour post",
+    "example": "He posted a thirst trap at the gym.",
+    "exampleTranslation": "He posted an attention-seeking glamour post at the gym.",
+    "tone": "mixed",
+    "context": "Often flirtatious. Not suitable for kids.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "dating"
+    ],
+    "era": "popular since approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Refers to sexually suggestive posts for attention.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/thirst%20trap"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "benching",
+    "term": "benching",
+    "variants": [
+      "benched",
+      "bench someone"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Keeping someone as a backup romantic option while dating others.",
+    "meanings": [],
+    "plain": "keeping as a backup",
+    "example": "He benched me while he dated someone else.",
+    "exampleTranslation": "He kept me as a backup while he dated someone else.",
+    "tone": "negative",
+    "context": "Sports metaphor, used in dating talk.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "dating"
+    ],
+    "era": "approx. late 2010s",
+    "related": [
+      "breadcrumbing",
+      "ghosting"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Dating context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=benching"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  }
+]

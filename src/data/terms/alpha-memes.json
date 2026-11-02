@@ -1,0 +1,4249 @@
+[
+  {
+    "id": "skibidi",
+    "term": "skibidi",
+    "variants": [
+      "skibidi toilet",
+      "skibidi dop dop",
+      "skibidi bop",
+      "skibidi bop yes yes"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "A nonsense word that can mean cool, bad, or just random; it is also the name of a viral animated series where singing toilet heads battle camera-headed agents.",
+    "meanings": [],
+    "plain": "nonsense / random",
+    "example": "\"That joke was so skibidi.\" \"Skibidi what?\" \"Just skibidi.\"",
+    "exampleTranslation": "That joke was so random and silly.",
+    "tone": "playful",
+    "context": "Used mostly as a joke word by kids; meaning shifts with context and often has none. Adults hear it as the poster child of brain rot.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "From the Skibidi Toilet YouTube animation series created by Alexey Gerasimov (DaFuq!?Boom!), which began in 2023; the sung phrase came from a remixed Bulgarian song clip.",
+    "related": [
+      "brain-rot",
+      "ohio",
+      "gyatt",
+      "sigma"
+    ],
+    "synonyms": [
+      "random",
+      "silly"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "There is no fixed meaning; trying to define it too precisely misses the joke.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Skibidi_Toilet",
+      "https://www.urbandictionary.com/define.php?term=skibidi"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "six-seven",
+    "term": "six seven",
+    "variants": [
+      "6-7",
+      "67",
+      "six-seven",
+      "sixty-seven",
+      "6 7"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A viral nonsense chant and hand gesture (palms up, alternating up and down) with no real meaning, shouted for the fun of it, especially when the number 67 comes up.",
+    "meanings": [],
+    "plain": "(nothing, a silly chant)",
+    "example": "\"What's the answer?\" \"Six seven!\" \"That is not even close.\"",
+    "exampleTranslation": "\"What's the answer?\" \"Just a silly chant!\" \"That is not even close.\"",
+    "tone": "playful",
+    "context": "Popular in schools in 2025; classes often shout it when a 6, a 7, or 67 appears, which frustrates teachers. Its meaninglessness is the point.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "origin": "Spread on TikTok and basketball edits, tied to a song and clips of a basketball player; reported to have exploded among kids in 2025. Dictionary.com reportedly named \"6-7\" its 2025 Word of the Year; verify before quoting.",
+    "related": [
+      "skibidi",
+      "6-7-kid",
+      "brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Do not look for a hidden meaning; asking \"what does it mean?\" is part of the joke.",
+    "sources": [
+      "https://www.dictionary.com/e/word-of-the-year/",
+      "https://www.urbandictionary.com/define.php?term=67"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "sigma",
+    "term": "sigma",
+    "variants": [
+      "sigma male",
+      "sigma boy",
+      "sigma energy"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Describes a person (meme-ishly, a man) seen as independent, cool, and doing his own thing outside normal social ranks; now mostly used jokingly.",
+    "meanings": [],
+    "plain": "cool and independent",
+    "example": "\"He ate lunch alone and didn't care. Total sigma.\"",
+    "exampleTranslation": "He ate lunch alone and didn't care. Very independent and cool.",
+    "tone": "playful",
+    "context": "Began as a serious \"manosphere\" personality label; kids today use it as a goofy compliment or a meme.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2021–2025",
+    "origin": "From online self-help and \"manosphere\" ranking of male personalities (alpha, beta, sigma); later turned into a joke meme on TikTok.",
+    "related": [
+      "alpha",
+      "beta",
+      "what-the-sigma",
+      "sigma-rule",
+      "sigma-grindset"
+    ],
+    "synonyms": [
+      "cool",
+      "independent"
+    ],
+    "opposites": [
+      "beta"
+    ],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sensitiveNote": "The original alpha/beta/sigma hierarchy comes from online \"manosphere\" communities with sexist ideas; kids mostly use the word as a joke.",
+    "sources": [
+      "https://www.merriam-webster.com/slang/sigma",
+      "https://www.urbandictionary.com/define.php?term=sigma"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "what-the-sigma",
+    "term": "what the sigma",
+    "variants": [
+      "erm what the sigma",
+      "what the sigma?",
+      "wts"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joking reaction of confusion or surprise, a swap of \"sigma\" into the phrase \"what the heck.\"",
+    "meanings": [],
+    "plain": "what in the world",
+    "example": "\"Erm, what the sigma is that?\"",
+    "exampleTranslation": "What in the world is that?",
+    "tone": "playful",
+    "context": "Often delivered in a nerdy \"erm\" voice for comedy. Pure meme, rarely sincere.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Brain rot remix of a mild swear phrase, spread on TikTok and YouTube.",
+    "related": [
+      "sigma",
+      "erm",
+      "skibidi"
+    ],
+    "synonyms": [
+      "what the heck"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=what%20the%20sigma"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fanum-tax",
+    "term": "fanum tax",
+    "variants": [
+      "fanum taxing",
+      "fanum taxed",
+      "fanum"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Taking a bite or some of a friend's food as a joking \"tax\" they have to pay.",
+    "meanings": [],
+    "plain": "a bite stolen from a friend",
+    "example": "\"Give me a fry. Fanum tax.\"",
+    "exampleTranslation": "Give me a fry. I get a share.",
+    "tone": "playful",
+    "context": "Used jokingly among friends over snacks and lunch; verb form \"to fanum tax\" is common.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "food",
+      "friendship",
+      "memes"
+    ],
+    "era": "approx. 2022–2024",
+    "origin": "Named for streamer Fanum, a member of the AMP group, who was known for taking bites of his friends' food on stream.",
+    "related": [
+      "aura",
+      "brain-rot",
+      "chat"
+    ],
+    "synonyms": [
+      "food tax"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/fanum-tax",
+      "https://www.urbandictionary.com/define.php?term=fanum%20tax"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "aura",
+    "term": "aura",
+    "variants": [
+      "aura points",
+      "+1000 aura",
+      "plus 1000 aura",
+      "aura check"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An invisible score of how cool, confident, or impressive someone is; people \"gain\" or \"lose\" aura points for their actions.",
+    "meanings": [],
+    "plain": "cool factor",
+    "example": "\"He caught the dropped tray. +1000 aura.\"",
+    "exampleTranslation": "He caught the dropped tray. That was super cool.",
+    "tone": "positive",
+    "context": "Used to rate moments, usually jokingly, with big numbers. Gaining aura is cool; losing it is embarrassing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Popularized on TikTok and in gaming and streaming communities; builds on older ideas of a person's \"aura\" or vibe.",
+    "related": [
+      "negative-aura",
+      "aura-farming",
+      "w-aura",
+      "aura-debt"
+    ],
+    "synonyms": [
+      "cool factor",
+      "swagger"
+    ],
+    "opposites": [
+      "negative-aura"
+    ],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/aura",
+      "https://www.urbandictionary.com/define.php?term=aura"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "negative-aura",
+    "term": "negative aura",
+    "variants": [
+      "-1000 aura",
+      "minus 1000 aura",
+      "minus aura",
+      "lost aura"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Losing coolness points through an embarrassing or uncool moment.",
+    "meanings": [],
+    "plain": "embarrassing / uncool",
+    "example": "\"He tripped on the stage. -1000 aura.\"",
+    "exampleTranslation": "He tripped on stage. How embarrassing.",
+    "tone": "playful",
+    "context": "Teasing, usually mild. Often scored with exaggerated numbers.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "aura",
+      "aura-debt",
+      "aura-farming"
+    ],
+    "synonyms": [
+      "cringe"
+    ],
+    "opposites": [
+      "aura"
+    ],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=negative%20aura"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "aura-farming",
+    "term": "aura farming",
+    "variants": [
+      "aura farm",
+      "farming aura"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Deliberately doing things to look effortlessly cool and rack up admiration.",
+    "meanings": [],
+    "plain": "showing off coolly",
+    "example": "\"He walked in slow motion with sunglasses. Aura farming.\"",
+    "exampleTranslation": "He walked in slow motion with sunglasses, trying to look cool.",
+    "tone": "playful",
+    "context": "Can be admiring or mocking. Went viral in 2025 through clips of young boat racers in Indonesia dancing at the front of a boat.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "compliments"
+    ],
+    "era": "approx. 2025",
+    "origin": "Popularized in 2025 partly by a viral clip of a boy dancing on the prow of a Riau (Indonesia) racing boat, though the phrase builds on earlier \"aura\" slang.",
+    "related": [
+      "aura",
+      "negative-aura",
+      "w-aura"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=aura%20farming"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ohio",
+    "term": "Ohio",
+    "variants": [
+      "only in ohio",
+      "ohio final boss",
+      "so ohio"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Used as a joke for anything weird, cursed, or chaotic; the U.S. state itself is the butt of the meme.",
+    "meanings": [],
+    "plain": "a weird place",
+    "example": "\"The cat is in the fridge again. Only in Ohio.\"",
+    "exampleTranslation": "The cat is in the fridge again. That is just weird.",
+    "tone": "playful",
+    "context": "Not actually about the state; people from Ohio often joke along. \"Ohio final boss\" means an absurdly strong or odd person.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "Grew from internet jokes about Ohio being strange or unremarkable, then exploded in Gen Alpha brain rot.",
+    "related": [
+      "skibidi",
+      "ohio-rizz",
+      "brain-rot"
+    ],
+    "synonyms": [
+      "weird",
+      "cursed"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [
+      "US"
+    ],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/ohio",
+      "https://www.urbandictionary.com/define.php?term=Ohio"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "gyatt",
+    "term": "gyatt",
+    "variants": [
+      "gyat",
+      "gyatt damn"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "An exclamation of shock or admiration, from \"goddamn\"; it began as a reaction to a person's curvy body, though many kids use it for any surprising thing.",
+    "meanings": [],
+    "plain": "wow!",
+    "example": "\"You got a perfect score? Gyatt!\"",
+    "exampleTranslation": "You got a perfect score? Wow!",
+    "tone": "playful",
+    "context": "Pronounced like \"GYAT.\" Used by kids who often don't know its body-focused origin. Teachers may ban it.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "pronunciation": "GYAT (rhymes with \"that\")",
+    "era": "approx. 2022–2024",
+    "origin": "Respelling of \"goddamn,\" from streamer and Black internet communities, popularized in 2022–2023 reacting to women's bodies, then used generically.",
+    "related": [
+      "skibidi",
+      "rizzler",
+      "ohio"
+    ],
+    "synonyms": [
+      "wow"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Originated as a reaction to someone's body and is a respelling of \"goddamn\"; many kids use it as a general \"wow\" without knowing, but it can be objectifying.",
+    "sources": [
+      "https://www.dictionary.com/e/slang/gyatt/",
+      "https://www.urbandictionary.com/define.php?term=gyatt"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "mewing",
+    "term": "mewing",
+    "variants": [
+      "mew",
+      "mewed",
+      "mew streak"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Pressing the tongue to the roof of the mouth in a trend that claims it sharpens the jawline; used jokingly to silence someone or show off a \"chiseled\" face.",
+    "meanings": [],
+    "plain": "posing for a sharper jaw",
+    "example": "\"Stop talking and start mewing.\"",
+    "exampleTranslation": "Stop talking and pose for a sharper jaw.",
+    "tone": "playful",
+    "context": "Often a joke gesture (finger across lips) meant to tell someone to be quiet. Health claims are not scientifically established.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "compliments"
+    ],
+    "era": "approx. 2019–2024",
+    "origin": "Named after British orthodontist John Mew, whose \"orthotropics\" ideas about tongue posture and jaw shape went viral on TikTok.",
+    "related": [
+      "looksmaxxing",
+      "mog",
+      "mewing-streak"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/John_Mew",
+      "https://www.urbandictionary.com/define.php?term=mewing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "looksmaxxing",
+    "term": "looksmaxxing",
+    "variants": [
+      "looksmaxing",
+      "looksmaxx",
+      "looksmax"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Trying to make yourself more attractive using grooming, fitness, and sometimes extreme methods.",
+    "meanings": [],
+    "plain": "improving your looks",
+    "example": "\"He started looksmaxxing with skincare and a haircut.\"",
+    "exampleTranslation": "He started improving his looks with skincare and a haircut.",
+    "tone": "mixed",
+    "context": "Ranges from healthy habits like skincare and exercise to harmful extremes. Sometimes mocked.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "fashion"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "Came from online self-improvement and incel-adjacent forums, then spread to TikTok as meme.",
+    "related": [
+      "maxxing",
+      "mewing",
+      "mog",
+      "hunter-eyes"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Rooted in online forums with appearance-obsessed and sometimes extreme communities; can promote unhealthy body image and risky \"hacks.\"",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=looksmaxxing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "maxxing",
+    "term": "-maxxing",
+    "variants": [
+      "maxxing",
+      "maxing",
+      "max"
+    ],
+    "partOfSpeech": "suffix",
+    "definition": "A suffix meaning to push something to the maximum, like \"sleepmaxxing\" or \"studymaxxing.\"",
+    "meanings": [],
+    "plain": "maximizing",
+    "example": "\"I'm sleepmaxxing before the test.\"",
+    "exampleTranslation": "I'm getting as much sleep as possible before the test.",
+    "tone": "playful",
+    "context": "Attach it to any habit; often jokey.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "Spun off from \"looksmaxxing\" in online forums.",
+    "related": [
+      "looksmaxxing",
+      "lock-in"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Using it for something negative reads as a joke, not a serious plan.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=maxxing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "mog",
+    "term": "mog",
+    "variants": [
+      "mogging",
+      "mogged",
+      "mogs"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To outshine someone, especially in looks or presence, so they seem lesser by comparison.",
+    "meanings": [],
+    "plain": "outshine",
+    "example": "\"He got mogged by the new kid.\"",
+    "exampleTranslation": "He was outshone by the new kid.",
+    "tone": "playful",
+    "context": "Short for \"AMOG\" (alpha male of the group). Jokey in meme use but can sting.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "From the acronym AMOG on incel-adjacent forums; later spread through TikTok.",
+    "related": [
+      "looksmaxxing",
+      "mewing",
+      "sigma"
+    ],
+    "synonyms": [
+      "outshine"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Comes from forum culture that ranks men by looks; can be used to put people down.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=mog"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "npc",
+    "term": "NPC",
+    "variants": [
+      "npc behavior",
+      "npc moment",
+      "npc"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A person who seems to act like a scripted background character with no independent thought, from video games' \"non-player characters.\"",
+    "meanings": [],
+    "plain": "robot-like person",
+    "example": "\"He said the same line three times. Total NPC.\"",
+    "exampleTranslation": "He repeated the same line three times, like a robot.",
+    "tone": "sarcastic",
+    "context": "Used as a mild insult. Some find it dehumanizing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "gaming",
+      "memes"
+    ],
+    "era": "approx. 2018–2025",
+    "origin": "Gaming term for non-player characters, later turned into a political and social meme and then into TikTok NPC streaming.",
+    "related": [
+      "npc-streaming",
+      "brain-rot"
+    ],
+    "synonyms": [
+      "robot"
+    ],
+    "opposites": [
+      "main-character-energy"
+    ],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/NPC",
+      "https://www.urbandictionary.com/define.php?term=NPC"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "npc-streaming",
+    "term": "NPC streaming",
+    "variants": [
+      "npc live",
+      "ice cream so good",
+      "mm ice cream"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A TikTok live trend where streamers act like game NPCs, repeating odd phrases whenever viewers send gifts.",
+    "meanings": [],
+    "plain": "acting like a game character",
+    "example": "\"She did NPC streaming with the ice cream line.\"",
+    "exampleTranslation": "She acted like a game character on stream.",
+    "tone": "playful",
+    "context": "Became widely known in 2023; viewers tip small gifts to trigger the phrases.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "approx. 2023",
+    "origin": "Popularized on TikTok Live in 2023 (the \"ice cream so good\" line was a famous example).",
+    "related": [
+      "npc",
+      "brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=NPC%20streaming"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "brain-rot",
+    "term": "brain rot",
+    "variants": [
+      "brainrot",
+      "brain rotted"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Silly, low-effort online content and slang that people joke is turning their brains to mush; also the feeling from watching too much of it.",
+    "meanings": [
+      "The internet-meme culture itself (e.g. \"that is brain rot\")"
+    ],
+    "plain": "mindless internet junk",
+    "example": "\"I watched memes all day and now I have brain rot.\"",
+    "exampleTranslation": "I watched memes all day and my brain feels numb.",
+    "tone": "sarcastic",
+    "context": "Used by kids with pride and by adults with worry. Oxford University Press named \"brain rot\" its 2024 Word of the Year.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "The phrase appears as far back as Thoreau's Walden (1854), but exploded on social media around 2023–2024; Oxford chose it as Word of the Year 2024.",
+    "related": [
+      "skibidi",
+      "six-seven",
+      "italian-brain-rot",
+      "brain-rot-language"
+    ],
+    "synonyms": [
+      "internet junk"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://corp.oup.com/word-of-the-year/",
+      "https://www.urbandictionary.com/define.php?term=brain%20rot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "goofy-ahh",
+    "term": "goofy ahh",
+    "variants": [
+      "goofy ahh",
+      "goofy ah",
+      "goofy aah"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "\"Goofy\" plus \"ahh\" used as a playful descriptor meaning silly or ridiculous.",
+    "meanings": [],
+    "plain": "silly",
+    "example": "\"That goofy ahh sound effect made me laugh.\"",
+    "exampleTranslation": "That silly sound effect made me laugh.",
+    "tone": "playful",
+    "context": "The \"ahh\" is a stand-in for a rude word, but it is used as a harmless-sounding exaggeration. Often used with sound effects.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "From Black internet humor and TikTok, using stretched \"ahh\" in place of a rude word.",
+    "related": [
+      "ahh",
+      "tuff",
+      "sybau"
+    ],
+    "synonyms": [
+      "silly"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "\"Ahh\" stands in for a rude word; kids often say it without that meaning, but adults may find it inappropriate.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=goofy%20ahh"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "rizzler",
+    "term": "rizzler",
+    "variants": [
+      "the rizzler",
+      "baby gronk rizzler"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone with great charm, especially with crushes, now often joked about as a \"master of rizz.\"",
+    "meanings": [],
+    "plain": "charmer",
+    "example": "\"He's the ultimate rizzler.\"",
+    "exampleTranslation": "He is a master charmer.",
+    "tone": "playful",
+    "context": "Based on \"rizz\" (charisma). The \"Rizzler\" meme spread via a song about a kid who has strong charisma.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Gen Alpha spin on \"rizz\" from the 2023 Skibidi-era meme scene, with a viral song using the line \"Rizzler.\"",
+    "related": [
+      "rizz",
+      "rizz-god",
+      "negative-rizz",
+      "ohio-rizz"
+    ],
+    "synonyms": [
+      "charmer"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=rizzler"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "delulu",
+    "term": "delulu",
+    "variants": [
+      "delulu is the solulu",
+      "delusional"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Short for \"delusional,\" used for people holding unrealistic hopes, often jokingly as self-confidence.",
+    "meanings": [],
+    "plain": "delusional / overly hopeful",
+    "example": "\"I'm delulu about getting an A. Delulu is the solulu!\"",
+    "exampleTranslation": "I am overly hopeful about getting an A. Being hopeful is the solution!",
+    "tone": "playful",
+    "context": "Often a self-deprecating or empowering joke. \"Delulu is the solulu\" means a little delusion helps you succeed.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "approx. 2015–2023",
+    "origin": "From K-pop fan communities (fans delusional about idols), then mainstream on TikTok.",
+    "related": [
+      "delulu",
+      "crash-out"
+    ],
+    "synonyms": [
+      "delusional"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/slang/delulu/",
+      "https://www.urbandictionary.com/define.php?term=delulu"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "fein",
+    "term": "fein",
+    "variants": [
+      "feining",
+      "fiending",
+      "fien",
+      "fiend"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To be desperately craving something, as in \"I'm feining for snacks.\"",
+    "meanings": [],
+    "plain": "craving",
+    "example": "\"I'm feining for pizza.\"",
+    "exampleTranslation": "I'm craving pizza.",
+    "tone": "playful",
+    "context": "Spelled many ways; kids use it for any intense want.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "From \"fiend,\" a person addicted to something, especially drugs; now used jokingly for any craving.",
+    "related": [],
+    "synonyms": [
+      "craving"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Origins are in drug-addiction language (\"fiend\"); kids use it lightly for cravings.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=fein"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "yap",
+    "term": "yap",
+    "variants": [
+      "yapping",
+      "yapper",
+      "yap session",
+      "yapfest"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To talk a lot, especially without saying much; a yapper is a very talkative person.",
+    "meanings": [],
+    "plain": "talk a lot",
+    "example": "\"He's been yapping about video games for an hour.\"",
+    "exampleTranslation": "He has been talking about video games for an hour.",
+    "tone": "playful",
+    "context": "Mild tease. \"Yap session\" is a long chat; sometimes admired when a friend shares many stories.",
+    "generations": [
+      "alpha",
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "friendship",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Existing word for noisy talk, revived by Gen Z and Alpha TikTok.",
+    "related": [
+      "chat",
+      "yapanese"
+    ],
+    "synonyms": [
+      "chatter",
+      "ramble"
+    ],
+    "opposites": [
+      "silent"
+    ],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/yap",
+      "https://www.urbandictionary.com/define.php?term=yap"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "glazing",
+    "term": "glazing",
+    "variants": [
+      "glaze",
+      "glazer",
+      "glazed",
+      "dick riding"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Over-the-top praise for someone, usually undeserved; sucking up.",
+    "meanings": [],
+    "plain": "over-praising",
+    "example": "\"Stop glazing him, he just made one basket.\"",
+    "exampleTranslation": "Stop praising him too much, he just made one basket.",
+    "tone": "sarcastic",
+    "context": "Used to tease friends who gush over a celebrity or each other.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2021–2025",
+    "origin": "Linked to an adult slang phrase, likely from Black internet communities and sports fandom; kids may not know the origin.",
+    "related": [
+      "yap",
+      "aura"
+    ],
+    "synonyms": [
+      "sucking up",
+      "over-praising"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Origin is sexual slang; many younger users treat it as simply \"over-praising.\"",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=glazing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "chat",
+    "term": "chat",
+    "variants": [
+      "chat,",
+      "chat?"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Addressing an imaginary stream audience in everyday life, as if the speaker were livestreaming.",
+    "meanings": [],
+    "plain": "everybody (imagined audience)",
+    "example": "\"Chat, I forgot my lunch again.\"",
+    "exampleTranslation": "Everybody, I forgot my lunch again.",
+    "tone": "playful",
+    "context": "Spoken to friends or no one. Comes from streaming culture where \"chat\" is the viewers' message window.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "Twitch and streaming culture.",
+    "related": [
+      "chat-is-this-real",
+      "chat-am-i-cooked"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=chat"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "chat-is-this-real",
+    "term": "chat is this real",
+    "variants": [
+      "is this real chat",
+      "chat is this real?"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A mock-serious question to an imaginary audience expressing disbelief.",
+    "meanings": [],
+    "plain": "is this really happening?",
+    "example": "\"Chat, is this real? I got a seat on the bus.\"",
+    "exampleTranslation": "Is this really happening? I got a seat on the bus.",
+    "tone": "playful",
+    "context": "Streamer-speak used for surprising or dramatic moments.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "Twitch and YouTube gaming culture.",
+    "related": [
+      "chat",
+      "chat-am-i-cooked"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=chat%20is%20this%20real"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "chat-am-i-cooked",
+    "term": "chat am I cooked",
+    "variants": [
+      "am i cooked chat",
+      "chat am i cooked?"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Asking an imaginary audience if you are in trouble or likely to fail.",
+    "meanings": [],
+    "plain": "am I in trouble?",
+    "example": "\"Chat, am I cooked? I haven't started the project.\"",
+    "exampleTranslation": "Am I in trouble? I haven't started the project.",
+    "tone": "playful",
+    "context": "Often self-teasing, used before tests or deadlines.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Streaming culture plus the Gen Z use of \"cooked.\"",
+    "related": [
+      "chat",
+      "chat-is-this-real",
+      "cooked"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=chat%20am%20I%20cooked"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "unc",
+    "term": "unc",
+    "variants": [
+      "unc status",
+      "uncle status",
+      "unc behavior"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A jokey label for someone who seems old, uncool, or out of touch.",
+    "meanings": [],
+    "plain": "old-fashioned person",
+    "example": "\"He still uses a flip phone. Unc status.\"",
+    "exampleTranslation": "He still uses a flip phone. He is out of touch.",
+    "tone": "playful",
+    "context": "Short for \"uncle.\" Usually a mild teasing; some people wear it as a badge.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "African American Vernacular English \"unc\" for an older guy, spread through memes and TikTok.",
+    "related": [
+      "boomer"
+    ],
+    "synonyms": [
+      "old-timer"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=unc"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "pookie",
+    "term": "pookie",
+    "variants": [
+      "pookie bear",
+      "pookies"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A pet name for someone dear, such as a friend or sweetheart.",
+    "meanings": [],
+    "plain": "dear friend",
+    "example": "\"Hey pookie, wanna sit with us?\"",
+    "exampleTranslation": "Hey dear, want to sit with us?",
+    "tone": "positive",
+    "context": "Warm and affectionate; used between friends and partners.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "friendship",
+      "dating"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Old pet name (from \"pooh\"), revived on TikTok.",
+    "related": [
+      "blud",
+      "twin"
+    ],
+    "synonyms": [
+      "sweetie"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=pookie"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "blud",
+    "term": "blud",
+    "variants": [
+      "bludd",
+      "blood"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Friend or buddy, from British slang \"blud,\" shortened from \"blood\" (brother); used jokingly as an address.",
+    "meanings": [],
+    "plain": "buddy",
+    "example": "\"Blud, that was incredible.\"",
+    "exampleTranslation": "Buddy, that was incredible.",
+    "tone": "playful",
+    "context": "Used as a UK-flavored meme in the Gen Alpha corner of the internet. Playful, sometimes mocking.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "friendship",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "Black British and London slang, spread globally via memes and gaming.",
+    "related": [
+      "dawg",
+      "twin",
+      "lil-bro"
+    ],
+    "synonyms": [
+      "buddy",
+      "mate"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [
+      "UK"
+    ],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=blud"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "crash-out",
+    "term": "crash out",
+    "variants": [
+      "crashing out",
+      "crashed out",
+      "crashout"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To lose your temper or make a rash decision when upset.",
+    "meanings": [],
+    "plain": "have a meltdown",
+    "example": "\"He crashed out when he lost the game.\"",
+    "exampleTranslation": "He had a meltdown when he lost the game.",
+    "tone": "negative",
+    "context": "Describes anger or a spiral, sometimes dramatic. Can be teasing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "From Black internet and sports slang about a driver crashing; spread via TikTok.",
+    "related": [
+      "chat-am-i-cooked"
+    ],
+    "synonyms": [
+      "melt down"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/slang/crash-out",
+      "https://www.urbandictionary.com/define.php?term=crash%20out"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "absolute-cinema",
+    "term": "absolute cinema",
+    "variants": [
+      "peak cinema"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "High praise for something excellent, funny, or perfectly made, as if it belonged in a great movie.",
+    "meanings": [],
+    "plain": "a masterpiece",
+    "example": "\"That ending was absolute cinema.\"",
+    "exampleTranslation": "That ending was a masterpiece.",
+    "tone": "positive",
+    "context": "Can be sincere or ironic about silly things.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "approval",
+      "memes"
+    ],
+    "era": "approx. 2020–2025",
+    "origin": "From a meme of a Martin Scorsese-style praise, spread on Twitter and TikTok.",
+    "related": [
+      "peak",
+      "goated"
+    ],
+    "synonyms": [
+      "masterpiece"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=absolute%20cinema"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "we-got-before-gta-6",
+    "term": "we got ___ before GTA 6",
+    "variants": [
+      "we got before gta 6",
+      "before gta 6",
+      "gta 6 meme"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke template listing odd things that arrived before the long-delayed game Grand Theft Auto VI.",
+    "meanings": [],
+    "plain": "(a joke about waiting for GTA 6)",
+    "example": "\"We got a new iPhone before GTA 6.\"",
+    "exampleTranslation": "There has been a new iPhone and still no GTA 6.",
+    "tone": "sarcastic",
+    "context": "Teases how long gamers have waited. Not related to content of the game.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "Gaming meme after GTA VI was officially confirmed in 2022 and its release was delayed.",
+    "related": [
+      "npc"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=we%20got%20___%20before%20GTA%206"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "negative-rizz",
+    "term": "negative rizz",
+    "variants": [
+      "-rizz",
+      "no rizz",
+      "minus rizz"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Being so awkward with a crush that you lower your charm instead of raising it.",
+    "meanings": [],
+    "plain": "awkwardness",
+    "example": "\"He gave a banana as a gift. Negative rizz.\"",
+    "exampleTranslation": "He gave a banana as a gift. That was awkward.",
+    "tone": "playful",
+    "context": "Gen Alpha jokes about failed flirting.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "rizz",
+      "rizzler",
+      "negative-aura"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "rizz"
+    ],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=negative%20rizz"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "clanker",
+    "term": "clanker",
+    "variants": [
+      "clankers",
+      "clanka"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A jokey slur for robots and AI chatbots.",
+    "meanings": [],
+    "plain": "robot",
+    "example": "\"I asked the clanker to do my homework.\"",
+    "exampleTranslation": "I asked the AI to do my homework.",
+    "tone": "sarcastic",
+    "context": "Went viral in 2025 as AI frustration meme; some note it echoes real slurs. Teachers may not appreciate cheating.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "social-media"
+    ],
+    "era": "approx. 2025",
+    "origin": "From Star Wars (the Clone Wars series used \"clanker\" for battle droids), revived as an anti-AI meme in 2025.",
+    "related": [
+      "slop",
+      "vibe-coding"
+    ],
+    "synonyms": [
+      "bot"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Treated as a pretend slur for AI; some people worry it can be used to mock real groups through the same pattern.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=clanker"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "chopped",
+    "term": "chopped",
+    "variants": [
+      "chopped chin",
+      "chopped af"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Looks-based put-down meaning unattractive or \"ugly.\"",
+    "meanings": [],
+    "plain": "unattractive",
+    "example": "\"He thinks he's chopped, but he's fine.\"",
+    "exampleTranslation": "He thinks he looks bad, but he's fine.",
+    "tone": "negative",
+    "context": "Opposite of \"mogging\" culture; can hurt feelings. Use gently.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "From looksmaxxing forum language.",
+    "related": [
+      "mog",
+      "looksmaxxing"
+    ],
+    "synonyms": [
+      "ugly"
+    ],
+    "opposites": [
+      "mog"
+    ],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Appearance-based insult from looksmaxxing forums.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=chopped"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "zesty",
+    "term": "zesty",
+    "variants": [
+      "zest"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Flamboyant or flashy; used jokingly, but often as a homophobic jab.",
+    "meanings": [],
+    "plain": "flamboyant",
+    "example": "(Not recommended as an insult.)",
+    "exampleTranslation": "Not recommended as an insult.",
+    "tone": "mixed",
+    "context": "Often aimed at boys to tease them about being \"gay,\" which can be hurtful. Better to avoid.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Older sense \"lively and tangy\" shifted into a gay-coded insult online.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Often used as a homophobic insult; recommend avoiding.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=zesty"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bombastic-side-eye",
+    "term": "bombastic side eye",
+    "variants": [
+      "bombastic side eye",
+      "criminal offensive side eye"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A jokey way of describing a dramatic sideways look of disapproval.",
+    "meanings": [],
+    "plain": "a dramatic disapproving look",
+    "example": "\"I gave him a bombastic side eye.\"",
+    "exampleTranslation": "I gave him a dramatic disapproving look.",
+    "tone": "playful",
+    "context": "Often delivered with a pause and a squint. Comes from a viral clip.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "reactions",
+      "memes"
+    ],
+    "era": "approx. 2023",
+    "origin": "A 2023 TikTok line paired with a dramatic side-eye reaction.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bombastic%20side%20eye"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "its-so-over-were-so-back",
+    "term": "it's so over / we're so back",
+    "variants": [
+      "its so over",
+      "we're so back",
+      "so back"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A dramatic swing between despair and hope, used for any small win or loss.",
+    "meanings": [],
+    "plain": "all is lost / we're saved",
+    "example": "\"I failed the quiz. It's so over.\" \"I got extra credit. We're so back.\"",
+    "exampleTranslation": "I failed the quiz and all is lost. Then I got extra credit and all is well.",
+    "tone": "playful",
+    "context": "Exaggerates ups and downs, borrowed from finance and sports memes.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "Crypto and sports online communities.",
+    "related": [
+      "its-over-for-you"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=it's%20so%20over%20%2F%20we're%20so%20back"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "alpha",
+    "term": "alpha",
+    "variants": [
+      "alpha male",
+      "alpha energy"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Dominant, confident, leader-like; online memes treat it as the opposite of \"beta.\"",
+    "meanings": [],
+    "plain": "dominant",
+    "example": "\"He acts so alpha with the group project.\"",
+    "exampleTranslation": "He acts like the dominant leader on the group project.",
+    "tone": "mixed",
+    "context": "Mostly joking now. Wolf pack \"alpha\" myth was debunked by scientists.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2010s–2025",
+    "origin": "From \"alpha male\" in animal behavior pop-science and the manosphere.",
+    "related": [
+      "sigma",
+      "beta"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "beta"
+    ],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Tied to \"manosphere\" ideas that rank men; often cringe.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/alpha",
+      "https://www.urbandictionary.com/define.php?term=alpha"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "beta",
+    "term": "beta",
+    "variants": [
+      "beta male"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An insult for a man seen as weak or submissive, the opposite of \"alpha.\"",
+    "meanings": [],
+    "plain": "pushover",
+    "example": "\"Don't be such a beta.\"",
+    "exampleTranslation": "Don't be such a pushover.",
+    "tone": "negative",
+    "context": "Mostly a meme insult; discourages kindness. Some use it playfully.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2010s–2025",
+    "origin": "Manosphere ranking system.",
+    "related": [
+      "alpha",
+      "sigma"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "alpha"
+    ],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Used to shame men for being gentle; better avoided.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=beta"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "huzz",
+    "term": "huzz",
+    "variants": [
+      "huzzes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Slang for girls or women a speaker is interested in, from \"hoes\" via the pun \"huzz.\"",
+    "meanings": [],
+    "plain": "girls",
+    "example": "\"He is out with the huzz.\"",
+    "exampleTranslation": "He is out with the girls.",
+    "tone": "playful",
+    "context": "Originated as a mild respelling of a derogatory word, so can be disrespectful.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "dating",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "origin": "Derived from a derogatory term for women, softened by respelling.",
+    "related": [
+      "rizz"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Euphemistic respelling of a derogatory term for women.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=huzz"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tung-tung-tung-sahur",
+    "term": "tung tung tung sahur",
+    "variants": [
+      "tung tung sahur",
+      "tung tung tung tung sahur"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A brain rot character: a wooden drum-bat that sings in a chant, inspired by a Ramadan pre-dawn \"sahur\" wake-up call in Indonesia.",
+    "meanings": [],
+    "plain": "(a meme character)",
+    "example": "\"Tung tung tung tung sahur!\" shouted my cousin.",
+    "exampleTranslation": "My cousin shouted a meme chant.",
+    "tone": "playful",
+    "context": "Part of the \"Italian brain rot\" group, though it is Indonesian in origin. Not a mocking of Ramadan for most.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "origin": "Indonesian TikTok meme in 2025 that inspired the AI-generated \"Italian brain rot\" wave; \"sahur\" is the pre-dawn meal Muslims eat during Ramadan.",
+    "related": [
+      "italian-brain-rot",
+      "tralalero-tralala"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sensitiveNote": "Sahur is a religious meal during Ramadan; some Muslim viewers find the meme disrespectful.",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Italian_brainrot",
+      "https://www.urbandictionary.com/define.php?term=tung%20tung%20tung%20sahur"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "italian-brain-rot",
+    "term": "Italian brain rot",
+    "variants": [
+      "italian brainrot",
+      "ballerina cappuccina"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A wave of AI-generated absurd characters with fake Italian-sounding names like \"Tralalero Tralala.\"",
+    "meanings": [],
+    "plain": "absurd AI characters",
+    "example": "\"My little brother knows every Italian brain rot character.\"",
+    "exampleTranslation": "My little brother knows every absurd AI character.",
+    "tone": "playful",
+    "context": "Quickly known among kids in 2025. Often considered nonsense overload.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "origin": "AI image and voice memes on TikTok in 2025.",
+    "related": [
+      "brain-rot",
+      "tralalero-tralala",
+      "tung-tung-tung-sahur"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Italian_brainrot",
+      "https://www.urbandictionary.com/define.php?term=Italian%20brain%20rot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bro-thinks-hes",
+    "term": "bro thinks he's",
+    "variants": [
+      "bro thinks hes",
+      "bro thinks he is",
+      "he thinks he's"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A tease starter, mocking someone who acts like they're more impressive than they are.",
+    "meanings": [],
+    "plain": "he acts like he's",
+    "example": "\"Bro thinks he's a pro because he won once.\"",
+    "exampleTranslation": "He acts like a pro because he won once.",
+    "tone": "sarcastic",
+    "context": "Complete with any role: \"bro thinks he's Messi.\"",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "bro-is",
+      "lil-bro"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bro%20thinks%20he's"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "hes-him",
+    "term": "he's him",
+    "variants": [
+      "i'm him",
+      "im him",
+      "she's her"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "High praise meaning someone is that guy: the best and most impressive.",
+    "meanings": [],
+    "plain": "he is the best",
+    "example": "\"He scored twice. He's him.\"",
+    "exampleTranslation": "He scored twice. He's the best.",
+    "tone": "positive",
+    "context": "\"I'm him\" is a confident brag; \"she's her\" is the equivalent.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "compliments"
+    ],
+    "era": "approx. 2022–2025",
+    "origin": "Sports and streaming culture.",
+    "related": [
+      "rizz-god",
+      "aura"
+    ],
+    "synonyms": [
+      "the man"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=he's%20him"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "lowkirkenuinely",
+    "term": "lowkirkenuinely",
+    "variants": [
+      "low kirkenuinely",
+      "lowkirkenuinely",
+      "kirkenuinely"
+    ],
+    "partOfSpeech": "adverb",
+    "definition": "A silly mash-up of \"lowkey\" and \"genuinely\" with a famous name inserted, used jokingly for \"honestly.\"",
+    "meanings": [],
+    "plain": "honestly",
+    "example": "\"Lowkirkenuinely, I love this game.\"",
+    "exampleTranslation": "Honestly, I love this game.",
+    "tone": "playful",
+    "context": "Seen in memes; many don't know the reference.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Blended with a real person's first name in some versions; origin is murky.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=lowkirkenuinely"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "pluh",
+    "term": "pluh",
+    "variants": [
+      "plu",
+      "pluh pluh"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "A nonsense word meant to imitate a gunshot sound in the Pluh meme.",
+    "meanings": [],
+    "plain": "(sound effect)",
+    "example": "\"Pluh!\" he yelled in the cafeteria.",
+    "exampleTranslation": "He made a silly shooting sound in the cafeteria.",
+    "tone": "playful",
+    "context": "From a Black meme (\"pluh\"); can refer to firearms, so teachers may discourage it.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "origin": "Spread on TikTok from a rapper's ad-libs.",
+    "related": [
+      "skibidi"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Imitates a gunshot sound and may reference gun violence.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=pluh"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "grimace-shake",
+    "term": "Grimace shake",
+    "variants": [
+      "grimace shake trend",
+      "grimace"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A June 2023 TikTok trend where people drank a purple McDonald's milkshake and then acted as if something scary had happened.",
+    "meanings": [],
+    "plain": "a purple milkshake trend",
+    "example": "\"The Grimace shake videos were everywhere in 2023.\"",
+    "exampleTranslation": "The purple milkshake videos were everywhere in 2023.",
+    "tone": "playful",
+    "context": "Mostly horror parodies; ended as a trend.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "food"
+    ],
+    "era": "approx. 2023",
+    "origin": "McDonald's Grimace Birthday Meal (purple shake) went viral on TikTok in June 2023.",
+    "related": [
+      "skibidi"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Grimace_Shake",
+      "https://www.urbandictionary.com/define.php?term=Grimace%20shake"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "the-rizz-party",
+    "term": "the rizz party",
+    "variants": [
+      "rizz party"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A meme about a gathering with a \"rizzler,\" often with exaggerated charm.",
+    "meanings": [],
+    "plain": "(a meme)",
+    "example": "\"Welcome to the rizz party.\"",
+    "exampleTranslation": "Welcome to the charm party.",
+    "tone": "playful",
+    "context": "Brain rot phrase, not a real event.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "rizzler"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=the%20rizz%20party"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "aura-debt",
+    "term": "aura debt",
+    "variants": [
+      "owe aura",
+      "aura loan"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "The idea that you owe cool points after a lucky moment.",
+    "meanings": [],
+    "plain": "coolness owed",
+    "example": "\"I took the free fries, now I'm in aura debt.\"",
+    "exampleTranslation": "I took the free fries and owe a favor.",
+    "tone": "playful",
+    "context": "Humor around aura points.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "aura",
+      "negative-aura"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=aura%20debt"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "brain-rot-language",
+    "term": "brain rot language",
+    "variants": [
+      "brainrot language",
+      "gen alpha slang"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "The mix of nonsense slang (skibidi, gyatt, Ohio) used by Gen Alpha online.",
+    "meanings": [],
+    "plain": "Gen Alpha slang",
+    "example": "\"Her brain rot language confuses her parents.\"",
+    "exampleTranslation": "Her slang confuses her parents.",
+    "tone": "sarcastic",
+    "context": "Teachers and parents use this to describe slang overload.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "brain-rot",
+      "skibidi"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=brain%20rot%20language"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "sigma-rule",
+    "term": "sigma rule",
+    "variants": [
+      "sigma rules",
+      "rule of sigma"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke \"rule\" such as \"don't explain yourself\" used to claim coolness.",
+    "meanings": [],
+    "plain": "a \"cool\" rule",
+    "example": "\"Sigma rule: never text first.\"",
+    "exampleTranslation": "Cool rule: never text first.",
+    "tone": "playful",
+    "context": "Sometimes ironic motivational posts.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "related": [
+      "sigma",
+      "sigma-grindset"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=sigma%20rule"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "mewing-streak",
+    "term": "mewing streak",
+    "variants": [
+      "mew streak",
+      "streak"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke about keeping up daily mewing, like a streak on an app.",
+    "meanings": [],
+    "plain": "keeping up a habit",
+    "example": "\"I'm on a ten-day mewing streak.\"",
+    "exampleTranslation": "I'm on a ten-day streak of posing for a sharp jaw.",
+    "tone": "playful",
+    "context": "Used to mock looks trends.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "mewing"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=mewing%20streak"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "the-council",
+    "term": "the council",
+    "variants": [
+      "council"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A joke group of imaginary wise judges deciding the fate of something.",
+    "meanings": [],
+    "plain": "a panel of judges",
+    "example": "\"The council has decided.\"",
+    "exampleTranslation": "The judges decided.",
+    "tone": "playful",
+    "context": "Meme from sports or roleplay joking about secret decision makers.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=the%20council"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "its-over-for-you",
+    "term": "it's over for you",
+    "variants": [
+      "its over for you"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A mock-threat that someone has no hope.",
+    "meanings": [],
+    "plain": "you're done for",
+    "example": "\"You forgot homework? It's over for you.\"",
+    "exampleTranslation": "You forgot homework? You're done for.",
+    "tone": "playful",
+    "context": "Dramatic teasing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "its-so-over-were-so-back",
+      "chat-am-i-cooked"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=it's%20over%20for%20you"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "glizzy",
+    "term": "glizzy",
+    "variants": [
+      "glizzies",
+      "glizzy gobbler"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Slang for a hot dog.",
+    "meanings": [],
+    "plain": "hot dog",
+    "example": "\"He ate three glizzies at the cookout.\"",
+    "exampleTranslation": "He ate three hot dogs at the cookout.",
+    "tone": "playful",
+    "context": "Origin includes slang for a handgun in DC, so teens say it with wink.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "food",
+      "memes"
+    ],
+    "era": "approx. 2020–2024",
+    "origin": "Washington, D.C. slang that spread widely online.",
+    "related": [],
+    "synonyms": [
+      "hot dog"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [
+      "US-DC"
+    ],
+    "rating": "teen",
+    "sensitiveNote": "Local DC slang that can also refer to firearms.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=glizzy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ohio-rizz",
+    "term": "Ohio rizz",
+    "variants": [
+      "ohio rizz"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A joke for terrible or weird charm: \"rizz\" so bad it must be from Ohio.",
+    "meanings": [],
+    "plain": "weird charm",
+    "example": "\"His pick-up line was straight Ohio rizz.\"",
+    "exampleTranslation": "His pick-up line was weird.",
+    "tone": "playful",
+    "context": "Combines two memes.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "ohio",
+      "rizz",
+      "negative-rizz"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Ohio%20rizz"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "hawk-tuah",
+    "term": "hawk tuah",
+    "variants": [
+      "hawk tuah girl",
+      "hawk tuah!",
+      "spit on that thang"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A viral 2024 catchphrase from a street interview; it refers to a sexual act, but is mostly used as a meme.",
+    "meanings": [],
+    "plain": "(a viral catchphrase)",
+    "example": "Teens quote it as a joke.",
+    "exampleTranslation": "Teens repeat it as a joke.",
+    "tone": "playful",
+    "context": "Adults should not repeat it with kids; it's mature. Related to a 2024 viral interview.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2024",
+    "origin": "Viral TikTok street interview clip in 2024.",
+    "related": [
+      "brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Refers to a sexual act; the viral interview made it well known.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hawk%20tuah"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "nonchalant",
+    "term": "nonchalant",
+    "variants": [],
+    "partOfSpeech": "adjective",
+    "definition": "Calm and not bothered; in memes it means someone who acts unbothered.",
+    "meanings": [],
+    "plain": "unbothered",
+    "example": "\"He stayed nonchalant after the loss.\"",
+    "exampleTranslation": "He stayed calm after the loss.",
+    "tone": "neutral",
+    "context": "Ordinary word used in memes as the \"nonchalant dude\" stereotype.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "emotions"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "chill-guy"
+    ],
+    "synonyms": [
+      "unbothered"
+    ],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/nonchalant",
+      "https://www.urbandictionary.com/define.php?term=nonchalant"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "rizz-god",
+    "term": "rizz god",
+    "variants": [
+      "rizz lord"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A person with extreme charisma.",
+    "meanings": [],
+    "plain": "charming person",
+    "example": "\"He is a rizz god with the teacher.\"",
+    "exampleTranslation": "He is very charming to the teacher.",
+    "tone": "positive",
+    "context": "Playful big title.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "rizzler",
+      "rizz"
+    ],
+    "synonyms": [
+      "charmer"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=rizz%20god"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "w-aura",
+    "term": "W aura",
+    "variants": [
+      "dub aura",
+      "big aura"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Aura that is positive; a win in coolness.",
+    "meanings": [],
+    "plain": "cool vibe",
+    "example": "\"That was W aura.\"",
+    "exampleTranslation": "That was cool.",
+    "tone": "positive",
+    "context": "Mix of \"W\" and aura.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "compliments",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "aura",
+      "negative-aura"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=W%20aura"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "low-taper-fade",
+    "term": "low taper fade",
+    "variants": [
+      "taper fade",
+      "low taper fade meme",
+      "still massive"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A meme where a haircut name is used as a joking answer to anything, like \"Low taper fade, still massive.\"",
+    "meanings": [],
+    "plain": "(a haircut meme)",
+    "example": "\"Low taper fade,\" he replied.",
+    "exampleTranslation": "He said the haircut meme.",
+    "tone": "playful",
+    "context": "Rule: say \"low taper fade\" to praise an unusual haircut meme.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2024",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=low%20taper%20fade"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "the-x-is-crazy",
+    "term": "the ___ is crazy",
+    "variants": [
+      "the aura is crazy",
+      "the vibes are crazy"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A template remarking that something is impressive or intense.",
+    "meanings": [],
+    "plain": "that is wild",
+    "example": "\"The aura is crazy.\"",
+    "exampleTranslation": "That is wild.",
+    "tone": "playful",
+    "context": "Substitute any noun.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "aura"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=the%20___%20is%20crazy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tuff",
+    "term": "tuff",
+    "variants": [
+      "tough",
+      "that's tuff",
+      "tuff tuff"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Cool, impressive; a respelling of \"tough,\" often with a scrunched face emoji.",
+    "meanings": [],
+    "plain": "cool",
+    "example": "\"That drawing is tuff.\"",
+    "exampleTranslation": "That drawing is awesome.",
+    "tone": "positive",
+    "context": "Also used ironically.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "approval",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "goofy-ahh",
+      "sybau"
+    ],
+    "synonyms": [
+      "cool"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=tuff"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "opps",
+    "term": "opps",
+    "variants": [
+      "opp",
+      "opp pack"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Short for \"opposition\"; enemies or rivals. Gen Alpha uses it jokingly for people they dislike.",
+    "meanings": [],
+    "plain": "rivals",
+    "example": "\"Watch out for the opps at recess.\"",
+    "exampleTranslation": "Watch out for the rivals at recess.",
+    "tone": "playful",
+    "context": "From rap and drill culture; originally violent.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts",
+      "gaming"
+    ],
+    "era": "approx. 2015–2025",
+    "origin": "Hip-hop and drill music, then gaming.",
+    "related": [],
+    "synonyms": [
+      "rivals"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Originates in gang and rap rivalries.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=opps"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "lil-bro",
+    "term": "lil bro",
+    "variants": [
+      "little bro",
+      "lil bro"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Address for a younger or lesser person, jokingly.",
+    "meanings": [],
+    "plain": "kid",
+    "example": "\"Lil bro thinks he can win.\"",
+    "exampleTranslation": "This kid thinks he can win.",
+    "tone": "playful",
+    "context": "Teasing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "blud",
+      "bro-thinks-hes"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=lil%20bro"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bro-is",
+    "term": "bro is",
+    "variants": [
+      "bro is going",
+      "bro is cooked"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A starter for describing a friend doing something silly: \"bro is walking like a crab.\"",
+    "meanings": [],
+    "plain": "he is",
+    "example": "\"Bro is acting like a robot.\"",
+    "exampleTranslation": "He is acting like a robot.",
+    "tone": "playful",
+    "context": "Casual narration.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "bro-thinks-hes"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bro%20is"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "ahh",
+    "term": "ahh",
+    "variants": [
+      "ah",
+      "aah"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Stretched \"ah\" used as a modifier like \"goofy ahh\" or \"tuff ahh.\"",
+    "meanings": [],
+    "plain": "(a stretched modifier)",
+    "example": "\"That is a weird ahh car.\"",
+    "exampleTranslation": "That is a weird car.",
+    "tone": "playful",
+    "context": "A softened swearword stand-in.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2022–2025",
+    "related": [
+      "goofy-ahh",
+      "tuff"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Stand-in for a rude word.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=ahh"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "sybau",
+    "term": "sybau",
+    "variants": [
+      "stfu"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Abbreviation of \"shut your beautiful ass up,\" used as a joking \"be quiet.\"",
+    "meanings": [],
+    "plain": "be quiet",
+    "example": "\"Sybau, I'm trying to focus.\"",
+    "exampleTranslation": "Be quiet, I'm trying to focus.",
+    "tone": "playful",
+    "context": "Short form of a rude phrase.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "texting",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "tuff"
+    ],
+    "synonyms": [
+      "shush"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "mature",
+    "sensitiveNote": "Abbreviation of a profane phrase.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=sybau"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "6-7-kid",
+    "term": "6-7 kid",
+    "variants": [
+      "67 kid",
+      "six seven kid"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A viral boy who became famous in 2025 for yelling \"six seven\" at a basketball game.",
+    "meanings": [],
+    "plain": "(a meme figure)",
+    "example": "\"67 kid went viral.\"",
+    "exampleTranslation": "The viral boy went viral.",
+    "tone": "playful",
+    "context": "A real kid; be careful in making fun.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "related": [
+      "six-seven"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sensitiveNote": "Refers to a real child; avoid targeting.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=6-7%20kid"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "erm",
+    "term": "erm",
+    "variants": [
+      "erm actually",
+      "nerd emoji",
+      "🤓"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "A fake-nerdy \"um, actually,\" often with the nerd emoji, used to joke about correcting someone.",
+    "meanings": [],
+    "plain": "um, actually",
+    "example": "\"Erm, that's not how it works.\"",
+    "exampleTranslation": "Um, actually, that's not how it works.",
+    "tone": "sarcastic",
+    "context": "Mocking pedantry.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "reactions"
+    ],
+    "era": "approx. 2022–2025",
+    "related": [
+      "what-the-sigma"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=erm"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "twin",
+    "term": "twin",
+    "variants": [
+      "twin!",
+      "twins"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Friend term for a close buddy, as if they were a twin.",
+    "meanings": [],
+    "plain": "best friend",
+    "example": "\"Twin, check this out.\"",
+    "exampleTranslation": "Friend, check this out.",
+    "tone": "positive",
+    "context": "Used among boys and girls.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "friendship"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "blud",
+      "dawg"
+    ],
+    "synonyms": [
+      "bestie"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=twin"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "gigachad",
+    "term": "Gigachad",
+    "variants": [
+      "giga chad",
+      "gigachad"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An exaggeratedly masculine meme figure; used to praise someone who seems perfect.",
+    "meanings": [],
+    "plain": "ideal guy",
+    "example": "\"He is the Gigachad of the team.\"",
+    "exampleTranslation": "He is the ideal guy on the team.",
+    "tone": "playful",
+    "context": "From a viral black-and-white photo of a male model.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "compliments"
+    ],
+    "era": "approx. 2017–2025",
+    "origin": "From a 2017 photo series used as a meme, popularized on 4chan.",
+    "related": [
+      "sigma",
+      "alpha"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/gigachad",
+      "https://www.urbandictionary.com/define.php?term=Gigachad"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "sigma-grindset",
+    "term": "sigma grindset",
+    "variants": [
+      "grindset"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Joke mindset of hustling endlessly in lone-wolf style.",
+    "meanings": [],
+    "plain": "lone-wolf hustle",
+    "example": "\"Sigma grindset: no sleep.\"",
+    "exampleTranslation": "Lone hustle: no sleep.",
+    "tone": "sarcastic",
+    "context": "Parody of hustle culture.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2021–2025",
+    "related": [
+      "sigma"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=sigma%20grindset"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "chill-guy",
+    "term": "chill guy",
+    "variants": [
+      "just a chill guy",
+      "my new character"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A meme dog in a sweater and jeans who stays calm; \"just a chill guy.\"",
+    "meanings": [],
+    "plain": "laid-back person",
+    "example": "\"Be a chill guy.\"",
+    "exampleTranslation": "Be a relaxed person.",
+    "tone": "positive",
+    "context": "Went viral in late 2024; also tied to a crypto token.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "origin": "Artist Philip Banks created the character; viral late 2024.",
+    "related": [
+      "nonchalant"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Chill_guy",
+      "https://www.urbandictionary.com/define.php?term=chill%20guy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "smurf-cat",
+    "term": "Smurf Cat",
+    "variants": [
+      "smurf cat",
+      "smurfcat"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A 2025 meme of an AI-style blue cat on a social app.",
+    "meanings": [],
+    "plain": "a blue cat meme",
+    "example": "\"Everyone knows Smurf Cat.\"",
+    "exampleTranslation": "Everyone knows the blue cat meme.",
+    "tone": "playful",
+    "context": "Silly viral image.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Smurf%20Cat"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "dubai-chocolate",
+    "term": "Dubai chocolate",
+    "variants": [
+      "dubai chocolate bar",
+      "pistachio kunafa chocolate"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A chocolate bar with pistachio cream and crisp kataifi pastry that went viral on social media.",
+    "meanings": [],
+    "plain": "a viral chocolate",
+    "example": "\"I tried Dubai chocolate.\"",
+    "exampleTranslation": "I tried a viral chocolate.",
+    "tone": "positive",
+    "context": "Food trend that peaked around 2024–2025.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "food",
+      "social-media"
+    ],
+    "era": "approx. 2024–2025",
+    "origin": "Created by Fix Dessert Chocolatier in Dubai; spread via TikTok.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Dubai%20chocolate"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "labubu",
+    "term": "Labubu",
+    "variants": [
+      "labubus",
+      "lafufu"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A toothy collectible monster toy by Pop Mart that became a huge fashion fad in 2025.",
+    "meanings": [],
+    "plain": "trendy collectible toy",
+    "example": "\"She clipped a Labubu to her bag.\"",
+    "exampleTranslation": "She clipped a trendy toy to her bag.",
+    "tone": "positive",
+    "context": "Popular as bag charms; knockoffs are called \"Lafufu.\"",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "fashion",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "origin": "Designed by artist Kasing Lung, sold by Pop Mart.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Labubu",
+      "https://www.urbandictionary.com/define.php?term=Labubu"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "griddy",
+    "term": "griddy",
+    "variants": [
+      "hit the griddy",
+      "the griddy"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An NFL-inspired dance that mimics a football receiver's high-knee moves.",
+    "meanings": [],
+    "plain": "a dance",
+    "example": "\"Hit the griddy!\"",
+    "exampleTranslation": "Do the dance!",
+    "tone": "playful",
+    "context": "Popular among kids and players.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "entertainment",
+      "memes"
+    ],
+    "era": "approx. 2020–2023",
+    "origin": "Popularized by NFL player Justin Jefferson.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=griddy"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "backrooms",
+    "term": "Backrooms",
+    "variants": [
+      "the backrooms",
+      "liminal"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A creepy internet legend of endless yellow office spaces.",
+    "meanings": [],
+    "plain": "a creepy online place",
+    "example": "\"I got lost in the Backrooms.\"",
+    "exampleTranslation": "I got lost in a creepy place.",
+    "tone": "neutral",
+    "context": "Started as a 2019 post.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2019–2025",
+    "origin": "4chan post in 2019, expanded by creators like Kane Pixels.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/The_Backrooms",
+      "https://www.urbandictionary.com/define.php?term=Backrooms"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "bing-chilling",
+    "term": "bing chilling",
+    "variants": [
+      "bing chilling",
+      "ice cream"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A catchphrase from a John Cena Chinese-language video meaning \"ice cream.\"",
+    "meanings": [],
+    "plain": "ice cream",
+    "example": "\"John Cena: bing chilling.\"",
+    "exampleTranslation": "Ice cream.",
+    "tone": "playful",
+    "context": "Meme from 2022 reference.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2022–2023",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bing%20chilling"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tralalero-tralala",
+    "term": "Tralalero Tralala",
+    "variants": [
+      "tralalero tralala",
+      "shark in sneakers"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An Italian brain rot character: a three-legged shark wearing blue sneakers.",
+    "meanings": [],
+    "plain": "a meme shark",
+    "example": "\"Tralalero Tralala is my favorite.\"",
+    "exampleTranslation": "The shark meme character is my favorite.",
+    "tone": "playful",
+    "context": "AI-made character.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "related": [
+      "italian-brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Tralalero%20Tralala"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ballerina-cappuccina",
+    "term": "Ballerina Cappuccina",
+    "variants": [
+      "ballerina capuchina"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A brain rot figure with a cappuccino for a head.",
+    "meanings": [],
+    "plain": "a meme ballerina",
+    "example": "\"Ballerina Cappuccina danced.\"",
+    "exampleTranslation": "The meme ballerina danced.",
+    "tone": "playful",
+    "context": "Italian brain rot character.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "related": [
+      "italian-brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Ballerina%20Cappuccina"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bombardiro-crocodilo",
+    "term": "Bombardiro Crocodilo",
+    "variants": [
+      "bombardino crocodilo"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A brain rot character that is a crocodile-shaped bomber plane.",
+    "meanings": [],
+    "plain": "a meme crocodile",
+    "example": "\"Bombardiro Crocodilo is funny.\"",
+    "exampleTranslation": "The meme crocodile is funny.",
+    "tone": "playful",
+    "context": "AI-made character.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2025",
+    "related": [
+      "italian-brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Bombardiro%20Crocodilo"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "sprunki",
+    "term": "Sprunki",
+    "variants": [
+      "incredibox sprunki"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A 2024 Incredibox music game mod with colorful characters that went viral with kids.",
+    "meanings": [],
+    "plain": "a music game mod",
+    "example": "\"Sprunki music is catchy.\"",
+    "exampleTranslation": "The music game is catchy.",
+    "tone": "playful",
+    "context": "Spawned fan mods and memes.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Sprunki"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "slop",
+    "term": "slop",
+    "variants": [
+      "ai slop"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Low-quality AI-generated content that floods the internet.",
+    "meanings": [],
+    "plain": "junk content",
+    "example": "\"My feed is all AI slop.\"",
+    "exampleTranslation": "My feed is all junk content.",
+    "tone": "negative",
+    "context": "Merriam-Webster reportedly chose \"slop\" as its 2025 Word of the Year.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "brain-rot",
+      "clanker"
+    ],
+    "synonyms": [
+      "junk"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/wordplay/word-of-the-year",
+      "https://www.urbandictionary.com/define.php?term=slop"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "vibe-coding",
+    "term": "vibe coding",
+    "variants": [
+      "vibe code"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Making software by telling an AI what you want in plain English and accepting its code.",
+    "meanings": [],
+    "plain": "coding by AI prompts",
+    "example": "\"I did vibe coding for my game.\"",
+    "exampleTranslation": "I made my game by prompting AI.",
+    "tone": "neutral",
+    "context": "Term coined by AI researcher Andrej Karpathy in early 2025; Collins reportedly named it Word of the Year.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "approx. 2025",
+    "origin": "Coined by Andrej Karpathy in 2025.",
+    "related": [
+      "clanker",
+      "slop"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=vibe%20coding"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "menty-b",
+    "term": "menty b",
+    "variants": [
+      "mentty b",
+      "menty b"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Joking short for \"mental breakdown.\"",
+    "meanings": [],
+    "plain": "meltdown",
+    "example": "\"I'm having a menty b about finals.\"",
+    "exampleTranslation": "I'm having a meltdown about finals.",
+    "tone": "playful",
+    "context": "Said lightly for stress; avoid for real crises.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "emotions"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "crash-out"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=menty%20b"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "say-the-line-bart",
+    "term": "say the line, Bart",
+    "variants": [
+      "say the line bart"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A meme line from The Simpsons dares a person to say a catchphrase.",
+    "meanings": [],
+    "plain": "go on, say it",
+    "example": "\"Say the line, Bart!\"",
+    "exampleTranslation": "Go on, say it!",
+    "tone": "playful",
+    "context": "Meme of Bart in a movie scene.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=say%20the%20line%2C%20Bart"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "moo-deng",
+    "term": "Moo Deng",
+    "variants": [
+      "moo deng",
+      "bouncy pig"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A baby pygmy hippo in a Thai zoo who became a viral meme in 2024.",
+    "meanings": [],
+    "plain": "a viral baby hippo",
+    "example": "\"Moo Deng is so cute.\"",
+    "exampleTranslation": "The viral baby hippo is so cute.",
+    "tone": "positive",
+    "context": "Famous in September 2024.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2024",
+    "origin": "Khao Kheow Open Zoo in Thailand.",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Moo_Deng",
+      "https://www.urbandictionary.com/define.php?term=Moo%20Deng"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "peak",
+    "term": "peak",
+    "variants": [
+      "peak fiction",
+      "peak cinema"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Excellent or the best, often ironically.",
+    "meanings": [],
+    "plain": "the best",
+    "example": "\"This game is peak.\"",
+    "exampleTranslation": "This game is the best.",
+    "tone": "positive",
+    "context": "Used for anything amazing.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "approval"
+    ],
+    "era": "approx. 2022–2025",
+    "related": [
+      "absolute-cinema"
+    ],
+    "synonyms": [
+      "the best"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=peak"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "hunter-eyes",
+    "term": "hunter eyes",
+    "variants": [
+      "canthal tilt"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A looksmaxxing term for deep-set eyes with an upward tilt seen as attractive.",
+    "meanings": [],
+    "plain": "sharp-looking eyes",
+    "example": "\"He has hunter eyes.\"",
+    "exampleTranslation": "He has sharp-looking eyes.",
+    "tone": "playful",
+    "context": "Looks forum jargon.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "fashion"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "looksmaxxing"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Appearance-ranking language.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hunter%20eyes"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "canthal-tilt",
+    "term": "canthal tilt",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "Angle of outer eye corners; looksmaxxers think a positive tilt is attractive.",
+    "meanings": [],
+    "plain": "eye angle",
+    "example": "\"Fix your canthal tilt?\"",
+    "exampleTranslation": "Change your eye angle?",
+    "tone": "playful",
+    "context": "Body-focused jargon.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2023–2025",
+    "related": [
+      "hunter-eyes"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Appearance jargon.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=canthal%20tilt"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "steal-a-brainrot",
+    "term": "Steal a Brainrot",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "A 2025 Roblox game where players collect and steal meme characters.",
+    "meanings": [],
+    "plain": "a Roblox game",
+    "example": "\"I played Steal a Brainrot.\"",
+    "exampleTranslation": "I played the Roblox game.",
+    "tone": "playful",
+    "context": "Popular among kids.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "gaming",
+      "brainrot"
+    ],
+    "era": "approx. 2025",
+    "related": [
+      "brain-rot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Steal%20a%20Brainrot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "grow-a-garden",
+    "term": "Grow a Garden",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "A 2025 Roblox farming game that went viral.",
+    "meanings": [],
+    "plain": "a Roblox game",
+    "example": "\"I grew a garden.\"",
+    "exampleTranslation": "I played the game.",
+    "tone": "positive",
+    "context": "Hit game.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "era": "approx. 2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Grow%20a%20Garden"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "ohio-final-boss",
+    "term": "Ohio final boss",
+    "variants": [],
+    "partOfSpeech": "phrase",
+    "definition": "Someone weirdly powerful or intense.",
+    "meanings": [],
+    "plain": "intense person",
+    "example": "\"He is the Ohio final boss.\"",
+    "exampleTranslation": "He is very intense.",
+    "tone": "playful",
+    "context": "Meme.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "brainrot",
+      "memes"
+    ],
+    "era": "approx. 2022–2024",
+    "related": [
+      "ohio"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 5,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=Ohio%20final%20boss"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "bozo",
+    "term": "bozo",
+    "variants": [
+      "l bozo"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A clownish silly person; used as a light insult.",
+    "meanings": [],
+    "plain": "fool",
+    "example": "\"Bozo ran into the door.\"",
+    "exampleTranslation": "The fool ran into the door.",
+    "tone": "playful",
+    "context": "Gets used with \"L\".",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "roasts"
+    ],
+    "era": "approx. 2020–2025",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bozo"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "yapanese",
+    "term": "yapanese",
+    "variants": [],
+    "partOfSpeech": "noun",
+    "definition": "Slang for fast rambling talk, as if it were a language.",
+    "meanings": [],
+    "plain": "rambling talk",
+    "example": "\"He speaks Yapanese.\"",
+    "exampleTranslation": "He rambles.",
+    "tone": "playful",
+    "context": "Joke.",
+    "generations": [
+      "alpha",
+      "z"
+    ],
+    "categories": [
+      "memes"
+    ],
+    "era": "approx. 2024–2025",
+    "related": [
+      "yap"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=yapanese"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  }
+]

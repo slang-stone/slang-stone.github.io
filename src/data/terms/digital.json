@@ -1,0 +1,6631 @@
+[
+  {
+    "id": "tbh",
+    "term": "TBH",
+    "variants": [
+      "tbh"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"to be honest\"; introduces a frank opinion or admission.",
+    "meanings": [],
+    "plain": "to be honest",
+    "example": "tbh I did not study at all.",
+    "exampleTranslation": "To be honest, I did not study at all.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ngl",
+      "imo"
+    ],
+    "synonyms": [
+      "ngl"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=TBH"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "imo",
+    "term": "IMO",
+    "variants": [
+      "imo"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"in my opinion\"; marks a statement as personal view.",
+    "meanings": [],
+    "plain": "in my opinion",
+    "example": "imo the book was better than the movie.",
+    "exampleTranslation": "In my opinion, the book was better than the movie.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "imho",
+      "tbh"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IMO"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "imho",
+    "term": "IMHO",
+    "variants": [
+      "imho"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"in my humble opinion\"; a slightly softer or sometimes sarcastic version of IMO.",
+    "meanings": [],
+    "plain": "in my humble opinion",
+    "example": "imho, pineapple belongs on pizza.",
+    "exampleTranslation": "In my humble opinion, pineapple belongs on pizza.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Common since early internet forums and email, approx. 1990s",
+    "related": [
+      "imo"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "The \"humble\" is often ironic, so it can sound smug rather than modest.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IMHO"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "idk",
+    "term": "IDK",
+    "variants": [
+      "idk"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"I don't know.\"",
+    "meanings": [],
+    "plain": "I do not know",
+    "example": "idk what time practice starts.",
+    "exampleTranslation": "I do not know what time practice starts.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "idek"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IDK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "idc",
+    "term": "IDC",
+    "variants": [
+      "idc"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"I don't care\"; can mean real indifference or \"I'm fine with either.\"",
+    "meanings": [],
+    "plain": "I do not care",
+    "example": "idc where we eat, you pick.",
+    "exampleTranslation": "I do not care where we eat; you pick.",
+    "tone": "mixed",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "idk"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Can sound cold or dismissive in text even when meant casually.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IDC"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ikr",
+    "term": "IKR",
+    "variants": [
+      "ikr"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"I know, right?\"; used to agree enthusiastically.",
+    "meanings": [],
+    "plain": "I know, right?",
+    "example": "ikr, that quiz was so hard!",
+    "exampleTranslation": "I know, right? That quiz was so hard!",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "omg"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IKR"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ngl",
+    "term": "NGL",
+    "variants": [
+      "ngl"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"not gonna lie\"; signals a candid statement.",
+    "meanings": [],
+    "plain": "not going to lie",
+    "example": "ngl, that song is catchy.",
+    "exampleTranslation": "Not going to lie, that song is catchy.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "tbh"
+    ],
+    "synonyms": [
+      "tbh"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=NGL"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "rn",
+    "term": "RN",
+    "variants": [
+      "rn"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"right now.\"",
+    "meanings": [],
+    "plain": "right now",
+    "example": "im at the library rn.",
+    "exampleTranslation": "I am at the library right now.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Also a common abbreviation for \"registered nurse,\" so context matters.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=RN"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "irl",
+    "term": "IRL",
+    "variants": [
+      "irl"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"in real life\"; contrasts offline life with online.",
+    "meanings": [],
+    "plain": "in real life",
+    "example": "we met online but irl we live close.",
+    "exampleTranslation": "We met online, but in real life we live close.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Common since early chat rooms and forums, approx. 1990s",
+    "related": [
+      "afk"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IRL"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "afk",
+    "term": "AFK",
+    "variants": [
+      "afk"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"away from keyboard\"; means the person is not at their device.",
+    "meanings": [],
+    "plain": "away from keyboard",
+    "example": "afk for ten minutes, dinner time.",
+    "exampleTranslation": "Away from keyboard for ten minutes; it is dinner time.",
+    "tone": "neutral",
+    "context": "Used in chats and especially online games to say you have stepped away.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "gaming"
+    ],
+    "origin": "Early chat rooms and online games, approx. 1990s",
+    "related": [
+      "brb",
+      "afk-farming"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=AFK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "brb",
+    "term": "BRB",
+    "variants": [
+      "brb"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"be right back.\"",
+    "meanings": [],
+    "plain": "be right back",
+    "example": "brb, grabbing a snack.",
+    "exampleTranslation": "Be right back, I am grabbing a snack.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Early chat rooms, approx. 1990s",
+    "related": [
+      "afk",
+      "ttyl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=BRB"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "btw",
+    "term": "BTW",
+    "variants": [
+      "btw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"by the way\"; adds a side note.",
+    "meanings": [],
+    "plain": "by the way",
+    "example": "btw, practice moved to Thursday.",
+    "exampleTranslation": "By the way, practice moved to Thursday.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=BTW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "dm",
+    "term": "DM",
+    "variants": [
+      "dm",
+      "dms",
+      "slide into dms",
+      "slide into the dms"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A private message sent on a social app; as a verb, to message someone privately. \"Slide into the DMs\" means to start a private chat, often a bit boldly.",
+    "meanings": [
+      "\"Slide into someone's DMs\": message a person you do not know well, sometimes with romantic interest."
+    ],
+    "plain": "direct message",
+    "example": "dm me the link when you find it.",
+    "exampleTranslation": "Send me the link in a private message when you find it.",
+    "tone": "neutral",
+    "context": "Used on Instagram, X, TikTok, Discord and similar apps. The \"slide into DMs\" phrase can imply flirting.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "social-media"
+    ],
+    "related": [
+      "hmu"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/DM",
+      "https://www.urbandictionary.com/define.php?term=DM"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "fyp",
+    "term": "FYP",
+    "variants": [
+      "fyp",
+      "for you page"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "The \"For You\" page on TikTok, a personalized feed. \"On my FYP\" means the algorithm showed it to me.",
+    "meanings": [
+      "Used as a hashtag (#fyp) in hopes a video gets recommended widely."
+    ],
+    "plain": "For You page",
+    "example": "this cat video keeps showing up on my fyp.",
+    "exampleTranslation": "This cat video keeps showing up on my For You page.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "Popularized with TikTok, approx. 2019 onward",
+    "origin": "TikTok",
+    "related": [
+      "pov"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=FYP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "pov",
+    "term": "POV",
+    "variants": [
+      "pov"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Point of view.\" On video apps it introduces a skit or scene told from one character's perspective, often \"POV: you are...\"",
+    "meanings": [
+      "In ordinary writing, simply \"point of view\" or the viewpoint of a story narrator."
+    ],
+    "plain": "point of view",
+    "example": "pov: your teacher says the test is open book.",
+    "exampleTranslation": "Imagine this from your perspective: your teacher says the test is open book.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media",
+      "memes"
+    ],
+    "era": "Meme format popularized on short-video apps, approx. late 2010s–2020s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://knowyourmeme.com/search?q=POV",
+      "https://www.urbandictionary.com/define.php?term=POV"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "oomf",
+    "term": "OOMF",
+    "variants": [
+      "oomf"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"One of my followers\" (sometimes \"one of my mutuals\"); used to refer to someone you vaguely know online without naming them.",
+    "meanings": [],
+    "plain": "one of my followers",
+    "example": "oomf just posted the funniest meme.",
+    "exampleTranslation": "One of my followers just posted the funniest meme.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "era": "Approx. 2010s, X/Twitter and Tumblr",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=oomf",
+      "https://www.urbandictionary.com/define.php?term=OOMF"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "atp",
+    "term": "ATP",
+    "variants": [
+      "atp"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"at this point\"; expresses resignation or a conclusion.",
+    "meanings": [],
+    "plain": "at this point",
+    "example": "atp I will just order pizza.",
+    "exampleTranslation": "At this point I will just order pizza.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Also the name of a chemical (adenosine triphosphate) in science class.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ATP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "istg",
+    "term": "ISTG",
+    "variants": [
+      "istg"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Short for \"I swear to God\"; stresses frustration or sincerity.",
+    "meanings": [],
+    "plain": "I swear to God",
+    "example": "istg if the wifi cuts out again...",
+    "exampleTranslation": "I swear to God, if the wifi cuts out again...",
+    "tone": "mixed",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "omg"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Expands to a mild religious oath; some families and schools prefer it avoided.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ISTG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "tmi",
+    "term": "TMI",
+    "variants": [
+      "tmi"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Too much information\"; said when someone shares more personal detail than you wanted.",
+    "meanings": [],
+    "plain": "too much information",
+    "example": "tmi, I did not need to hear about your breakfast.",
+    "exampleTranslation": "Too much information; I did not need to hear about your breakfast.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Popularized approx. 1990s–2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.merriam-webster.com/dictionary/TMI",
+      "https://www.urbandictionary.com/define.php?term=TMI"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "tl-dr",
+    "term": "TL;DR",
+    "variants": [
+      "tl;dr",
+      "tldr",
+      "tl dr"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Too long; didn't read\"; a short summary of a long post, or a comment that something is too long.",
+    "meanings": [
+      "Said of a long text as \"tl;dr\" meaning \"I did not read all that.\""
+    ],
+    "plain": "too long; didn't read",
+    "example": "tl;dr: the meeting moved to 3 p.m.",
+    "exampleTranslation": "In short: the meeting moved to 3 p.m.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "social-media"
+    ],
+    "origin": "Internet forums, approx. 2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/TL%3BDR",
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=TL%3BDR"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "wya",
+    "term": "WYA",
+    "variants": [
+      "wya"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Where you at?\" asking someone's location.",
+    "meanings": [],
+    "plain": "where are you at",
+    "example": "wya? we are outside.",
+    "exampleTranslation": "Where are you? We are outside.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "wyd"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=WYA"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "wyd",
+    "term": "WYD",
+    "variants": [
+      "wyd"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"What you doing?\" a casual check-in or conversation starter.",
+    "meanings": [],
+    "plain": "what are you doing",
+    "example": "wyd after school?",
+    "exampleTranslation": "What are you doing after school?",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "wya",
+      "hbu"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=WYD"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "wtw",
+    "term": "WTW",
+    "variants": [
+      "wtw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"What's the word?\" a greeting or a request for the plan. Sometimes used with \"what's the wave.\"",
+    "meanings": [],
+    "plain": "what's the word",
+    "example": "wtw tonight, anyone free?",
+    "exampleTranslation": "What is the plan tonight, anyone free?",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Sometimes read as a different, ruder phrase beginning with \"what the\"; context decides. Usually harmless.",
+    "mistakes": "Easily confused with \"WTF\" or \"what the...\" phrases; check context.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=wtw",
+      "https://www.urbandictionary.com/define.php?term=WTW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "hbu",
+    "term": "HBU",
+    "variants": [
+      "hbu"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"How about you?\" a quick way to return a question.",
+    "meanings": [],
+    "plain": "how about you",
+    "example": "im good, hbu?",
+    "exampleTranslation": "I am good, how about you?",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "wyd"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=HBU"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "lmk",
+    "term": "LMK",
+    "variants": [
+      "lmk"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Let me know.\"",
+    "meanings": [],
+    "plain": "let me know",
+    "example": "lmk if you can come Saturday.",
+    "exampleTranslation": "Let me know if you can come Saturday.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=LMK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "smh",
+    "term": "SMH",
+    "variants": [
+      "smh"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Shaking my head\"; shows disapproval or disbelief.",
+    "meanings": [],
+    "plain": "shaking my head",
+    "example": "he forgot his own birthday, smh.",
+    "exampleTranslation": "He forgot his own birthday, shaking my head.",
+    "tone": "negative",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.merriam-webster.com/dictionary/SMH",
+      "https://www.urbandictionary.com/define.php?term=SMH"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "hmu",
+    "term": "HMU",
+    "variants": [
+      "hmu"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Hit me up\"; contact me.",
+    "meanings": [],
+    "plain": "hit me up",
+    "example": "hmu if you want to study together.",
+    "exampleTranslation": "Contact me if you want to study together.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "dm",
+      "lmk"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=HMU"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "iykyk",
+    "term": "IYKYK",
+    "variants": [
+      "iykyk",
+      "ifykyk",
+      "if you know you know"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"If you know, you know\"; refers to an inside joke or reference only some people get.",
+    "meanings": [],
+    "plain": "if you know, you know",
+    "example": "that cafeteria pizza though, iykyk.",
+    "exampleTranslation": "That cafeteria pizza, though. If you know, you know.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "texting",
+      "social-media"
+    ],
+    "era": "Approx. late 2010s–2020s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Using it for something everyone knows defeats the point.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=iykyk",
+      "https://www.urbandictionary.com/define.php?term=IYKYK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fomo",
+    "term": "FOMO",
+    "variants": [
+      "fomo",
+      "fear of missing out"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Anxiety that others are having fun or opportunities without you.",
+    "meanings": [],
+    "plain": "fear of missing out",
+    "example": "I stayed on my phone all night out of fomo.",
+    "exampleTranslation": "I stayed on my phone all night out of fear of missing out.",
+    "tone": "negative",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "emotions",
+      "social-media"
+    ],
+    "era": "Widespread since approx. 2010s",
+    "related": [
+      "jomo"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/FOMO",
+      "https://www.urbandictionary.com/define.php?term=FOMO"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "pfp",
+    "term": "PFP",
+    "variants": [
+      "pfp",
+      "profile pic",
+      "profile picture"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Profile picture,\" the small image that represents an account.",
+    "meanings": [],
+    "plain": "profile picture",
+    "example": "new pfp, do you like it?",
+    "exampleTranslation": "New profile picture, do you like it?",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "social-media"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=PFP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "lol",
+    "term": "LOL",
+    "variants": [
+      "lol",
+      "lolz"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Laughing out loud\"; today often just a light, friendly softener.",
+    "meanings": [
+      "Often used as a filler to soften a message, without real laughter."
+    ],
+    "plain": "laughing out loud",
+    "example": "lol that was so unexpected.",
+    "exampleTranslation": "Ha, that was so unexpected.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Common since the 1990s",
+    "related": [
+      "lmao",
+      "rofl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/LOL",
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=LOL"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "lmao",
+    "term": "LMAO",
+    "variants": [
+      "lmao",
+      "lmfao"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Laughing my a-- off\"; stronger than LOL.",
+    "meanings": [],
+    "plain": "laughing my butt off",
+    "example": "lmao the dog stole my sandwich.",
+    "exampleTranslation": "I am laughing hard; the dog stole my sandwich.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "lol",
+      "rofl"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Contains a mild swear word when spelled out; LMFAO is stronger.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=LMAO"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "rofl",
+    "term": "ROFL",
+    "variants": [
+      "rofl",
+      "roflmao"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Rolling on the floor laughing\"; strong laughter.",
+    "meanings": [],
+    "plain": "rolling on the floor laughing",
+    "example": "rofl that prank was perfect.",
+    "exampleTranslation": "I am rolling on the floor laughing; that prank was perfect.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "millennial",
+      "older-internet"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Popular on early internet chat, approx. 1990s–2000s",
+    "related": [
+      "lol",
+      "lmao"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ROFL"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "omg",
+    "term": "OMG",
+    "variants": [
+      "omg",
+      "omfg"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Oh my God\"; reaction to surprise or excitement.",
+    "meanings": [],
+    "plain": "oh my God",
+    "example": "omg you got tickets!",
+    "exampleTranslation": "Oh my gosh, you got tickets!",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "reactions",
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Some people consider it an irreverent use of a religious phrase; \"oh my gosh\" is a gentler swap.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.merriam-webster.com/dictionary/OMG",
+      "https://www.urbandictionary.com/define.php?term=OMG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "icymi",
+    "term": "ICYMI",
+    "variants": [
+      "icymi"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"In case you missed it\"; introduces something worth catching up on.",
+    "meanings": [],
+    "plain": "in case you missed it",
+    "example": "icymi, the game is moved to Friday.",
+    "exampleTranslation": "In case you missed it, the game is moved to Friday.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ICYMI"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "nvm",
+    "term": "NVM",
+    "variants": [
+      "nvm",
+      "nevermind"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Never mind.\"",
+    "meanings": [],
+    "plain": "never mind",
+    "example": "nvm, I found my keys.",
+    "exampleTranslation": "Never mind, I found my keys.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=NVM"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ttyl",
+    "term": "TTYL",
+    "variants": [
+      "ttyl"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Talk to you later.\"",
+    "meanings": [],
+    "plain": "talk to you later",
+    "example": "ttyl, class is starting.",
+    "exampleTranslation": "Talk to you later, class is starting.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "era": "Early texting and chat, approx. 1990s–2000s",
+    "related": [
+      "gtg",
+      "brb"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=TTYL"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "gtg",
+    "term": "GTG",
+    "variants": [
+      "gtg",
+      "g2g",
+      "got to go"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Got to go\"; ends a chat.",
+    "meanings": [],
+    "plain": "got to go",
+    "example": "gtg, mom is calling.",
+    "exampleTranslation": "I have to go, my mom is calling.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ttyl",
+      "brb"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=GTG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "jk",
+    "term": "JK",
+    "variants": [
+      "jk",
+      "j/k"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Just kidding.\"",
+    "meanings": [],
+    "plain": "just kidding",
+    "example": "I ate your cookie. jk, it is safe.",
+    "exampleTranslation": "I ate your cookie. Just kidding, it is safe.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=JK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ily",
+    "term": "ILY",
+    "variants": [
+      "ily"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"I love you\"; used between family, friends and partners.",
+    "meanings": [],
+    "plain": "I love you",
+    "example": "ily mom, see you tonight.",
+    "exampleTranslation": "I love you, Mom; see you tonight.",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ily2"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ILY"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ily2",
+    "term": "ILY2",
+    "variants": [
+      "ily2",
+      "ilyt",
+      "ily too"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"I love you too.\"",
+    "meanings": [],
+    "plain": "I love you too",
+    "example": "ily2, have a great day!",
+    "exampleTranslation": "I love you too; have a great day!",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ily"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=ily2"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bff",
+    "term": "BFF",
+    "variants": [
+      "bff",
+      "bffs"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Best friends forever\"; a very close friend.",
+    "meanings": [],
+    "plain": "best friend forever",
+    "example": "she is my bff since second grade.",
+    "exampleTranslation": "She is my best friend and has been since second grade.",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "friendship",
+      "texting"
+    ],
+    "era": "Popular since approx. 1990s–2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.merriam-webster.com/dictionary/BFF",
+      "https://www.urbandictionary.com/define.php?term=BFF"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "otp",
+    "term": "OTP",
+    "variants": [
+      "otp",
+      "one true pairing"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"One true pairing\"; a fictional couple a fan most wants together. Also used loosely for any ideal pair.",
+    "meanings": [],
+    "plain": "favorite couple",
+    "example": "my otp from that show finally kissed.",
+    "exampleTranslation": "My favorite couple from that show finally kissed.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "entertainment",
+      "memes"
+    ],
+    "origin": "Fan fiction communities, approx. 2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "OTP also means \"one-time password\" in tech.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://knowyourmeme.com/search?q=OTP",
+      "https://www.urbandictionary.com/define.php?term=OTP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "nsfw",
+    "term": "NSFW",
+    "variants": [
+      "nsfw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Marks content that may be adult or inappropriate to open at work or school.",
+    "meanings": [],
+    "plain": "not safe for work",
+    "example": "that link is nsfw, do not open it here.",
+    "exampleTranslation": "That link is not safe for work; do not open it here.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "sensitive"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "A content warning label, not itself explicit; it signals adult material follows.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.merriam-webster.com/dictionary/NSFW",
+      "https://www.urbandictionary.com/define.php?term=NSFW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ftw",
+    "term": "FTW",
+    "variants": [
+      "ftw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"For the win\"; cheering something on.",
+    "meanings": [],
+    "plain": "for the win",
+    "example": "pizza friday ftw!",
+    "exampleTranslation": "Pizza Friday is the best!",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Some people read it as a rude phrase; the intended meaning here is \"for the win.\"",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=FTW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "yolo",
+    "term": "YOLO",
+    "variants": [
+      "yolo",
+      "you only live once"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"You only live once\"; a rationale for a bold or risky choice.",
+    "meanings": [],
+    "plain": "you only live once",
+    "example": "yolo, I tried the spicy ramen.",
+    "exampleTranslation": "You only live once; I tried the spicy ramen.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "texting",
+      "outdated"
+    ],
+    "era": "Spread widely in the early 2010s",
+    "origin": "Popularized in the early 2010s partly through hip-hop lyrics",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/YOLO",
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=YOLO"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "tfw",
+    "term": "TFW",
+    "variants": [
+      "tfw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"That feeling when\"; starts a relatable situation.",
+    "meanings": [],
+    "plain": "that feeling when",
+    "example": "tfw you find money in an old jacket.",
+    "exampleTranslation": "That feeling when you find money in an old jacket.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "memes"
+    ],
+    "era": "Meme format from imageboards, approx. early 2010s",
+    "related": [
+      "mfw"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://knowyourmeme.com/search?q=TFW",
+      "https://www.urbandictionary.com/define.php?term=TFW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "mfw",
+    "term": "MFW",
+    "variants": [
+      "mfw"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"My face when\"; paired with a reaction image or description.",
+    "meanings": [],
+    "plain": "my face when",
+    "example": "mfw the bell rings early.",
+    "exampleTranslation": "My face when the bell rings early.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "memes"
+    ],
+    "era": "Meme format, approx. early 2010s",
+    "related": [
+      "tfw"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=mfw",
+      "https://www.urbandictionary.com/define.php?term=MFW"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "iirc",
+    "term": "IIRC",
+    "variants": [
+      "iirc"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"If I remember correctly.\"",
+    "meanings": [],
+    "plain": "if I recall correctly",
+    "example": "iirc, the test is Monday.",
+    "exampleTranslation": "If I remember correctly, the test is Monday.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=IIRC"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ootd",
+    "term": "OOTD",
+    "variants": [
+      "ootd"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Outfit of the day\"; a photo or post showing what someone is wearing.",
+    "meanings": [],
+    "plain": "outfit of the day",
+    "example": "ootd: new sneakers and a jean jacket.",
+    "exampleTranslation": "Outfit of the day: new sneakers and a jean jacket.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "fashion",
+      "social-media"
+    ],
+    "era": "Popular since approx. 2010s on Instagram",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=OOTD"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "tysm",
+    "term": "TYSM",
+    "variants": [
+      "tysm"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Thank you so much.\"",
+    "meanings": [],
+    "plain": "thank you so much",
+    "example": "tysm for helping me move!",
+    "exampleTranslation": "Thank you so much for helping me move!",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ty"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=TYSM"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "np",
+    "term": "NP",
+    "variants": [
+      "np"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"No problem.\"",
+    "meanings": [],
+    "plain": "no problem",
+    "example": "np, happy to help.",
+    "exampleTranslation": "No problem, happy to help.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "ty"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=NP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ofc",
+    "term": "OFC",
+    "variants": [
+      "ofc",
+      "of c"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Of course.\"",
+    "meanings": [],
+    "plain": "of course",
+    "example": "ofc I will save you a seat.",
+    "exampleTranslation": "Of course I will save you a seat.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=OFC"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ty",
+    "term": "TY",
+    "variants": [
+      "ty"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Thank you.\"",
+    "meanings": [],
+    "plain": "thank you",
+    "example": "ty for the ride!",
+    "exampleTranslation": "Thank you for the ride!",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "tysm"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=TY"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "idek",
+    "term": "IDEK",
+    "variants": [
+      "idek"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"I don't even know\"; shows confusion or being overwhelmed.",
+    "meanings": [],
+    "plain": "I do not even know",
+    "example": "idek what is going on in this group chat.",
+    "exampleTranslation": "I do not even know what is going on in this group chat.",
+    "tone": "neutral",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting"
+    ],
+    "related": [
+      "idk"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=idek",
+      "https://www.urbandictionary.com/define.php?term=IDEK"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "skull-emoji",
+    "term": "💀",
+    "variants": [
+      "skull emoji",
+      "skull",
+      "skull emoji laughing"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Skull emoji used to mean something is so funny that the sender is \"dead.\"",
+    "meanings": [],
+    "plain": "I am dying laughing",
+    "example": "He fell off his chair 💀",
+    "exampleTranslation": "He fell off his chair and it is hilarious.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "texting",
+      "reactions"
+    ],
+    "era": "Used this way approx. 2020s",
+    "related": [
+      "crying-emoji",
+      "lol"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Taken literally it looks grim; context shows the joke. Not used for real tragedies.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%92%80",
+      "https://knowyourmeme.com/search?q=skull+emoji",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%92%80"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "crying-emoji",
+    "term": "😭",
+    "variants": [
+      "crying emoji",
+      "loudly crying face",
+      "sob emoji"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Loudly-crying emoji used for exaggerated laughter or being overwhelmed by something cute, funny or relatable, rather than sadness.",
+    "meanings": [],
+    "plain": "I am laughing so hard / that is so sweet",
+    "example": "he did the dance perfectly 😭",
+    "exampleTranslation": "He did the dance perfectly and I am overcome.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "texting",
+      "reactions"
+    ],
+    "era": "Used this way approx. late 2010s–2020s",
+    "related": [
+      "skull-emoji"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Can mean real sadness too; tone and topic matter.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%98%AD",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%98%AD"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "cap-emoji",
+    "term": "🧢",
+    "variants": [
+      "cap emoji",
+      "billed cap emoji"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Billed-cap emoji used to say someone is lying or exaggerating (from \"cap\" meaning lie).",
+    "meanings": [],
+    "plain": "that is a lie",
+    "example": "you ran a mile in two minutes 🧢",
+    "exampleTranslation": "You are lying about running a mile in two minutes.",
+    "tone": "sarcastic",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "texting",
+      "reactions"
+    ],
+    "era": "Approx. late 2010s–2020s",
+    "origin": "Visual shorthand for \"cap,\" slang from AAVE and hip-hop communities meaning to lie",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Do not confuse with a plain hat emoji.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%A7%A2",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%A7%A2"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fire-emoji",
+    "term": "🔥",
+    "variants": [
+      "fire emoji"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Fire emoji used to praise something as excellent or impressive.",
+    "meanings": [
+      "Sometimes just means literal fire or heat."
+    ],
+    "plain": "awesome",
+    "example": "new track 🔥",
+    "exampleTranslation": "New track, it is awesome.",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "approval"
+    ],
+    "related": [
+      "fire"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%94%A5",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%94%A5"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "goat-emoji",
+    "term": "🐐",
+    "variants": [
+      "goat emoji"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Goat emoji used as visual shorthand for GOAT, \"greatest of all time.\"",
+    "meanings": [],
+    "plain": "greatest of all time",
+    "example": "that save 🐐",
+    "exampleTranslation": "That save was the best of all time.",
+    "tone": "positive",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "approval"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Can also literally mean a goat.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%90%90",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%90%90"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "eyes-emoji",
+    "term": "👀",
+    "variants": [
+      "eyes emoji"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Eyes emoji meaning \"I'm watching this,\" \"interesting,\" or \"look at that,\" often hinting at drama or a hint.",
+    "meanings": [],
+    "plain": "I see what is happening",
+    "example": "new season announced 👀",
+    "exampleTranslation": "A new season was announced and I am paying attention.",
+    "tone": "playful",
+    "context": "Common in texts, chats and social posts; usually too casual for formal writing.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "texting",
+      "reactions"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%91%80",
+      "https://www.urbandictionary.com/define.php?term=%F0%9F%91%80"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gg",
+    "term": "GG",
+    "variants": [
+      "gg",
+      "ggs",
+      "good game"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Good game\"; a sportsmanlike thing to say at the end of a match, win or lose. Can also mean \"it's over\" when said mid-match.",
+    "meanings": [
+      "Mid-game, \"gg\" can mean the outcome is decided or someone has lost."
+    ],
+    "plain": "good game",
+    "example": "gg, that was a close one.",
+    "exampleTranslation": "Good game, that was a close one.",
+    "tone": "positive",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Online and competitive gaming culture, approx. 1990s",
+    "related": [
+      "gg-ez"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=GG",
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=GG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "gg-ez",
+    "term": "GG EZ",
+    "variants": [
+      "gg ez",
+      "ggez"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Good game, easy\"; used to taunt a defeated opponent. Seen as poor sportsmanship.",
+    "meanings": [],
+    "plain": "good game, easy",
+    "example": "he typed gg ez after winning.",
+    "exampleTranslation": "He taunted us by saying \"good game, easy\" after winning.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "gg",
+      "ez"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Considered taunting, and many games filter it as unsportsmanlike behavior.",
+    "mistakes": "Sometimes said ironically among friends.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=gg+ez",
+      "https://www.urbandictionary.com/define.php?term=GG%20EZ"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "noob",
+    "term": "noob",
+    "variants": [
+      "noob",
+      "n00b",
+      "newb",
+      "newbie"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A new or unskilled player; can be a friendly label or an insult.",
+    "meanings": [],
+    "plain": "beginner",
+    "example": "I am a noob at this game, be gentle.",
+    "exampleTranslation": "I am a beginner at this game, be gentle.",
+    "tone": "mixed",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Gaming and forum culture, derived from \"newbie\"",
+    "related": [
+      "bot",
+      "tryhard"
+    ],
+    "synonyms": [
+      "newbie"
+    ],
+    "opposites": [
+      "sweat"
+    ],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Said to a beginner in a mean way it can be hurtful.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/noob",
+      "https://www.urbandictionary.com/define.php?term=noob"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "sweat",
+    "term": "sweat",
+    "variants": [
+      "sweat",
+      "sweaty",
+      "sweats"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A player who takes a casual game extremely seriously. \"Sweaty\" describes such play.",
+    "meanings": [],
+    "plain": "very intense player",
+    "example": "this lobby is so sweaty.",
+    "exampleTranslation": "This group is playing extremely seriously.",
+    "tone": "mixed",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "tryhard"
+    ],
+    "synonyms": [
+      "tryhard"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=sweat%20gaming",
+      "https://www.urbandictionary.com/define.php?term=sweat"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tryhard",
+    "term": "tryhard",
+    "variants": [
+      "tryhard",
+      "try-hard",
+      "try hard"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Someone trying very hard, especially at a game, sometimes more than needed.",
+    "meanings": [],
+    "plain": "overly serious player",
+    "example": "my cousin is such a tryhard in Mario Kart.",
+    "exampleTranslation": "My cousin takes Mario Kart much too seriously.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "sweat"
+    ],
+    "synonyms": [
+      "sweat"
+    ],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=tryhard",
+      "https://www.urbandictionary.com/define.php?term=tryhard"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "nerf",
+    "term": "nerf",
+    "variants": [
+      "nerf",
+      "nerfed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To make a character, weapon or ability less powerful in an update.",
+    "meanings": [],
+    "plain": "weaken",
+    "example": "they nerfed the sniper rifle.",
+    "exampleTranslation": "They weakened the sniper rifle.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Gaming; likely from the soft foam Nerf toys, meaning something made harmless",
+    "related": [
+      "buff",
+      "op"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "buff"
+    ],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/nerf",
+      "https://www.urbandictionary.com/define.php?term=nerf"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "buff",
+    "term": "buff",
+    "variants": [
+      "buff",
+      "buffed"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To make a character, weapon or ability more powerful in an update.",
+    "meanings": [
+      "In general talk, \"buff\" also means muscular."
+    ],
+    "plain": "strengthen",
+    "example": "they buffed the healer so she is great now.",
+    "exampleTranslation": "They strengthened the healer so she is great now.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "MMO and online game culture",
+    "related": [
+      "nerf"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "nerf"
+    ],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=buff%20gaming",
+      "https://www.urbandictionary.com/define.php?term=buff"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "op",
+    "term": "OP",
+    "variants": [
+      "op",
+      "overpowered",
+      "original poster"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "In games, so strong it is unfair. Elsewhere, \"OP\" also means \"original poster,\" the person who started a thread.",
+    "meanings": [
+      "Original poster: the person who made a forum or social media post."
+    ],
+    "plain": "overpowered",
+    "example": "that sword is totally OP.",
+    "exampleTranslation": "That sword is totally overpowered.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "social-media"
+    ],
+    "related": [
+      "nerf"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Check context: gaming chat means overpowered; forums mean original poster.",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://knowyourmeme.com/search?q=OP",
+      "https://www.urbandictionary.com/define.php?term=OP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "clutch",
+    "term": "clutch",
+    "variants": [
+      "clutch",
+      "clutching"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Performing very well under pressure, especially winning a tough situation at the last moment.",
+    "meanings": [
+      "Also used in sports."
+    ],
+    "plain": "game-saving",
+    "example": "she made a clutch play in overtime.",
+    "exampleTranslation": "She made a game-saving play in overtime.",
+    "tone": "positive",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "approval"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/clutch",
+      "https://www.urbandictionary.com/define.php?term=clutch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "cracked",
+    "term": "cracked",
+    "variants": [
+      "cracked",
+      "crack"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Very good at a game, impressive in a way that seems almost unfair. \"Cracked aim\" means excellent aiming.",
+    "meanings": [],
+    "plain": "extremely skilled",
+    "example": "he is cracked at this shooter.",
+    "exampleTranslation": "He is extremely skilled at this shooter.",
+    "tone": "positive",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "sweat",
+      "aimbot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "In other settings \"cracked\" can mean broken or insane.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=cracked",
+      "https://www.urbandictionary.com/define.php?term=cracked"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "carry",
+    "term": "carry",
+    "variants": [
+      "carry",
+      "hard carry",
+      "carried",
+      "carrying"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To be the main reason a team wins, covering for weaker teammates. \"Hard carry\" means doing so heavily.",
+    "meanings": [],
+    "plain": "lead the team to victory",
+    "example": "you carried us this whole match.",
+    "exampleTranslation": "You led us to victory this whole match.",
+    "tone": "positive",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "MOBA and team game culture",
+    "related": [
+      "clutch"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hard%20carry",
+      "https://www.urbandictionary.com/define.php?term=carry"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "spawn-camp",
+    "term": "spawn camp",
+    "variants": [
+      "spawn camp",
+      "spawn camping",
+      "spawn camper"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Staying near where opponents reappear to defeat them again and again.",
+    "meanings": [],
+    "plain": "repeatedly attack newly respawned players",
+    "example": "they spawn camped us the whole round.",
+    "exampleTranslation": "They kept attacking us as we reappeared the whole round.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Shooter and multiplayer game culture",
+    "related": [
+      "camping",
+      "respawn"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=spawn%20camping",
+      "https://www.urbandictionary.com/define.php?term=spawn%20camp"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "griefing",
+    "term": "griefing",
+    "variants": [
+      "griefing",
+      "griefer",
+      "grief",
+      "griefed"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Intentionally annoying or sabotaging other players, such as destroying their builds or blocking teammates.",
+    "meanings": [],
+    "plain": "deliberately ruining others' play",
+    "example": "a griefer wrecked our Minecraft house.",
+    "exampleTranslation": "A player who spoils others' fun wrecked our Minecraft house.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Online games from approx. late 1990s–2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Describes harassment behavior; kid-friendly but unkind.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/griefing",
+      "https://www.urbandictionary.com/define.php?term=griefer",
+      "https://www.urbandictionary.com/define.php?term=griefing"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "rage-quit",
+    "term": "rage quit",
+    "variants": [
+      "rage quit",
+      "ragequit",
+      "rage quitting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To abruptly leave a game out of frustration.",
+    "meanings": [],
+    "plain": "quit in anger",
+    "example": "he rage quit when he lost.",
+    "exampleTranslation": "He quit in anger when he lost.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "tilted"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/rage%20quit",
+      "https://www.urbandictionary.com/define.php?term=rage%20quit"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "skill-issue",
+    "term": "skill issue",
+    "variants": [
+      "skill issue"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "A teasing way to say a problem is due to lack of skill, not the game.",
+    "meanings": [],
+    "plain": "you need to get better",
+    "example": "that boss is not unfair, it is a skill issue.",
+    "exampleTranslation": "That boss is not unfair; you just need more practice.",
+    "tone": "sarcastic",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "roasts"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Can sound mean if used on a real struggle.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=skill+issue",
+      "https://www.urbandictionary.com/define.php?term=skill%20issue"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "diff",
+    "term": "diff",
+    "variants": [
+      "diff",
+      "jungle diff",
+      "gap"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Short for \"difference\"; blames a loss on a player or role being better. \"Jungle diff\" means the jungler made the difference.",
+    "meanings": [],
+    "plain": "one side was clearly better",
+    "example": "we lost, mid diff.",
+    "exampleTranslation": "We lost; the middle player was clearly better.",
+    "tone": "mixed",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "League of Legends and MOBA culture",
+    "related": [
+      "skill-issue"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 3,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=diff",
+      "https://www.urbandictionary.com/define.php?term=diff"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "meta",
+    "term": "meta",
+    "variants": [
+      "meta",
+      "the meta"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The most effective or popular strategies at a given time in a game. From \"metagame.\"",
+    "meanings": [
+      "Also a trendy word meaning self-referential."
+    ],
+    "plain": "dominant strategy",
+    "example": "the current meta is all about speed.",
+    "exampleTranslation": "The most effective strategy right now is all about speed.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/meta",
+      "https://www.urbandictionary.com/define.php?term=meta"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "speedrun",
+    "term": "speedrun",
+    "variants": [
+      "speedrun",
+      "speedrunning",
+      "speedrunner"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Completing a video game as quickly as possible, often using tricks.",
+    "meanings": [
+      "Used jokingly for anything done very fast."
+    ],
+    "plain": "finish a game as fast as possible",
+    "example": "she speedran the whole game in an hour.",
+    "exampleTranslation": "She finished the whole game as fast as possible in an hour.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/speedrun",
+      "https://www.urbandictionary.com/define.php?term=speedrun"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "pog",
+    "term": "pog",
+    "variants": [
+      "pog",
+      "poggers",
+      "pogchamp",
+      "pogchamp"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Cheer for something exciting or impressive. From the Twitch emote PogChamp.",
+    "meanings": [
+      "Possibly connected to the shape of the surprised face in the emote."
+    ],
+    "plain": "awesome",
+    "example": "pog, you beat the level!",
+    "exampleTranslation": "Awesome, you beat the level!",
+    "tone": "positive",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "origin": "Twitch chat; PogChamp emote, popularized approx. 2010s",
+    "related": [
+      "kappa",
+      "emote"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=PogChamp",
+      "https://www.urbandictionary.com/define.php?term=pog"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "clip-it",
+    "term": "clip it",
+    "variants": [
+      "clip it",
+      "clip that"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Ask to save a short video of a great (or funny) moment so it can be shared.",
+    "meanings": [
+      "Used by streamers and viewers."
+    ],
+    "plain": "save that moment",
+    "example": "clip that, it was unreal!",
+    "exampleTranslation": "Save that moment, it was unreal!",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "social-media"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "current",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=clip%20that",
+      "https://www.urbandictionary.com/define.php?term=clip%20it"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "unlocked",
+    "term": "unlocked",
+    "variants": [
+      "unlocked",
+      "new fear unlocked",
+      "memory unlocked"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "From games where you \"unlock\" things; used jokingly: \"new fear unlocked.\"",
+    "meanings": [],
+    "plain": "newly discovered",
+    "example": "new fear unlocked: the haunted house.",
+    "exampleTranslation": "I just discovered a new fear: the haunted house.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=new%20fear%20unlocked",
+      "https://www.urbandictionary.com/define.php?term=unlocked"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "side-quest",
+    "term": "side quest",
+    "variants": [
+      "side quest",
+      "sidequest"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A small optional task apart from the main goal; used in daily life for small detours.",
+    "meanings": [
+      "Also used for a fun distraction from your main goals."
+    ],
+    "plain": "extra task",
+    "example": "my side quest today: buy stickers.",
+    "exampleTranslation": "My extra task today: buy stickers.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "main-quest"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/side%20quest",
+      "https://www.urbandictionary.com/define.php?term=side%20quest"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "main-quest",
+    "term": "main quest",
+    "variants": [
+      "main quest",
+      "main questline"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The central story mission of a game; in life, your most important task.",
+    "meanings": [],
+    "plain": "primary goal",
+    "example": "focus, homework is the main quest.",
+    "exampleTranslation": "Focus; homework is the main task.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "side-quest"
+    ],
+    "synonyms": [],
+    "opposites": [
+      "side-quest"
+    ],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=main%20quest",
+      "https://www.urbandictionary.com/define.php?term=main%20quest"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "final-boss",
+    "term": "final boss",
+    "variants": [
+      "final boss",
+      "final boss of"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "The last, hardest opponent in a game; used for the toughest obstacle or person (\"final boss of homework\").",
+    "meanings": [
+      "Sometimes used for the most impressive person at something."
+    ],
+    "plain": "ultimate challenge",
+    "example": "algebra is the final boss of my week.",
+    "exampleTranslation": "Algebra is the toughest challenge of my week.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "boss-fight"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=final%20boss",
+      "https://www.urbandictionary.com/define.php?term=final%20boss"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "camping",
+    "term": "camping",
+    "variants": [
+      "camping",
+      "camper",
+      "camp"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Waiting in one spot, usually hidden, to ambush opponents; considered annoying by some.",
+    "meanings": [
+      "Normal use of \"camping\" also applies; context matters."
+    ],
+    "plain": "waiting in one spot",
+    "example": "a sniper camped on the roof.",
+    "exampleTranslation": "A sniper stayed hidden on the roof waiting to attack.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "spawn-camp"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=camping",
+      "https://www.urbandictionary.com/define.php?term=camping"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "smurf",
+    "term": "smurf",
+    "variants": [
+      "smurf",
+      "smurfing"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "An experienced player who makes a new account to play against weaker players.",
+    "meanings": [],
+    "plain": "skilled player on a new account",
+    "example": "he is a smurf, he is way too good.",
+    "exampleTranslation": "He is an experienced player on a fresh account, he is far too good.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Likely from the Smurfs cartoon; competitive games",
+    "related": [
+      "noob"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/smurf",
+      "https://www.urbandictionary.com/define.php?term=smurf"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "lag",
+    "term": "lag",
+    "variants": [
+      "lag",
+      "laggy",
+      "laggin"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A delay between your action and what happens on screen because of a slow connection or device.",
+    "meanings": [
+      "Also used for general slowness or falling behind."
+    ],
+    "plain": "slow connection",
+    "example": "sorry, I lagged out.",
+    "exampleTranslation": "Sorry, my connection slowed and I got disconnected.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "ping"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/lag",
+      "https://www.urbandictionary.com/define.php?term=lag"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "ping",
+    "term": "ping",
+    "variants": [
+      "ping",
+      "high ping"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A measure of network delay, in milliseconds; \"high ping\" means a slow connection. Also to send a quick notification.",
+    "meanings": [
+      "\"Ping me\" at work means send a message."
+    ],
+    "plain": "connection delay",
+    "example": "my ping is 300, I keep rubber-banding.",
+    "exampleTranslation": "My connection is slow, I keep jumping around.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "lag"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/ping",
+      "https://www.urbandictionary.com/define.php?term=ping"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tilted",
+    "term": "tilted",
+    "variants": [
+      "tilted",
+      "tilt",
+      "on tilt",
+      "tilting"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Upset after a mistake or loss so that your play gets worse.",
+    "meanings": [],
+    "plain": "frustrated and playing badly",
+    "example": "I am on tilt after that loss.",
+    "exampleTranslation": "I am frustrated and playing badly after that loss.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "emotions"
+    ],
+    "origin": "Poker, then adopted by online games",
+    "related": [
+      "rage-quit"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=tilted",
+      "https://www.urbandictionary.com/define.php?term=tilted"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ez",
+    "term": "EZ",
+    "variants": [
+      "ez",
+      "easy"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Short for \"easy\"; also used to taunt.",
+    "meanings": [
+      "Can sound like a taunt when said to opponents."
+    ],
+    "plain": "easy",
+    "example": "that level was ez.",
+    "exampleTranslation": "That level was easy.",
+    "tone": "mixed",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "gg-ez"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=ez",
+      "https://www.urbandictionary.com/define.php?term=EZ"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gamer-moment",
+    "term": "gamer moment",
+    "variants": [
+      "gamer moment",
+      "gamer moments"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A relatable or funny thing that happens to a gamer, like a silly mistake.",
+    "meanings": [],
+    "plain": "a funny gaming mishap",
+    "example": "I fell off the map, gamer moment.",
+    "exampleTranslation": "I fell off the map, a typical gaming mistake.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=gamer%20moment",
+      "https://www.urbandictionary.com/define.php?term=gamer%20moment"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "cheese",
+    "term": "cheese",
+    "variants": [
+      "cheese",
+      "cheesy",
+      "cheesing"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Using an easy exploit or silly strategy that beats the game or opponent.",
+    "meanings": [
+      "In other places \"cheesy\" means corny."
+    ],
+    "plain": "use an unfair trick",
+    "example": "he cheesed the boss with a glitch.",
+    "exampleTranslation": "He beat the boss using an unfair trick.",
+    "tone": "mixed",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=cheese%20gaming",
+      "https://www.urbandictionary.com/define.php?term=cheese"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "rng",
+    "term": "RNG",
+    "variants": [
+      "rng",
+      "rngesus"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Random number generator\"; the luck element in games.",
+    "meanings": [],
+    "plain": "random luck",
+    "example": "rng gave me the rare drop!",
+    "exampleTranslation": "Random luck gave me the rare drop!",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "loot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.dictionary.com/e/acronyms/",
+      "https://www.urbandictionary.com/define.php?term=rng",
+      "https://www.urbandictionary.com/define.php?term=RNG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "grind",
+    "term": "grind",
+    "variants": [
+      "grind",
+      "grinding",
+      "grindy"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Repeating tasks to gain levels or items; also working hard in life.",
+    "meanings": [
+      "\"The grind\" in life means hard work."
+    ],
+    "plain": "repeat tasks to level up",
+    "example": "I am grinding to reach level 50.",
+    "exampleTranslation": "I am repeating tasks to reach level 50.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/grind",
+      "https://www.urbandictionary.com/define.php?term=grind"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "loot",
+    "term": "loot",
+    "variants": [
+      "loot",
+      "looting",
+      "lootbox",
+      "loot box"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Items gathered by defeating enemies or exploring.",
+    "meanings": [
+      "Loot box: randomized rewards, sometimes bought with money."
+    ],
+    "plain": "items collected",
+    "example": "I got epic loot from the chest.",
+    "exampleTranslation": "I got great items from the chest.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "rng"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 3,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/loot",
+      "https://www.urbandictionary.com/define.php?term=loot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "1v1",
+    "term": "1v1",
+    "variants": [
+      "1v1",
+      "1 v 1",
+      "1v1 me"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A match with one player versus one player. \"1v1 me\" is a challenge to fight.",
+    "meanings": [],
+    "plain": "one-on-one match",
+    "example": "1v1 me in the arena!",
+    "exampleTranslation": "Challenge me to a one-on-one match in the arena!",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "gg"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=1v1",
+      "https://www.urbandictionary.com/define.php?term=1v1"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "respawn",
+    "term": "respawn",
+    "variants": [
+      "respawn",
+      "respawning"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To come back after being defeated.",
+    "meanings": [],
+    "plain": "reappear after defeat",
+    "example": "I respawned at the base.",
+    "exampleTranslation": "I reappeared at the base.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "spawn-camp"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/respawn",
+      "https://www.urbandictionary.com/define.php?term=respawn"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "aimbot",
+    "term": "aimbot",
+    "variants": [
+      "aimbot",
+      "aim bot"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A cheat that aims automatically; accused of players who are too accurate.",
+    "meanings": [],
+    "plain": "cheating software for aiming",
+    "example": "that player must be using an aimbot.",
+    "exampleTranslation": "That player must be using cheat software for aiming.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "hacker",
+      "cracked"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Calling someone an aimbot accuses them of cheating; it may be unfair.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=aimbot",
+      "https://www.urbandictionary.com/define.php?term=aimbot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "hacker",
+    "term": "hacker",
+    "variants": [
+      "hacker",
+      "hax",
+      "hacks",
+      "hacking"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "In games, someone using cheats; \"hacker!\" is shouted at suspiciously good players.",
+    "meanings": [
+      "Outside games, a hacker breaks into computer systems."
+    ],
+    "plain": "cheater",
+    "example": "he is a hacker, no way he saw me!",
+    "exampleTranslation": "He is cheating; there is no way he saw me!",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "aimbot"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/hacker",
+      "https://www.urbandictionary.com/define.php?term=hacker"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ranked",
+    "term": "ranked",
+    "variants": [
+      "ranked",
+      "ranking",
+      "rank"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "A game mode that places players in skill tiers.",
+    "meanings": [
+      "Opposite: casual play."
+    ],
+    "plain": "competitive mode",
+    "example": "I am playing ranked tonight.",
+    "exampleTranslation": "I am playing the competitive mode tonight.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=ranked",
+      "https://www.urbandictionary.com/define.php?term=ranked"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "bot",
+    "term": "bot",
+    "variants": [
+      "bot",
+      "bots"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Calling a poor player a \"bot\" because they play like an AI; also computer-controlled player.",
+    "meanings": [],
+    "plain": "bad player",
+    "example": "what a bot, he missed again.",
+    "exampleTranslation": "What a bad player, he missed again.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "noob"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Used as an insult.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=bot",
+      "https://www.urbandictionary.com/define.php?term=bot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "kappa",
+    "term": "Kappa",
+    "variants": [
+      "kappa"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "A Twitch emote of a face used to signal sarcasm or joking. Name comes from a Twitch developer's photo.",
+    "meanings": [],
+    "plain": "just kidding / sarcasm",
+    "example": "that was a totally fair match Kappa",
+    "exampleTranslation": "That was a totally fair match, I am being sarcastic.",
+    "tone": "sarcastic",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "origin": "Twitch (Kappa emote), approx. 2010s",
+    "related": [
+      "pog",
+      "emote"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 2,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=Kappa",
+      "https://www.urbandictionary.com/define.php?term=Kappa"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "copypasta",
+    "term": "copypasta",
+    "variants": [
+      "copypasta",
+      "copy pasta"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A block of text copied and pasted widely, often jokingly.",
+    "meanings": [],
+    "plain": "copied text meme",
+    "example": "chat spammed a copypasta about pizza.",
+    "exampleTranslation": "The chat posted the same joke text about pizza repeatedly.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "memes",
+      "gaming"
+    ],
+    "origin": "Online forums and Twitch, approx. 2000s onward",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 2,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=copypasta",
+      "https://www.urbandictionary.com/define.php?term=copypasta"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "emote",
+    "term": "emote",
+    "variants": [
+      "emote",
+      "emotes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A small icon or animation to express emotion in streams or games.",
+    "meanings": [],
+    "plain": "small expressive image",
+    "example": "spam the laugh emote!",
+    "exampleTranslation": "Send the laughing icon repeatedly!",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "social-media"
+    ],
+    "related": [
+      "pog",
+      "kappa"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/emote",
+      "https://www.urbandictionary.com/define.php?term=emote"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "afk-farming",
+    "term": "AFK farming",
+    "variants": [
+      "afk farming",
+      "afk farm"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Leaving a game running to collect resources or experience without playing actively.",
+    "meanings": [],
+    "plain": "earning rewards while away",
+    "example": "I am afk farming while I eat dinner.",
+    "exampleTranslation": "I am collecting rewards without playing while I eat dinner.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "afk",
+      "grind"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=afk%20farming",
+      "https://www.urbandictionary.com/define.php?term=AFK%20farming"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "gaming-chair",
+    "term": "gaming chair",
+    "variants": [
+      "gaming chair",
+      "gamer chair"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A meme: the loud racing-seat chair associated with gamers; used as a joke about gamer stereotypes.",
+    "meanings": [],
+    "plain": "racing-style desk chair",
+    "example": "he claims his gaming chair gives him skill.",
+    "exampleTranslation": "He jokes that his gaming chair makes him better.",
+    "tone": "sarcastic",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming",
+      "memes"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=gaming%20chair",
+      "https://www.urbandictionary.com/define.php?term=gaming%20chair"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "lag-switch",
+    "term": "lag switch",
+    "variants": [
+      "lag switch"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A cheating device that deliberately interrupts a connection to gain an advantage.",
+    "meanings": [],
+    "plain": "cheating device",
+    "example": "banned for using a lag switch.",
+    "exampleTranslation": "Banned for using a connection-cutting cheat.",
+    "tone": "negative",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "lag",
+      "hacker"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=lag%20switch",
+      "https://www.urbandictionary.com/define.php?term=lag%20switch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "headshot",
+    "term": "headshot",
+    "variants": [
+      "headshot",
+      "headshots",
+      "boom headshot"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A shot that hits the head in a shooter; often an exclamation after an easy hit.",
+    "meanings": [
+      "In other contexts, a \"headshot\" is a professional portrait."
+    ],
+    "plain": "a hit to the head",
+    "example": "boom, headshot!",
+    "exampleTranslation": "Boom, a hit to the head!",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Refers to virtual violence in shooter games.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/headshot",
+      "https://www.urbandictionary.com/define.php?term=headshot"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "no-scope",
+    "term": "no scope",
+    "variants": [
+      "no scope",
+      "noscope",
+      "360 no scope"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A shot made without using a sniper scope; also a meme for fancy trick shots.",
+    "meanings": [],
+    "plain": "shot without aiming",
+    "example": "he got a no scope on the first try.",
+    "exampleTranslation": "He made a shot without aiming through the scope on the first try.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Sniper trick shots in shooter games, approx. 2000s–2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Refers to virtual shooting.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=MLG",
+      "https://www.urbandictionary.com/define.php?term=no%20scope"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "mlg",
+    "term": "MLG",
+    "variants": [
+      "mlg",
+      "major league gaming"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "\"Major League Gaming\"; became a meme for exaggerated trick-shot videos (airhorns, shades).",
+    "meanings": [],
+    "plain": "professional-level",
+    "example": "that was an MLG move!",
+    "exampleTranslation": "That was a professional-level move!",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "origin": "Major League Gaming, a real esports company; meme wave approx. early 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=MLG",
+      "https://www.urbandictionary.com/define.php?term=MLG"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "boss-fight",
+    "term": "boss fight",
+    "variants": [
+      "boss fight",
+      "boss battle"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A tough battle against a powerful enemy; also any big challenge.",
+    "meanings": [],
+    "plain": "big challenge",
+    "example": "my science exam is a boss fight.",
+    "exampleTranslation": "My science exam is a big challenge.",
+    "tone": "playful",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [
+      "final-boss"
+    ],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/boss%20fight",
+      "https://www.urbandictionary.com/define.php?term=boss%20fight"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "xp",
+    "term": "XP",
+    "variants": [
+      "xp",
+      "exp",
+      "experience points"
+    ],
+    "partOfSpeech": "abbreviation",
+    "definition": "Points for completing tasks that raise your level.",
+    "meanings": [
+      "Also \"Windows XP\" in tech history."
+    ],
+    "plain": "experience points",
+    "example": "I got double xp today.",
+    "exampleTranslation": "I earned double experience points today.",
+    "tone": "neutral",
+    "context": "Used in online games, voice chat and streams; meaning depends on the game and community.",
+    "generations": [
+      "z",
+      "millennial",
+      "alpha"
+    ],
+    "categories": [
+      "gaming"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=xp",
+      "https://www.urbandictionary.com/define.php?term=XP"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "yeet",
+    "term": "yeet",
+    "variants": [
+      "yeet",
+      "yeeted",
+      "yeeting"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To throw something forcefully; also an exclamation.",
+    "meanings": [],
+    "plain": "throw",
+    "example": "he yeeted the ball over the fence.",
+    "exampleTranslation": "He threw the ball over the fence.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "origin": "Spread through social media 2014–2018; earlier regional use is likely",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/yeet",
+      "https://www.urbandictionary.com/define.php?term=yeet"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "epic-fail",
+    "term": "epic fail",
+    "variants": [
+      "epic fail",
+      "epic fails"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A big, funny failure.",
+    "meanings": [],
+    "plain": "big failure",
+    "example": "dropping the cake was an epic fail.",
+    "exampleTranslation": "Dropping the cake was a big failure.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2000s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=epic%20fail",
+      "https://www.urbandictionary.com/define.php?term=epic%20fail"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "pwned",
+    "term": "pwned",
+    "variants": [
+      "pwned",
+      "pwn",
+      "owned"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "To thoroughly defeat someone, especially in games; supposedly from a typo of \"owned.\"",
+    "meanings": [],
+    "plain": "beaten badly",
+    "example": "you got pwned.",
+    "exampleTranslation": "You were thoroughly defeated.",
+    "tone": "mixed",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2000s",
+    "origin": "Early online gaming; likely a typo of \"owned\"",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Can be taunting.",
+    "sources": [
+      "https://knowyourmeme.com/search?q=pwned",
+      "https://www.urbandictionary.com/define.php?term=pwned"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "derp",
+    "term": "derp",
+    "variants": [
+      "derp",
+      "derpy"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "A sound for stupidity; \"derpy\" means silly-looking.",
+    "meanings": [],
+    "plain": "silly or dumb",
+    "example": "I forgot my own name, derp.",
+    "exampleTranslation": "I forgot my own name, how silly.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2000s–early 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/derp",
+      "https://www.urbandictionary.com/define.php?term=derp"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "facepalm",
+    "term": "facepalm",
+    "variants": [
+      "facepalm",
+      "face palm"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Putting a hand on your face from embarrassment or disbelief.",
+    "meanings": [],
+    "plain": "embarrassed disbelief",
+    "example": "that answer made me facepalm.",
+    "exampleTranslation": "That answer made me cringe in disbelief.",
+    "tone": "negative",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2000s–2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/facepalm",
+      "https://www.urbandictionary.com/define.php?term=facepalm"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "rickroll",
+    "term": "rickroll",
+    "variants": [
+      "rickroll",
+      "rickrolled",
+      "rickrolling"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "A prank where a link leads to Rick Astley's song \"Never Gonna Give You Up.\"",
+    "meanings": [],
+    "plain": "trick someone into watching a music video",
+    "example": "I got rickrolled by a link.",
+    "exampleTranslation": "I was tricked into a music video by a link.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popularized approx. 2007–2008",
+    "origin": "Rick Astley's 1987 song; meme from imageboards",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=rickroll",
+      "https://www.merriam-webster.com/dictionary/rickroll",
+      "https://www.urbandictionary.com/define.php?term=rickroll"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "doge",
+    "term": "doge",
+    "variants": [
+      "doge",
+      "such wow",
+      "much wow",
+      "wow"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A meme featuring a Shiba Inu with comic-sans phrases like \"such wow.\" The term is a playful misspelling of \"dog.\"",
+    "meanings": [],
+    "plain": "Shiba Inu meme",
+    "example": "such snack, much wow.",
+    "exampleTranslation": "What a snack, I am amazed.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2013",
+    "origin": "Photo of a dog named Kabosu",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/doge",
+      "https://www.urbandictionary.com/define.php?term=doge"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "dank",
+    "term": "dank",
+    "variants": [
+      "dank",
+      "dank memes",
+      "dank meme"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Originally meaning damp; slang for high-quality, ironic memes.",
+    "meanings": [
+      "Older slang meaning strong cannabis; ignore for meme use."
+    ],
+    "plain": "excellent or edgy (of memes)",
+    "example": "this meme page is dank.",
+    "exampleTranslation": "This meme page is excellent.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Meme usage approx. 2015",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/dank-memes",
+      "https://www.urbandictionary.com/define.php?term=dank"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "sksksk",
+    "term": "sksksk",
+    "variants": [
+      "sksksk",
+      "sksk"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Keyboard smash tied to VSCO girl culture, used to show excitement or laughter.",
+    "meanings": [],
+    "plain": "excited laughing",
+    "example": "sksksk I love this scrunchie.",
+    "exampleTranslation": "Ha! I love this scrunchie.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "z"
+    ],
+    "categories": [
+      "memes",
+      "reactions"
+    ],
+    "era": "Approx. 2019",
+    "origin": "VSCO girl trend and Vine/TikTok culture",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=sksksk",
+      "https://www.urbandictionary.com/define.php?term=sksksk"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "and-i-oop",
+    "term": "and I oop",
+    "variants": [
+      "and i oop",
+      "i oop",
+      "oop"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "An exclamation of surprise or acknowledging an awkward moment; from Jasmine Masters, a drag performer.",
+    "meanings": [],
+    "plain": "oops",
+    "example": "I dropped my phone, and I oop.",
+    "exampleTranslation": "I dropped my phone, oops.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "memes",
+      "reactions"
+    ],
+    "era": "Popular approx. 2018",
+    "origin": "Jasmine Masters (public drag performer), Vine",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=and+I+oop",
+      "https://www.urbandictionary.com/define.php?term=and%20I%20oop"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "turnt",
+    "term": "turnt",
+    "variants": [
+      "turnt",
+      "turn up",
+      "turned up",
+      "turnt up"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Very excited or ready to party; \"turn up\" means get energetic.",
+    "meanings": [],
+    "plain": "excited, partying",
+    "example": "the whole gym was turnt.",
+    "exampleTranslation": "The whole gym was excited.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2010s",
+    "origin": "Rooted in AAVE and hip-hop",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sensitiveNote": "Often connected to party culture including alcohol; family-safe when used for just excitement.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/turnt",
+      "https://www.urbandictionary.com/define.php?term=turnt"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "on-point",
+    "term": "on point",
+    "variants": [
+      "on point",
+      "onpoint"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Excellent or well done; precisely right.",
+    "meanings": [],
+    "plain": "perfect",
+    "example": "your outfit is on point.",
+    "exampleTranslation": "Your outfit is perfect.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/on%20point",
+      "https://www.urbandictionary.com/define.php?term=on%20point"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "swag",
+    "term": "swag",
+    "variants": [
+      "swag",
+      "swaggy"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Stylish confidence or cool; also free promotional items.",
+    "meanings": [
+      "Free merchandise, like conference swag."
+    ],
+    "plain": "stylish confidence",
+    "example": "he walked in with swag.",
+    "exampleTranslation": "He walked in with stylish confidence.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2010s",
+    "origin": "Rooted in AAVE and hip-hop culture",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/swag",
+      "https://www.urbandictionary.com/define.php?term=swag"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "totes",
+    "term": "totes",
+    "variants": [
+      "totes",
+      "totes amazeballs"
+    ],
+    "partOfSpeech": "adverb",
+    "definition": "Playful shortening of \"totally.\"",
+    "meanings": [],
+    "plain": "totally",
+    "example": "that was totes hilarious.",
+    "exampleTranslation": "That was totally hilarious.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/totes",
+      "https://www.urbandictionary.com/define.php?term=totes"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "cray",
+    "term": "cray",
+    "variants": [
+      "cray",
+      "cray cray"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Playful shortening of \"crazy.\"",
+    "meanings": [],
+    "plain": "crazy",
+    "example": "this day is cray cray.",
+    "exampleTranslation": "This day is crazy.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. early 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=cray",
+      "https://www.urbandictionary.com/define.php?term=cray"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "amazeballs",
+    "term": "amazeballs",
+    "variants": [
+      "amazeballs"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Silly exaggeration of \"amazing.\"",
+    "meanings": [],
+    "plain": "amazing",
+    "example": "your cake is amazeballs.",
+    "exampleTranslation": "Your cake is amazing.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Contains a mildly crude word (\"balls\"), so some prefer to avoid.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/amazeballs",
+      "https://www.urbandictionary.com/define.php?term=amazeballs"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "ermahgerd",
+    "term": "ermahgerd",
+    "variants": [
+      "ermahgerd",
+      "ermergerd"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Playful mock pronunciation of \"oh my God,\" from the \"Gersberms\" meme.",
+    "meanings": [],
+    "plain": "oh my gosh",
+    "example": "ermahgerd, pancakes!",
+    "exampleTranslation": "Oh my gosh, pancakes!",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Meme popularized approx. 2012",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "A mock version of \"oh my God.\"",
+    "sources": [
+      "https://knowyourmeme.com/memes/ermahgerd",
+      "https://www.urbandictionary.com/define.php?term=ermahgerd"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "cant-even",
+    "term": "I can't even",
+    "variants": [
+      "i can't even",
+      "cant even",
+      "i cannot even"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Shows being so overwhelmed (by amusement, anger or emotion) that you cannot continue.",
+    "meanings": [],
+    "plain": "I am overwhelmed",
+    "example": "I can't even, this puppy is too cute.",
+    "exampleTranslation": "I am overwhelmed, this puppy is too cute.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. early 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/can%27t%20even",
+      "https://www.urbandictionary.com/define.php?term=I%20can't%20even"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "feels",
+    "term": "feels",
+    "variants": [
+      "feels",
+      "all the feels",
+      "the feels"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Strong emotions, especially from a story or moment.",
+    "meanings": [],
+    "plain": "strong emotions",
+    "example": "that movie gave me all the feels.",
+    "exampleTranslation": "That movie gave me strong emotions.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "emotions",
+      "memes"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/feels",
+      "https://www.urbandictionary.com/define.php?term=feels"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "hundo-p",
+    "term": "hundo p",
+    "variants": [
+      "hundo p",
+      "hundo",
+      "hundo percent"
+    ],
+    "partOfSpeech": "adverb",
+    "definition": "Playful for \"hundred percent\"; completely sure.",
+    "meanings": [],
+    "plain": "100 percent",
+    "example": "I am hundo p going to the game.",
+    "exampleTranslation": "I am one hundred percent going to the game.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "z",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=hundo%20p",
+      "https://www.urbandictionary.com/define.php?term=hundo%20p"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "noice",
+    "term": "noice",
+    "variants": [
+      "noice",
+      "nice"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Exaggerated \"nice,\" said with satisfaction.",
+    "meanings": [],
+    "plain": "nice",
+    "example": "you aced it? noice.",
+    "exampleTranslation": "You aced it? Nice.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/search?q=noice",
+      "https://www.urbandictionary.com/define.php?term=noice"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "rad",
+    "term": "rad",
+    "variants": [
+      "rad",
+      "radical"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Great or exciting; short for \"radical,\" popular with skater and surfer culture.",
+    "meanings": [],
+    "plain": "awesome",
+    "example": "that trick was rad.",
+    "exampleTranslation": "That trick was awesome.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1980s–1990s",
+    "origin": "Surfer and skater culture in California",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/rad",
+      "https://www.urbandictionary.com/define.php?term=rad"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "da-bomb",
+    "term": "da bomb",
+    "variants": [
+      "da bomb",
+      "the bomb",
+      "bomb"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Excellent or the best; from the 1990s.",
+    "meanings": [],
+    "plain": "excellent",
+    "example": "this pizza is da bomb.",
+    "exampleTranslation": "This pizza is excellent.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 1990s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 2,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=da%20bomb",
+      "https://www.urbandictionary.com/define.php?term=da%20bomb"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "all-that-and-a-bag-of-chips",
+    "term": "all that and a bag of chips",
+    "variants": [
+      "all that and a bag of chips",
+      "all that"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "1990s way of praising someone as exceptional (\"she's all that\").",
+    "meanings": [],
+    "plain": "amazing",
+    "example": "she thinks she is all that and a bag of chips.",
+    "exampleTranslation": "She thinks she is the greatest.",
+    "tone": "mixed",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "millennial",
+      "older-internet"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=all%20that%20and%20a%20bag%20of%20chips",
+      "https://www.urbandictionary.com/define.php?term=all%20that%20and%20a%20bag%20of%20chips"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "talk-to-the-hand",
+    "term": "talk to the hand",
+    "variants": [
+      "talk to the hand",
+      "talk to the hand cuz the face ain't listening"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Dismissive 1990s line with a hand held up.",
+    "meanings": [],
+    "plain": "I am not listening",
+    "example": "talk to the hand!",
+    "exampleTranslation": "I am not listening!",
+    "tone": "sarcastic",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. late 1990s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Intentionally rude.",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=talk%20to%20the%20hand",
+      "https://www.urbandictionary.com/define.php?term=talk%20to%20the%20hand"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "as-if",
+    "term": "as if",
+    "variants": [
+      "as if",
+      "as if!"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Expresses disbelief or rejection; popularized by the movie \"Clueless\" (1995).",
+    "meanings": [],
+    "plain": "no way",
+    "example": "as if I would wear that!",
+    "exampleTranslation": "No way would I wear that!",
+    "tone": "sarcastic",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "origin": "\"Clueless,\" 1995 film",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=as%20if",
+      "https://www.urbandictionary.com/define.php?term=as%20if"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "whatever",
+    "term": "whatever",
+    "variants": [
+      "whatever"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Shows indifference or annoyance.",
+    "meanings": [
+      "Usually used neutrally to mean \"anything at all.\""
+    ],
+    "plain": "I do not care",
+    "example": "whatever, do what you want.",
+    "exampleTranslation": "I do not care, do what you want.",
+    "tone": "sarcastic",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/whatever",
+      "https://www.urbandictionary.com/define.php?term=whatever"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "booyah",
+    "term": "booyah",
+    "variants": [
+      "booyah",
+      "boo-yah",
+      "booyakasha"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Triumphant shout.",
+    "meanings": [],
+    "plain": "success cheer",
+    "example": "booyah, I won!",
+    "exampleTranslation": "Hooray, I won!",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "millennial",
+      "older-internet"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "origin": "Unclear; widely used in sports and 1990s media",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/booyah",
+      "https://www.urbandictionary.com/define.php?term=booyah"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fetch",
+    "term": "fetch",
+    "variants": [
+      "fetch",
+      "stop trying to make fetch happen",
+      "make fetch happen"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "From \"Mean Girls\" (2004): \"fetch\" was a made-up slang word; the line means to push something that will not catch on.",
+    "meanings": [],
+    "plain": "cool",
+    "example": "stop trying to make fetch happen.",
+    "exampleTranslation": "Stop trying to push something that will not catch on.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "millennial",
+      "z"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Mean Girls, 2004",
+    "origin": "\"Mean Girls,\" 2004 film",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "ironic",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=fetch",
+      "https://www.urbandictionary.com/define.php?term=fetch"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "phat",
+    "term": "phat",
+    "variants": [
+      "phat"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Excellent or cool; popular in 1990s hip-hop. Do not confuse with \"fat.\"",
+    "meanings": [],
+    "plain": "excellent",
+    "example": "that bass line is phat.",
+    "exampleTranslation": "That bass line is excellent.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "origin": "AAVE and hip-hop",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Origin partly tied to a respelling of another word; its meaning is approval.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/phat",
+      "https://www.urbandictionary.com/define.php?term=phat"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "tubular",
+    "term": "tubular",
+    "variants": [
+      "tubular"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Surfer-era slang for excellent.",
+    "meanings": [
+      "Also literally means shaped like a tube."
+    ],
+    "plain": "awesome",
+    "example": "tubular, dude!",
+    "exampleTranslation": "Awesome, dude!",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1980s",
+    "origin": "Surfer culture (tube of a wave)",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 3,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/tubular",
+      "https://www.urbandictionary.com/define.php?term=tubular"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "gnarly",
+    "term": "gnarly",
+    "variants": [
+      "gnarly"
+    ],
+    "partOfSpeech": "adjective",
+    "definition": "Surfer/skater slang for impressive, intense, or sometimes nasty.",
+    "meanings": [
+      "Literal sense: knotted and twisted."
+    ],
+    "plain": "intense",
+    "example": "that wave was gnarly.",
+    "exampleTranslation": "That wave was intense.",
+    "tone": "mixed",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1980s",
+    "origin": "Surf and skate culture",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/gnarly",
+      "https://www.urbandictionary.com/define.php?term=gnarly"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "trippin",
+    "term": "trippin'",
+    "variants": [
+      "trippin'",
+      "trippin",
+      "tripping"
+    ],
+    "partOfSpeech": "verb",
+    "definition": "Acting strangely or overreacting; from AAVE.",
+    "meanings": [
+      "Literal: stumbling."
+    ],
+    "plain": "acting irrationally",
+    "example": "you are trippin' if you think that.",
+    "exampleTranslation": "You are overreacting if you think that.",
+    "tone": "mixed",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "origin": "AAVE",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "Origin relates to drug \"trips,\" so some prefer other words.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/tripping",
+      "https://www.urbandictionary.com/define.php?term=trippin'"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "props",
+    "term": "props",
+    "variants": [
+      "props",
+      "give props"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Praise or credit; short for \"proper respect.\"",
+    "meanings": [
+      "In theater, \"props\" are items on stage."
+    ],
+    "plain": "recognition",
+    "example": "props to you for finishing first.",
+    "exampleTranslation": "Credit to you for finishing first.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "origin": "AAVE and hip-hop; \"proper respect\"",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/props",
+      "https://www.urbandictionary.com/define.php?term=props"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "word",
+    "term": "word",
+    "variants": [
+      "word",
+      "word up"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Agreement or approval; from AAVE and hip-hop.",
+    "meanings": [
+      "\"Word up\" is the greeting form."
+    ],
+    "plain": "I agree",
+    "example": "word, I am down.",
+    "exampleTranslation": "I agree, I am in.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1980s–1990s",
+    "origin": "AAVE and hip-hop",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/word",
+      "https://www.urbandictionary.com/define.php?term=word"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "peace-out",
+    "term": "peace out",
+    "variants": [
+      "peace out",
+      "peace"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "A casual farewell, often with a peace sign.",
+    "meanings": [],
+    "plain": "goodbye",
+    "example": "peace out, see you tomorrow.",
+    "exampleTranslation": "Goodbye, see you tomorrow.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/peace%20out",
+      "https://www.urbandictionary.com/define.php?term=peace%20out"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "my-bad",
+    "term": "my bad",
+    "variants": [
+      "my bad"
+    ],
+    "partOfSpeech": "interjection",
+    "definition": "Admits a small mistake.",
+    "meanings": [],
+    "plain": "my mistake",
+    "example": "my bad, I took your seat.",
+    "exampleTranslation": "My mistake, I took your seat.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "origin": "Likely from basketball and AAVE, 1980s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 2,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/my%20bad",
+      "https://www.urbandictionary.com/define.php?term=my%20bad"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "my-dude",
+    "term": "my dude",
+    "variants": [
+      "my dude"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Friendly address.",
+    "meanings": [],
+    "plain": "friend",
+    "example": "my dude, you did great.",
+    "exampleTranslation": "Friend, you did great.",
+    "tone": "positive",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=my%20dude",
+      "https://www.urbandictionary.com/define.php?term=my%20dude"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "low"
+  },
+  {
+    "id": "dude",
+    "term": "dude",
+    "variants": [
+      "dude",
+      "dudes"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Informal word for any person, mostly male, or an exclamation.",
+    "meanings": [
+      "Exclamation of surprise."
+    ],
+    "plain": "person",
+    "example": "dude, look at this!",
+    "exampleTranslation": "Hey, look at this!",
+    "tone": "neutral",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "origin": "Old US slang; popularized by surfer culture",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "established",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/dude",
+      "https://www.urbandictionary.com/define.php?term=dude"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "bling",
+    "term": "bling",
+    "variants": [
+      "bling",
+      "bling-bling"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Sparkly, showy jewelry; popularized by hip-hop.",
+    "meanings": [],
+    "plain": "flashy jewelry",
+    "example": "she wore lots of bling.",
+    "exampleTranslation": "She wore lots of flashy jewelry.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. late 1990s–2000s",
+    "origin": "AAVE and hip-hop; Cash Money Records",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/bling",
+      "https://www.urbandictionary.com/define.php?term=bling"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "fo-shizzle",
+    "term": "fo shizzle",
+    "variants": [
+      "fo shizzle",
+      "fo' shizzle",
+      "fo shizzle my nizzle"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "\"For sure,\" in a playful \"-izzle\" speech pattern popularized by Snoop Dogg in the 1990s–2000s; rooted in AAVE/hip-hop.",
+    "meanings": [],
+    "plain": "for sure",
+    "example": "fo shizzle, I will be there.",
+    "exampleTranslation": "For sure, I will be there.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s–2000s",
+    "origin": "Popularized by Snoop Dogg; AAVE-influenced hip-hop slang",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "teen",
+    "sensitiveNote": "An imitation by outsiders can seem mocking; use respectfully.",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/fo%27%20shizzle",
+      "https://www.urbandictionary.com/define.php?term=fo%20shizzle"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "chill-pill",
+    "term": "chill pill",
+    "variants": [
+      "chill pill",
+      "take a chill pill"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Humorous way to tell someone to calm down.",
+    "meanings": [
+      "Can sound dismissive."
+    ],
+    "plain": "calm down",
+    "example": "take a chill pill, it is just homework.",
+    "exampleTranslation": "Calm down, it is just homework.",
+    "tone": "sarcastic",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 1990s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/chill%20pill",
+      "https://www.urbandictionary.com/define.php?term=chill%20pill"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "the-struggle-is-real",
+    "term": "the struggle is real",
+    "variants": [
+      "the struggle is real",
+      "struggle is real"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Humorous way to say something is difficult.",
+    "meanings": [],
+    "plain": "this is truly hard",
+    "example": "waking up at six, the struggle is real.",
+    "exampleTranslation": "Waking up at six is truly hard.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "memes",
+      "emotions"
+    ],
+    "era": "Popular approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.merriam-webster.com/dictionary/struggle",
+      "https://www.urbandictionary.com/define.php?term=the%20struggle%20is%20real"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "aint-nobody-got-time-for-that",
+    "term": "ain't nobody got time for that",
+    "variants": [
+      "aint nobody got time for that",
+      "ain't nobody got time for that"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Catchphrase from a 2012 TV interview of Kimberly \"Sweet Brown\" Wilkins; expresses refusal to waste time.",
+    "meanings": [],
+    "plain": "I do not have time for that",
+    "example": "homework tonight? ain't nobody got time for that.",
+    "exampleTranslation": "Homework tonight? I do not have time for that.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popularized 2012",
+    "origin": "Viral interview with Kimberly \"Sweet Brown\" Wilkins; AAVE-influenced",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/sweet-brown-aint-nobody-got-time-for-that",
+      "https://www.urbandictionary.com/define.php?term=ain't%20nobody%20got%20time%20for%20that"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "on-the-struggle-bus",
+    "term": "on the struggle bus",
+    "variants": [
+      "on the struggle bus",
+      "struggle bus"
+    ],
+    "partOfSpeech": "phrase",
+    "definition": "Having difficulty or feeling off.",
+    "meanings": [],
+    "plain": "having a hard time",
+    "example": "I am on the struggle bus today.",
+    "exampleTranslation": "I am having a hard time today.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Approx. 2010s",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 1,
+    "difficulty": 1,
+    "status": "fading",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://www.urbandictionary.com/define.php?term=struggle%20bus",
+      "https://www.urbandictionary.com/define.php?term=on%20the%20struggle%20bus"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "lolcats",
+    "term": "lolcats",
+    "variants": [
+      "lolcats",
+      "i can haz cheezburger",
+      "can haz",
+      "i can has cheezburger"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "Funny cat photos with misspelled captions; \"I can haz cheezburger\" is the best-known one.",
+    "meanings": [],
+    "plain": "cat memes",
+    "example": "my grandpa loved lolcats.",
+    "exampleTranslation": "My grandpa loved funny cat pictures.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "outdated"
+    ],
+    "era": "Popular approx. 2007–2010",
+    "origin": "Image-board culture and the I Can Has Cheezburger? website",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/lolcats",
+      "https://www.urbandictionary.com/define.php?term=lolcats"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "high"
+  },
+  {
+    "id": "planking",
+    "term": "planking",
+    "variants": [
+      "planking",
+      "plank"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A 2010s craze of lying face down, stiff, in unusual places.",
+    "meanings": [
+      "Planking is also an exercise."
+    ],
+    "plain": "lying stiff in odd places",
+    "example": "everyone was planking in 2011.",
+    "exampleTranslation": "Everyone was lying stiffly in odd places in 2011.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "memes",
+      "outdated"
+    ],
+    "era": "Approx. 2011",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "sources": [
+      "https://knowyourmeme.com/memes/planking",
+      "https://www.urbandictionary.com/define.php?term=planking"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  },
+  {
+    "id": "harlem-shake",
+    "term": "Harlem Shake",
+    "variants": [
+      "harlem shake",
+      "the harlem shake"
+    ],
+    "partOfSpeech": "noun",
+    "definition": "A 2013 viral video trend of a calm person with others dancing wildly; different from the original Harlem dance.",
+    "meanings": [],
+    "plain": "viral dance video",
+    "example": "the Harlem Shake took over the school in 2013.",
+    "exampleTranslation": "The viral dance video trend took over the school in 2013.",
+    "tone": "playful",
+    "context": "Mostly heard as a nostalgic or joking callback today.",
+    "generations": [
+      "older-internet",
+      "millennial"
+    ],
+    "categories": [
+      "memes",
+      "outdated"
+    ],
+    "era": "Approx. 2013",
+    "origin": "Viral YouTube videos using a Baauer song; original Harlem Shake is a dance from Harlem, New York",
+    "related": [],
+    "synonyms": [],
+    "opposites": [],
+    "formality": 1,
+    "memeIntensity": 4,
+    "difficulty": 1,
+    "status": "throwback",
+    "regions": [],
+    "rating": "family",
+    "mistakes": "Not the same as the original Harlem dance style.",
+    "sources": [
+      "https://knowyourmeme.com/memes/harlem-shake",
+      "https://www.urbandictionary.com/define.php?term=Harlem%20Shake"
+    ],
+    "lastVerified": "2026-11-01",
+    "confidence": "medium"
+  }
+]
