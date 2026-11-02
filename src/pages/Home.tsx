@@ -67,8 +67,6 @@ export default function Home() {
         <div style={{ fontSize: '1.3rem', fontWeight: 600, marginTop: 6 }}>→ <Segments segments={demo.segments} /></div>
       </div>
 
-      <RosettaSection />
-
       <div className="grid three">
         <div className="card pop">
           <div className="small" style={{ fontWeight: 800 }}>📌 WORD OF THE DAY</div>
@@ -142,6 +140,8 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      <RosettaSection />
     </div>
   );
 }
