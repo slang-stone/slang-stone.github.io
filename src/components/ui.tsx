@@ -20,9 +20,9 @@ export function LogoMark({ size = 40 }: { size?: number }) {
 
 export function Logo() {
   return (
-    <a className="logo" href={href('')} aria-label="Slang Translator home">
+    <a className="logo" href={href('')} aria-label="SlangStone home">
       <LogoMark />
-      <div className="logo-word">Slang<span>Translator</span></div>
+      <div className="logo-word">Slang<span>Stone</span></div>
     </a>
   );
 }

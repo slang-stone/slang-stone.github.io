@@ -67,7 +67,7 @@ export default function Daily() {
   const best = Math.max(0, ...Object.values(p.daily).map((d) => d.score));
   const grid = answers.slice(0, done ? qs.length : 0).map((a, k) => (a !== null && qs[k].correct.includes(a) ? '🟩' : '🟥')).join('');
   const share = async () => {
-    const r = await shareText(`Slang Translator Daily ${today}\n${grid} ${score}/${qs.length}\n🔥 streak ${dailyStreak(p)}`);
+    const r = await shareText(`SlangStone Daily ${today}\n${grid} ${score}/${qs.length}\n🔥 streak ${dailyStreak(p)}`);
     if (r !== 'failed') toast(r === 'copied' ? 'Result copied — no spoilers inside' : 'Shared!');
   };
   const h = Math.floor(countdown / 3.6e6), m = Math.floor((countdown % 3.6e6) / 6e4), s = Math.floor((countdown % 6e4) / 1000);

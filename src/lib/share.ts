@@ -18,7 +18,7 @@ export async function copyText(text: string) {
 }
 
 /** Native share when available, otherwise copy. Returns what happened. */
-export async function shareText(text: string, title = 'Slang Translator'): Promise<'shared' | 'copied' | 'failed'> {
+export async function shareText(text: string, title = 'SlangStone'): Promise<'shared' | 'copied' | 'failed'> {
   if (navigator.share) {
     try {
       await navigator.share({ title, text });

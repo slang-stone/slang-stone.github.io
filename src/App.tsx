@@ -90,7 +90,7 @@ function Shell() {
 
       <div>
         <header className="topbar">
-          <a className="logo" href={href('')} aria-label="Slang Translator home"><LogoMark size={34} /><span className="logo-word" style={{ fontSize: '1.05rem' }}>Slang<span>Translator</span></span></a>
+          <a className="logo" href={href('')} aria-label="SlangStone home"><LogoMark size={34} /><span className="logo-word" style={{ fontSize: '1.05rem' }}>Slang<span>Stone</span></span></a>
           <div className="row">
             <a className="btn sm" href={href('stats')} aria-label={`Level ${lvl.level}, view stats`}>Lv {lvl.level}</a>
             <a className="btn sm" href={href('about')} aria-label="Settings and about">⚙️</a>

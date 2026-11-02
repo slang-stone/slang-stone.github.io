@@ -1,4 +1,4 @@
-/* ===== Slang Translator design tokens ===== */
+/* ===== SlangStone design tokens ===== */
 :root {
   --ink: #0d0b1e;
   --ink-2: #16132e;
@@ -123,8 +123,8 @@ p { margin: 0 0 0.8em; }
 
 /* ===== logo ===== */
 .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; color: var(--text); }
-.logo-word { font-family: var(--font-display); font-weight: 800; font-size: 1.25rem; line-height: 0.9; letter-spacing: -0.03em; }
-.logo-word span { display: block; color: var(--lime); }
+.logo-word { font-family: var(--font-display); font-weight: 800; font-size: 1.25rem; line-height: 1; letter-spacing: -0.03em; }
+.logo-word span { color: var(--lime); }
 
 /* ===== primitives ===== */
 .card {

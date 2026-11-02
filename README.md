@@ -1,4 +1,4 @@
-# Slang Translator
+# SlangStone
 
 Translate between plain English and youth slang, explore a 480-term slang dictionary, play ten slang games, take a daily challenge, and make meme cards. No account needed, and it works offline.
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Optional server for Slang Translator. Zero dependencies (Node 20+).
+// Optional server for SlangStone. Zero dependencies (Node 20+).
 //
 // - Serves the built app from ./dist
 // - /api/health                 → { ok, ai }
@@ -139,4 +139,4 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-server.listen(PORT, () => console.log(`Slang Translator server on http://localhost:${PORT} · AI ${KEY ? `on (${MODEL})` : 'off'} · admin ${ADMIN ? 'on' : 'off'}`));
+server.listen(PORT, () => console.log(`SlangStone server on http://localhost:${PORT} · AI ${KEY ? `on (${MODEL})` : 'off'} · admin ${ADMIN ? 'on' : 'off'}`));

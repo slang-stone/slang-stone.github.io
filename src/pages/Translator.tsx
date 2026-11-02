@@ -64,7 +64,7 @@ export default function Translator() {
     toast('Saved to favorites. That translation was low-key fire.');
   };
   const share = async (lead = '') => {
-    const r = await shareText(`${lead}“${text.trim()}”\n→ “${out.trim()}”\n— via Slang Translator`);
+    const r = await shareText(`${lead}“${text.trim()}”\n→ “${out.trim()}”\n— via SlangStone`);
     if (r !== 'failed') { toast(r === 'copied' ? 'Copied — ready to paste' : 'Shared!'); update((s) => ({ ...s, stats: { ...s.stats, shares: s.stats.shares + 1 } })); }
   };
   const runAI = async () => {

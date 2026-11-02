@@ -225,7 +225,7 @@ function MemeCards() {
     const top = 640 - ((lines.length - 1) * size * 1.12) / 2;
     lines.forEach((l, k) => ctx.fillText(l, W / 2, top + k * size * 1.12));
     ctx.font = '600 30px Inter, sans-serif'; ctx.globalAlpha = 0.75; ctx.textAlign = 'right';
-    ctx.fillText('made with Slang Translator', W - 50, H - 50);
+    ctx.fillText('made with SlangStone', W - 50, H - 50);
     ctx.globalAlpha = 1;
   }, [caption, th, s.emoji, img, bg, photo]);
 

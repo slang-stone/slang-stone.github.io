@@ -129,7 +129,7 @@ function Challenge({ items, direction }: { items: ChallengeItem[]; direction: 'e
   const nextItem = () => { setI(i + 1); setText(''); setBuilt([]); setResult(null); setAiNote(null); };
   const shareCard = async () => {
     if (!result) return;
-    const r = await shareText(`📝 Rate my translation\n“${item.prompt}” → “${answer}”\nScore: ${result.total}/100 · ${result.total >= 80 ? 'Certified no-cap translation ✅' : result.total >= 50 ? 'Low-key valid' : 'Cooked but learning 🍳'}\n— Slang Translator`);
+    const r = await shareText(`📝 Rate my translation\n“${item.prompt}” → “${answer}”\nScore: ${result.total}/100 · ${result.total >= 80 ? 'Certified no-cap translation ✅' : result.total >= 50 ? 'Low-key valid' : 'Cooked but learning 🍳'}\n— SlangStone`);
     if (r !== 'failed') toast(r === 'copied' ? 'Copied your result card' : 'Shared!');
   };
 

@@ -107,7 +107,7 @@ export function GameShell({ id, title, emoji, accent, tagline, howTo, timed, pla
             <button className="btn primary" onClick={start}>Play again</button>
             <button className="btn" onClick={() => setPhase('setup')}>Change settings</button>
             <button className="btn" onClick={async () => {
-              const r = await shareText(`${emoji} ${title}: ${result.score} pts (${result.correct}/${result.total}) on Slang Translator. Bet you can't beat it.`);
+              const r = await shareText(`${emoji} ${title}: ${result.score} pts (${result.correct}/${result.total}) on SlangStone. Bet you can't beat it.`);
               if (r !== 'failed') { toast(r === 'copied' ? 'Score copied — go flex it' : 'Shared!'); }
             }}>Share score</button>
           </div>
